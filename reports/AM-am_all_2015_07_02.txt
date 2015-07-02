@@ -1,0 +1,523 @@
+Report for Institution Code AM, Resource am_all
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 631
+Number of records retrieved in searches: 23427
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Australia ; Times: 11
+	Country: Austria ; Times: 1
+	Country: Brazil ; Times: 22
+	Country: Canada ; Times: 8
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 6
+	Country: Denmark ; Times: 19
+	Country: France ; Times: 4
+	Country: Germany ; Times: 15
+	Country: India ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Japan ; Times: 3
+	Country: Mexico ; Times: 24
+	Country: Panama ; Times: 2
+	Country: Romania ; Times: 4
+	Country: Russia ; Times: 9
+	Country: Spain ; Times: 15
+	Country: Ukraine ; Times: 1
+	Country: United Kingdom ; Times: 26
+	Country: United States ; Times: 410
+	Country: Unknown ; Times: 35
+	Country: Venezuela ; Times: 3
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 23
+	Date: 2015-06-02 ; Times: 28
+	Date: 2015-06-03 ; Times: 22
+	Date: 2015-06-04 ; Times: 33
+	Date: 2015-06-05 ; Times: 23
+	Date: 2015-06-06 ; Times: 3
+	Date: 2015-06-07 ; Times: 21
+	Date: 2015-06-08 ; Times: 41
+	Date: 2015-06-09 ; Times: 52
+	Date: 2015-06-10 ; Times: 34
+	Date: 2015-06-11 ; Times: 39
+	Date: 2015-06-12 ; Times: 19
+	Date: 2015-06-13 ; Times: 10
+	Date: 2015-06-14 ; Times: 7
+	Date: 2015-06-15 ; Times: 19
+	Date: 2015-06-16 ; Times: 20
+	Date: 2015-06-17 ; Times: 31
+	Date: 2015-06-18 ; Times: 24
+	Date: 2015-06-19 ; Times: 31
+	Date: 2015-06-20 ; Times: 5
+	Date: 2015-06-21 ; Times: 10
+	Date: 2015-06-22 ; Times: 16
+	Date: 2015-06-23 ; Times: 12
+	Date: 2015-06-24 ; Times: 21
+	Date: 2015-06-25 ; Times: 24
+	Date: 2015-06-26 ; Times: 11
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-28 ; Times: 5
+	Date: 2015-06-29 ; Times: 25
+	Date: 2015-06-30 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 2
+	Query: "Dromaius novaehollandiae" ; Times: 2
+	Query: "phalacrocorax carbo" ; Times: 3
+	Query: "Elseya latisternum" ; Times: 2
+	Query: "180204" ; Times: 1
+	Query: "Macaca fascicularis" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "Myzomela eques" ; Times: 1
+	Query: "Brown" ; Times: 1
+	Query: "enhydrina" ; Times: 2
+	Query: "decapterus macarellus" ; Times: 1
+	Query: "Ptilinopus solomonensis" ; Times: 7
+	Query: "catalognumber:84696" ; Times: 1
+	Query: "dasyornis longirostris" ; Times: 3
+	Query: "Kelp Gull" ; Times: 2
+	Query: "manis" ; Times: 1
+	Query: "platybelone argalus" ; Times: 1
+	Query: "mammalia 43141" ; Times: 1
+	Query: "45253 class:aves" ; Times: 1
+	Query: "180200" ; Times: 1
+	Query: "mlg" ; Times: 1
+	Query: "Manorina flavigula" ; Times: 1
+	Query: "Puffinus griseus" ; Times: 1
+	Query: "higgins" ; Times: 1
+	Query: "country:"Panama"" ; Times: 2
+	Query: "type:specimen class:aves catalognumber:14366" ; Times: 1
+	Query: "genus:ctenotus" ; Times: 1
+	Query: "gull rock" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Canis lupus" ; Times: 4
+	Query: "mammalia 10757" ; Times: 1
+	Query: "Coracina tenuirostris" ; Times: 7
+	Query: "panama" ; Times: 2
+	Query: "black-chinned" ; Times: 1
+	Query: "class:aves recordedby:dion" ; Times: 2
+	Query: "bird" ; Times: 5
+	Query: "kikori" ; Times: 1
+	Query: "Royal ontario museum" ; Times: 1
+	Query: "Lichenostomus subfrenatus" ; Times: 1
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "5675" ; Times: 1
+	Query: "wood thrush" ; Times: 1
+	Query: "belize" ; Times: 1
+	Query: "BLB" ; Times: 1
+	Query: "gerygone magnirostris" ; Times: 2
+	Query: "oman" ; Times: 2
+	Query: "eonycteris spelaea" ; Times: 3
+	Query: "catalognumber:125769" ; Times: 1
+	Query: "Kuwait" ; Times: 1
+	Query: "sicily" ; Times: 2
+	Query: "117737" ; Times: 1
+	Query: "canis" ; Times: 2
+	Query: "specificepithet:septemcinctus genus:Dasypus" ; Times: 1
+	Query: "ruficollis calidris class:aves" ; Times: 1
+	Query: "lima" ; Times: 1
+	Query: "Sphenomorphus aignanus" ; Times: 1
+	Query: "institutioncode:am" ; Times: 1
+	Query: "frog" ; Times: 2
+	Query: "35696" ; Times: 4
+	Query: "distance(location,geopoint(38.01924721063229,-97.822265625))<100000" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "Adelaide type:specimen" ; Times: 3
+	Query: "137167" ; Times: 1
+	Query: "cat" ; Times: 1
+	Query: "Meliphaga analoga" ; Times: 1
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "shark" ; Times: 1
+	Query: "india" ; Times: 1
+	Query: "manorina melanotis" ; Times: 3
+	Query: "species" ; Times: 2
+	Query: "161927" ; Times: 1
+	Query: "coris gaimard" ; Times: 3
+	Query: "geophaps" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 2
+	Query: "119799" ; Times: 1
+	Query: "otariidae" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 2
+	Query: "catalognumber:86190" ; Times: 1
+	Query: "cardinal" ; Times: 4
+	Query: "animal" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:blainvillii genus:phrynosoma" ; Times: 1
+	Query: "64392" ; Times: 1
+	Query: "cavia" ; Times: 2
+	Query: "cleveland museum" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "Cascades frog" ; Times: 1
+	Query: "174682" ; Times: 1
+	Query: "174683" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(0.7909904981540058,-32.5634765625))<100000" ; Times: 1
+	Query: "174687" ; Times: 1
+	Query: "174688" ; Times: 1
+	Query: "Myzomela nigrita" ; Times: 1
+	Query: "auburn" ; Times: 1
+	Query: "colo" ; Times: 1
+	Query: "Myzomela malaitae" ; Times: 1
+	Query: "institutioncode:am Platycercus tasmania" ; Times: 1
+	Query: "type:specimen (cetacea)" ; Times: 3
+	Query: "tuberculatus" ; Times: 1
+	Query: "modestus" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 2
+	Query: "class:Mammalia mappable:1" ; Times: 1
+	Query: "catalognumber:38682" ; Times: 1
+	Query: "genus:grus year >= 1977" ; Times: 1
+	Query: "myzomela malaitae" ; Times: 2
+	Query: "Jordan" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "texas" ; Times: 1
+	Query: "kansas university" ; Times: 2
+	Query: "catalognumber:88978" ; Times: 1
+	Query: "Platypus" ; Times: 3
+	Query: "year >= 1990 year <= 2015" ; Times: 2
+	Query: "chiroptera mappable:1" ; Times: 1
+	Query: "Lichenostomus obscurus" ; Times: 1
+	Query: "sardinops sagax" ; Times: 1
+	Query: "conopophila whitei" ; Times: 1
+	Query: "gray tree frog" ; Times: 1
+	Query: "cygnus" ; Times: 2
+	Query: "Epinephelidae type:specimen" ; Times: 1
+	Query: "class:Mammalia mandrillus leucophaeus" ; Times: 1
+	Query: "4487" ; Times: 1
+	Query: "130976" ; Times: 2
+	Query: "specificepithet:villosus genus:Chaetophractus" ; Times: 1
+	Query: "vipera" ; Times: 1
+	Query: "sandhill" ; Times: 1
+	Query: "(skadar)" ; Times: 1
+	Query: "130658" ; Times: 1
+	Query: "Ptiloprora guisei" ; Times: 1
+	Query: "mammalia" ; Times: 7
+	Query: "passer domesticus" ; Times: 1
+	Query: "anura" ; Times: 3
+	Query: "30684" ; Times: 1
+	Query: "Myzomela eichhorni" ; Times: 1
+	Query: "Mabuya longicaudata" ; Times: 2
+	Query: "Diomedeidae" ; Times: 2
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "Poephila acuticauda" ; Times: 2
+	Query: "Philemon diemenensis" ; Times: 1
+	Query: "Prosthemadera novaeseelandiae" ; Times: 1
+	Query: "Canis aureus" ; Times: 2
+	Query: "United States" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "Varanus" ; Times: 1
+	Query: "Pristis pristis" ; Times: 1
+	Query: "catalognumber:49434" ; Times: 1
+	Query: "catalognumber:120059" ; Times: 1
+	Query: "Rhacophorus appendiculatus" ; Times: 1
+	Query: "type:specimen mappable:1" ; Times: 1
+	Query: "torquata" ; Times: 1
+	Query: "129469" ; Times: 1
+	Query: "161912" ; Times: 1
+	Query: "plectroglyphidodon imparipennis" ; Times: 2
+	Query: "H.A. Brown" ; Times: 1
+	Query: "124336" ; Times: 1
+	Query: "rana" ; Times: 1
+	Query: "neglecta" ; Times: 1
+	Query: "Red-crowned toadlet" ; Times: 1
+	Query: "Gymnomyza aubryana" ; Times: 1
+	Query: "Rhynochetos jubatus" ; Times: 3
+	Query: "Melidectes rufocrissalis" ; Times: 1
+	Query: "year >= 2000 year <= 2015" ; Times: 2
+	Query: "aves" ; Times: 2
+	Query: "(queensland)" ; Times: 2
+	Query: "R" ; Times: 1
+	Query: "red crowned toadlet" ; Times: 1
+	Query: "44801" ; Times: 1
+	Query: "mappable:1" ; Times: 7
+	Query: "catalognumber:51493" ; Times: 1
+	Query: "KU" ; Times: 1
+	Query: "lipinia" ; Times: 1
+	Query: "pervagor aspricaudus" ; Times: 6
+	Query: "superb lyrebird" ; Times: 1
+	Query: "luzon" ; Times: 1
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "NMB 037" ; Times: 3
+	Query: "H. A. Brown" ; Times: 1
+	Query: "45243 class:aves" ; Times: 1
+	Query: "Melidectes belfordi" ; Times: 1
+	Query: "bufo" ; Times: 4
+	Query: "year >= 185 year <= 1860" ; Times: 1
+	Query: "Hypsilurus spinipes" ; Times: 6
+	Query: "brazil" ; Times: 2
+	Query: "12956" ; Times: 2
+	Query: "snapping turtle" ; Times: 2
+	Query: "137212" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 2
+	Query: "bull frog" ; Times: 1
+	Query: "Ptiloprora perstriata" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "viburnum" ; Times: 1
+	Query: "type:specimen" ; Times: 3
+	Query: "Bufonidae" ; Times: 1
+	Query: "Oceanodroma" ; Times: 1
+	Query: "Canis" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 2
+	Query: "pristis pristis" ; Times: 7
+	Query: "myzomela" ; Times: 1
+	Query: "distance(location,geopoint(35.39513952947841,15.380859375))<144859" ; Times: 1
+	Query: "nmb 37" ; Times: 1
+	Query: "nmb 38" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 2
+	Query: "type:specimen catalognumber:62250" ; Times: 1
+	Query: "catalognumber:35012" ; Times: 3
+	Query: "rattus rattus" ; Times: 1
+	Query: "bahrain" ; Times: 1
+	Query: "leopard frog" ; Times: 1
+	Query: "rupicola" ; Times: 1
+	Query: "ADAB class:aves" ; Times: 1
+	Query: "inornata" ; Times: 1
+	Query: "vertnet" ; Times: 1
+	Query: "myiagra alecto" ; Times: 2
+	Query: "Python curtus" ; Times: 4
+	Query: "Paranotothenia magellanica" ; Times: 3
+	Query: "ziphiidae" ; Times: 1
+	Query: "python spilota type:specimen" ; Times: 2
+	Query: "Myzomela cardinalis" ; Times: 1
+	Query: "aspidomorphus" ; Times: 3
+	Query: "Meliphaga mimikae" ; Times: 1
+	Query: "Bolivia" ; Times: 1
+	Query: "decussatus" ; Times: 3
+	Query: "Callipepla californica year >= 1990 year <= 2015" ; Times: 1
+	Query: "ovis orientalis" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 2
+	Query: "Melipotes fumigatus" ; Times: 1
+	Query: "specificepithet:laevis" ; Times: 1
+	Query: "ornatissimus" ; Times: 1
+	Query: "year >= 1995 year <= 2015 mappable:1" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 15
+	Query: "institutioncode:am Geoffroyus" ; Times: 3
+	Query: "cow" ; Times: 2
+	Query: "Kane" ; Times: 1
+	Query: "s" ; Times: 2
+	Query: "harvard" ; Times: 2
+	Query: "Morelia" ; Times: 2
+	Query: "specificepithet:uncia" ; Times: 3
+	Query: "thalassoma trilobatum" ; Times: 2
+	Query: "vulpes vulpes" ; Times: 2
+	Query: "turkey" ; Times: 1
+	Query: "myxini" ; Times: 1
+	Query: "Rhinoptera" ; Times: 1
+	Query: "Vidua" ; Times: 3
+	Query: "species india mappable:1" ; Times: 1
+	Query: "persimilis" ; Times: 1
+	Query: "oxyporhamphus micropterus" ; Times: 1
+	Query: "distance(location,geopoint(52.64306343665892,177.451171875))<220869.09172528036" ; Times: 1
+	Query: "CM" ; Times: 1
+	Query: "python viridis" ; Times: 2
+	Query: "vidua" ; Times: 2
+	Query: "tiger" ; Times: 1
+	Query: "9868" ; Times: 1
+	Query: "12243" ; Times: 1
+	Query: "tadorna tadorna" ; Times: 3
+	Query: "catalognumber:57526" ; Times: 1
+	Query: "Hypsilurus" ; Times: 2
+	Query: "24814" ; Times: 1
+	Query: "spinosa" ; Times: 2
+	Query: "Harrison" ; Times: 2
+	Query: "robin" ; Times: 1
+	Query: "Estrilda astrild" ; Times: 1
+	Query: "Meliphaga albonotata" ; Times: 1
+	Query: "aphelocephala pectoralis" ; Times: 1
+	Query: "mako" ; Times: 1
+	Query: "year >= 1850 year <= 1860" ; Times: 1
+	Query: "bird bags" ; Times: 1
+	Query: "terraereginae" ; Times: 1
+	Query: "Meliphaga aruensis" ; Times: 1
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "grey owl" ; Times: 4
+	Query: "national museum of natural history" ; Times: 1
+	Query: "Litoria distance(location,geopoint(-5.5066396743548855,143.624267578125))<100000" ; Times: 2
+	Query: "19720" ; Times: 1
+	Query: "(Mono)" ; Times: 1
+	Query: "parahydrophis" ; Times: 1
+	Query: "oman apogonidae" ; Times: 1
+	Query: "Melilestes megarhynchus" ; Times: 1
+	Query: "western ghat" ; Times: 2
+	Query: "mus musculus" ; Times: 1
+	Query: "catalognumber:130387" ; Times: 1
+	Query: "catalognumber:130386" ; Times: 1
+	Query: "planiceps" ; Times: 2
+	Query: "snake" ; Times: 2
+	Query: "macaque" ; Times: 1
+	Query: "chromis agilis" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "catalognumber:35017" ; Times: 1
+	Query: "gorsachius melanolophus" ; Times: 2
+	Query: "Cowan" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "leadville" ; Times: 1
+	Query: "(skeleton)" ; Times: 3
+	Query: "Hyomys dammermani" ; Times: 1
+	Query: "kingdom" ; Times: 1
+	Query: "Canis lupus dingo" ; Times: 1
+	Query: "squatina" ; Times: 2
+	Query: ""1520"" ; Times: 1
+	Query: "type:specimen (Cephalopholis)" ; Times: 1
+	Query: "Meliarchus sclateri" ; Times: 1
+	Query: "United Arab Emirates" ; Times: 1
+	Query: "91447" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "python type:specimen" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(-3.2502085616531686,-62.7978515625))<944938" ; Times: 1
+	Query: "cleveland" ; Times: 1
+	Query: "Rhipidura rufifrons" ; Times: 1
+	Query: "Butorides" ; Times: 1
+	Query: "bonariensis brazil" ; Times: 1
+	Query: "Vietnam" ; Times: 1
+	Query: "melanocharis arfakiana" ; Times: 1
+	Query: "Newfoundland" ; Times: 1
+	Query: "3778 class:aves" ; Times: 2
+	Query: "ok" ; Times: 1
+	Query: "Red-crown toadlet" ; Times: 1
+	Query: "Carcharodon" ; Times: 1
+	Query: "coral" ; Times: 3
+	Query: "gerygone insularis" ; Times: 1
+	Query: "pacificus" ; Times: 1
+	Query: "western vertebrate museum" ; Times: 1
+	Query: "year >= 1960 year <= 2015" ; Times: 1
+	Query: "country:"united states"" ; Times: 2
+	Query: "reptile" ; Times: 2
+	Query: "hypsilurus modestus" ; Times: 1
+	Query: "Tropidonophis statisticus" ; Times: 2
+	Query: "Hybrid" ; Times: 1
+	Query: "Meliphaga montana" ; Times: 1
+	Query: "spizella passerina class:aves" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "MELIDECTES rufocrissalis" ; Times: 1
+	Query: "134776" ; Times: 1
+	Query: "ephalophis" ; Times: 1
+	Query: "scorpaenopsis diabolus" ; Times: 1
+	Query: "222" ; Times: 4
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: "Galemys pyrenaicus" ; Times: 2
+	Query: "Myzomela tristrami" ; Times: 1
+	Query: "Hylophorbus rufescens" ; Times: 2
+	Query: "112895" ; Times: 3
+	Query: "Chiroptera" ; Times: 1
+	Query: "class:Mammalia" ; Times: 80
+	Query: "rynchops" ; Times: 2
+	Query: "Gecko" ; Times: 1
+	Query: "western museum of vertebrate zoology" ; Times: 1
+	Query: "septentrionalis" ; Times: 1
+	Query: "161896" ; Times: 1
+	Query: "britain" ; Times: 1
+	Query: "Andaman" ; Times: 1
+	Query: "specificepithet:platurus genus:Pelamis" ; Times: 1
+	Query: "mole" ; Times: 1
+	Query: "flaviventer" ; Times: 1
+	Query: "snailfish" ; Times: 1
+	Query: "melipotes" ; Times: 1
+	Query: "04/11/1886" ; Times: 1
+	Query: "institutioncode:am Platycercus" ; Times: 2
+	Query: "stateprovince:"California"" ; Times: 1
+	Query: "scorpaenidae" ; Times: 1
+	Query: "Big bear" ; Times: 1
+	Query: "Lichmera incana" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "arctocephalus townsendi" ; Times: 1
+	Query: "46590" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1524 download events in this period)
+Total number of records downloaded: 1202 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1193
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 1
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-05 ; Times: 2
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-09 ; Times: 3
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-12 ; Times: 1
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 10
+	Date: 2015-06-17 ; Times: 7
+	Date: 2015-06-18 ; Times: 2
+	Date: 2015-06-19 ; Times: 2
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-25 ; Times: 2
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "myzomela" ; Times: 1
+	Query: "ziphiidae" ; Times: 1
+	Query: "Kuwait" ; Times: 1
+	Query: "black-legged kittiwake type:specimen" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "country:"United States" genus:Ictalurus" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "enhydrina" ; Times: 1
+	Query: "Coracina tenuirostris" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 2
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "arctocephalus townsendi" ; Times: 1
+	Query: "country:"United States" genus:ictalurus" ; Times: 1
+	Query: "bahrain" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Canis aureus" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "parahydrophis" ; Times: 2
+	Query: ""chelonia mydas"" ; Times: 1
+	Query: "oman" ; Times: 1
+	Query: "United Arab Emirates" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "yemen" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2048
+Total number of records retrieved from searches: 82994
+Number of download events that retrieved data from the resource: 247
+Total number of records downloaded: 222798
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2487
+Total number of records retrieved from searches: 107830
+Number of download events that retrieved data from the resource: 247
+Total number of records downloaded: 222798
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
