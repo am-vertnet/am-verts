@@ -1,0 +1,662 @@
+Report for Institution Code AM, Resource am_all
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 770
+Number of records retrieved in searches: 23466
+Number of different countries where searches have been originated: 30
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 18
+	Country: Austria ; Times: 2
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 6
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 7
+	Country: Czech Republic ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: Dominican Republic ; Times: 1
+	Country: Finland ; Times: 1
+	Country: France ; Times: 14
+	Country: Germany ; Times: 36
+	Country: Guatemala ; Times: 9
+	Country: Hungary ; Times: 1
+	Country: India ; Times: 1
+	Country: Italy ; Times: 14
+	Country: Japan ; Times: 5
+	Country: Kenya ; Times: 1
+	Country: Malaysia ; Times: 2
+	Country: Mexico ; Times: 27
+	Country: Netherlands ; Times: 12
+	Country: Poland ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Russia ; Times: 135
+	Country: South Africa ; Times: 8
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 7
+	Country: United Kingdom ; Times: 16
+	Country: United States ; Times: 418
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 13
+	Date: 2015-07-02 ; Times: 30
+	Date: 2015-07-03 ; Times: 12
+	Date: 2015-07-04 ; Times: 5
+	Date: 2015-07-05 ; Times: 16
+	Date: 2015-07-06 ; Times: 39
+	Date: 2015-07-07 ; Times: 20
+	Date: 2015-07-08 ; Times: 54
+	Date: 2015-07-09 ; Times: 40
+	Date: 2015-07-10 ; Times: 18
+	Date: 2015-07-11 ; Times: 5
+	Date: 2015-07-12 ; Times: 8
+	Date: 2015-07-13 ; Times: 33
+	Date: 2015-07-14 ; Times: 34
+	Date: 2015-07-15 ; Times: 59
+	Date: 2015-07-16 ; Times: 23
+	Date: 2015-07-17 ; Times: 21
+	Date: 2015-07-18 ; Times: 16
+	Date: 2015-07-19 ; Times: 16
+	Date: 2015-07-20 ; Times: 25
+	Date: 2015-07-21 ; Times: 25
+	Date: 2015-07-22 ; Times: 54
+	Date: 2015-07-23 ; Times: 28
+	Date: 2015-07-24 ; Times: 25
+	Date: 2015-07-25 ; Times: 12
+	Date: 2015-07-26 ; Times: 21
+	Date: 2015-07-27 ; Times: 36
+	Date: 2015-07-28 ; Times: 30
+	Date: 2015-07-29 ; Times: 16
+	Date: 2015-07-30 ; Times: 21
+	Date: 2015-07-31 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "bufonidae" ; Times: 1
+	Query: "trachinotus botla" ; Times: 1
+	Query: "Elephant" ; Times: 1
+	Query: "specificepithet:caurinus genus:Notoryctes" ; Times: 1
+	Query: "catalognumber:96307" ; Times: 1
+	Query: "dasyornis longirostris" ; Times: 2
+	Query: "amblyeleotris triguttata" ; Times: 2
+	Query: "calidris canutus" ; Times: 4
+	Query: "coryogalops tessellatus" ; Times: 2
+	Query: "diodon liturosus" ; Times: 2
+	Query: "CANIS" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "carangoides praeustus" ; Times: 1
+	Query: "Cape Barren Island" ; Times: 1
+	Query: "spizella pusilla" ; Times: 1
+	Query: "genus:Tachyglossus year >= 1975 year <= 2015" ; Times: 3
+	Query: "tardoore" ; Times: 1
+	Query: "country:"czech republic"" ; Times: 3
+	Query: "cladorhynchus" ; Times: 2
+	Query: "lochinvar" ; Times: 2
+	Query: "Acrobatidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "abc" ; Times: 1
+	Query: "recordedby:G. F. year <= 1900" ; Times: 2
+	Query: "naucrates gulf" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "eumicrotremus orbis" ; Times: 2
+	Query: "alectis indica gulf" ; Times: 1
+	Query: "bird" ; Times: 2
+	Query: "mussels" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "antennablennius bifilum" ; Times: 1
+	Query: "country:"South Africa" year >= 1000 year <= 2016 mappable:1 distance(location,geopoint(-14.264383087562635,20.54443359375))<1178525.4307352847" ; Times: 1
+	Query: "Scincidae" ; Times: 2
+	Query: "china" ; Times: 1
+	Query: "thryssa setirostris" ; Times: 3
+	Query: "catalognumber:164049" ; Times: 1
+	Query: "BLB" ; Times: 1
+	Query: "millward" ; Times: 1
+	Query: "amblyeleotris sungami" ; Times: 1
+	Query: "Pharomachrus mocinno type:specimen" ; Times: 2
+	Query: "Eupleridae" ; Times: 2
+	Query: "Ptiloris" ; Times: 1
+	Query: "62346" ; Times: 1
+	Query: "33940" ; Times: 1
+	Query: "class:Reptilia catalognumber:25008" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "95741" ; Times: 1
+	Query: "Cape Barren Island 1909" ; Times: 1
+	Query: "Inglis" ; Times: 1
+	Query: "institutioncode:am" ; Times: 7
+	Query: "Cucullatus" ; Times: 1
+	Query: "copperhead" ; Times: 1
+	Query: "gobiidae oman" ; Times: 1
+	Query: "Pygopus Western Australia" ; Times: 1
+	Query: "reptilia" ; Times: 3
+	Query: "carangoides plagiotaenia" ; Times: 1
+	Query: "month:12 year:1963 day:8" ; Times: 1
+	Query: "1436" ; Times: 1
+	Query: "sargocentron macrosquamis" ; Times: 4
+	Query: "lobodon carcinophagus" ; Times: 7
+	Query: "Chaetophractus villosus" ; Times: 2
+	Query: "ulua mentalis gulf" ; Times: 2
+	Query: "PTEROPODIDAE year >= 2013 year <= 2015" ; Times: 1
+	Query: "john country:"australia"" ; Times: 1
+	Query: "UCLA" ; Times: 1
+	Query: "class:aves" ; Times: 3
+	Query: "Oreophryne" ; Times: 1
+	Query: "cynoglossus arel" ; Times: 1
+	Query: "parablennius opercularis" ; Times: 1
+	Query: "Oreophryne brachypus" ; Times: 1
+	Query: "Boleophthalmus dussumieri" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "Giraffidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "amoya gulf" ; Times: 1
+	Query: "carangoides fulvoguttatus" ; Times: 1
+	Query: "73644" ; Times: 1
+	Query: "erythrocles schlegelii" ; Times: 2
+	Query: "species" ; Times: 1
+	Query: "siren" ; Times: 1
+	Query: "forest" ; Times: 1
+	Query: "Hypsiprymnodontidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "155329" ; Times: 1
+	Query: ""aves"" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Lizard" ; Times: 1
+	Query: "country:"mexico"" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "country:"mexico" mappable:1" ; Times: 2
+	Query: "Thylacomyidae" ; Times: 1
+	Query: "127639 type:specimen" ; Times: 2
+	Query: "91707" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "laevigatus" ; Times: 1
+	Query: "selaroides gulf" ; Times: 1
+	Query: "8767" ; Times: 1
+	Query: "lobulogobius omanensis" ; Times: 1
+	Query: "class:Mammalia megaptera novaeangliae" ; Times: 2
+	Query: "Centriscus gulf" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(38.0088777177206,-122.31199264526367))<100000" ; Times: 1
+	Query: "Regina" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "reptile" ; Times: 1
+	Query: "alepes melanoptera" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "monitor" ; Times: 2
+	Query: "country:"Mexico"" ; Times: 2
+	Query: "Sphenodon" ; Times: 1
+	Query: "queketti" ; Times: 1
+	Query: "myron richardsonii" ; Times: 1
+	Query: "stateprovince:"California" country:"United States"" ; Times: 1
+	Query: "genus:Eubalaena year >= 1975 year <= 2015" ; Times: 1
+	Query: "tier country:"australia"" ; Times: 2
+	Query: "sterna dougallii" ; Times: 9
+	Query: "genus:Phalacrocorax year >= 1909" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "155398" ; Times: 1
+	Query: "pulcherrimus" ; Times: 1
+	Query: "dingo" ; Times: 1
+	Query: "country:"South Africa" year >= 1000 year <= 2016 distance(location,geopoint(-14.093957177836224,24.41162109375))<1427249.369099956" ; Times: 1
+	Query: "Chaetorhynchus papuensis" ; Times: 1
+	Query: "Pygmy hog" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "nealotus tripes" ; Times: 1
+	Query: "vipera" ; Times: 2
+	Query: "specificepithet:matambuai genus:Melomys" ; Times: 4
+	Query: "Mouse" ; Times: 2
+	Query: "carlia rubrigularis" ; Times: 1
+	Query: "fish" ; Times: 1
+	Query: "coracina papuensis" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "lipocheilus" ; Times: 1
+	Query: "dactyloptena orientalis gulf" ; Times: 1
+	Query: "parablennius pilicornis" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "Vombatidae year >= 1975 year <= 2015" ; Times: 2
+	Query: "parascorpaena mossambica" ; Times: 4
+	Query: "specificepithet:mollis genus:Paramelomys" ; Times: 4
+	Query: "hippopotamus" ; Times: 1
+	Query: "year >= 1431 year <= 1431" ; Times: 1
+	Query: "Asterorhombus gulf" ; Times: 1
+	Query: "anura" ; Times: 1
+	Query: "95649" ; Times: 1
+	Query: "Poecilia" ; Times: 3
+	Query: "escualosa thoracata gulf" ; Times: 1
+	Query: "14299" ; Times: 4
+	Query: "genus:phalacrocorax year >= 1948" ; Times: 1
+	Query: "5851" ; Times: 1
+	Query: "(forest)" ; Times: 1
+	Query: "arizona" ; Times: 1
+	Query: "aiken elapidae" ; Times: 1
+	Query: "alcedinidae" ; Times: 1
+	Query: "base" ; Times: 1
+	Query: "plagiotremus" ; Times: 2
+	Query: "apogon gularis" ; Times: 3
+	Query: "Thylacomyidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "paradisaea" ; Times: 1
+	Query: "Amphibia" ; Times: 2
+	Query: "chilomycterus reticulatus" ; Times: 1
+	Query: "hetereleotris zonatus" ; Times: 1
+	Query: "centriscus scutatus" ; Times: 1
+	Query: "albatross" ; Times: 1
+	Query: "country:"Egypt" AND (NOT UMMZ) year >= 1984 year <= 1984" ; Times: 1
+	Query: "hypsilurus longii" ; Times: 1
+	Query: "enigmaticus" ; Times: 1
+	Query: "Gnathanodon gulf" ; Times: 1
+	Query: "Pedioplanis namaquensis" ; Times: 1
+	Query: "scutulatus" ; Times: 1
+	Query: "chrysochloridae" ; Times: 1
+	Query: "Laura" ; Times: 1
+	Query: "pristis pectinata" ; Times: 3
+	Query: "Centropus" ; Times: 1
+	Query: "country:"South Africa" year >= 1000 year <= 2016 distance(location,geopoint(-14.264383087562635,20.54443359375))<1178525.4307352847" ; Times: 1
+	Query: "cynoglossus bilineatus gulf" ; Times: 2
+	Query: "cordylidae namaquensis" ; Times: 1
+	Query: "anomalus" ; Times: 1
+	Query: "Dugongidae year >= 1978 year <= 2015" ; Times: 3
+	Query: "crocodylia" ; Times: 1
+	Query: "year >= 2000 year <= 2015" ; Times: 1
+	Query: "chaetodon auriga gulf" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "specificepithet:vandeuseni genus:Rattus" ; Times: 2
+	Query: "rhinocerotidae" ; Times: 1
+	Query: "year >= 1999 year <= 2015" ; Times: 1
+	Query: "williamsi" ; Times: 1
+	Query: "iguana iguana" ; Times: 2
+	Query: "arnoglossus aspilos" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 2
+	Query: "45870" ; Times: 1
+	Query: "aves" ; Times: 3
+	Query: "field 96440" ; Times: 2
+	Query: "genus:phalacrocorax" ; Times: 1
+	Query: "hyla" ; Times: 1
+	Query: "antennablennius" ; Times: 1
+	Query: "mappable:1" ; Times: 5
+	Query: "pellona ditchela" ; Times: 2
+	Query: "california snake" ; Times: 1
+	Query: "catalognumber:127640" ; Times: 2
+	Query: "Gehyra vorax" ; Times: 1
+	Query: "field museum" ; Times: 1
+	Query: "Ctenophorus maculatus" ; Times: 2
+	Query: "genus:Phalacrocorax year >= 1978" ; Times: 1
+	Query: "chascanopsetta" ; Times: 1
+	Query: "class:aves recordedby:richardson year <= 1904" ; Times: 1
+	Query: "sardinella sindensis" ; Times: 1
+	Query: "genus:phalacrocorax year >= 1909" ; Times: 1
+	Query: "specificepithet:muscinus genus:Hipposideros" ; Times: 3
+	Query: "24633" ; Times: 1
+	Query: "155432" ; Times: 1
+	Query: "xenisthmus" ; Times: 1
+	Query: "100263" ; Times: 1
+	Query: "shark" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 21
+	Query: "Megalaspis gulf" ; Times: 1
+	Query: "hydrurga" ; Times: 1
+	Query: "Kubor Range" ; Times: 1
+	Query: "type:specimen year <= 2015" ; Times: 1
+	Query: "Hemiramphus marginatus" ; Times: 1
+	Query: "distance(location,geopoint(38.624381089751544,-123.19244384765625))<100000" ; Times: 1
+	Query: "omobranchus punctatus" ; Times: 2
+	Query: "class:Reptilia catalognumber:162155" ; Times: 1
+	Query: "urn" ; Times: 1
+	Query: "Megalaspis" ; Times: 1
+	Query: "142880 type:specimen" ; Times: 1
+	Query: "FROG" ; Times: 1
+	Query: "AM-O.20641" ; Times: 1
+	Query: "mammoth" ; Times: 1
+	Query: "acanthis flammea" ; Times: 1
+	Query: "Scartelaos tenuis" ; Times: 1
+	Query: "pulchellus" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "pristis pristis" ; Times: 2
+	Query: "chirocentrus gulf" ; Times: 1
+	Query: "chirocentrus dorab" ; Times: 1
+	Query: "hypsilurus" ; Times: 9
+	Query: "genus:Myrmecobius" ; Times: 2
+	Query: "gobiomorus maculatus" ; Times: 1
+	Query: "regalecus" ; Times: 1
+	Query: "14470" ; Times: 2
+	Query: "parahydrophis mertoni" ; Times: 2
+	Query: "house sparrow" ; Times: 1
+	Query: "Bufo marinus" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "genus:Miniopterus year >= 1975 year <= 2015" ; Times: 1
+	Query: "2464" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "42291" ; Times: 1
+	Query: "ogmodon vitianus" ; Times: 6
+	Query: "carangoides equula" ; Times: 2
+	Query: "wellsi" ; Times: 1
+	Query: "Viverridae" ; Times: 2
+	Query: "muntiacus" ; Times: 2
+	Query: "dactyloptena gulf" ; Times: 2
+	Query: "cheilodipterus lineatus" ; Times: 1
+	Query: "bat" ; Times: 3
+	Query: "Cardinalis cardinalis" ; Times: 3
+	Query: "catalognumber:96258" ; Times: 1
+	Query: "institutioncode:am Calyptorhynchus lathami" ; Times: 1
+	Query: "apogon queketti" ; Times: 1
+	Query: "amphibia" ; Times: 1
+	Query: "Boleophthalmus" ; Times: 1
+	Query: "alepes vari" ; Times: 1
+	Query: "class:Reptilia catalognumber:25029" ; Times: 1
+	Query: "Apteryx rowi type:specimen" ; Times: 1
+	Query: "Pa" ; Times: 1
+	Query: "Tachyglossidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "skeleton type:specimen" ; Times: 1
+	Query: "PTEROPODIDAE institutioncode:AM MAMMALOGY" ; Times: 1
+	Query: "specificepithet:rabori genus:Nyctimene" ; Times: 1
+	Query: "night lizard" ; Times: 3
+	Query: "lophodiodon" ; Times: 1
+	Query: "Lerista macropisthopus" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 2
+	Query: "coracina caledonica" ; Times: 5
+	Query: "columba livia" ; Times: 2
+	Query: "mammoth cave" ; Times: 1
+	Query: "Gehyra (New Guinea) mappable:1" ; Times: 3
+	Query: "podiceps cristatus" ; Times: 2
+	Query: "specificepithet:pygmaea" ; Times: 1
+	Query: "canis lupus lupus type:specimen" ; Times: 2
+	Query: "cynoglossus gulf" ; Times: 1
+	Query: "amphibia Drew" ; Times: 1
+	Query: "95651" ; Times: 1
+	Query: "Pedioplanis undata" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "siphamia oman" ; Times: 3
+	Query: "trachurus indicus" ; Times: 2
+	Query: "apogon truncatus" ; Times: 1
+	Query: "seriolina gulf" ; Times: 1
+	Query: "carangoides talamparoides" ; Times: 1
+	Query: "laevissimus" ; Times: 1
+	Query: "Guinea" ; Times: 1
+	Query: "chiroptera" ; Times: 2
+	Query: "salomonelaps" ; Times: 1
+	Query: "solenostomus gulf" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "anomaluridae" ; Times: 1
+	Query: "year >= 1999" ; Times: 1
+	Query: "stateprovince:"Texas"" ; Times: 1
+	Query: "myotis mappable:1" ; Times: 1
+	Query: "komodo dragon" ; Times: 4
+	Query: "engyprosopon gulf" ; Times: 1
+	Query: "cordylidae warreni" ; Times: 1
+	Query: "conger cinereus gulf" ; Times: 1
+	Query: "pig" ; Times: 1
+	Query: "Cladorhynchus" ; Times: 4
+	Query: "fowleria vaiulae" ; Times: 1
+	Query: "myotis" ; Times: 2
+	Query: "Encheliophis homei" ; Times: 2
+	Query: "apogonidae oman" ; Times: 3
+	Query: "alectis gulf" ; Times: 1
+	Query: "gobiidae red sea" ; Times: 2
+	Query: "mexico" ; Times: 1
+	Query: "odonus niger" ; Times: 1
+	Query: "ID 7218" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "canthigaster papua" ; Times: 2
+	Query: "aphelocephala pectoralis" ; Times: 1
+	Query: "gymnocaesio" ; Times: 1
+	Query: "malayemys" ; Times: 1
+	Query: "Manidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "ophiocara india" ; Times: 1
+	Query: "thryssa hamiltonii" ; Times: 1
+	Query: "sardinella melanura" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "year >= 1977 year <= 2013" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "salamander" ; Times: 4
+	Query: "Gehyra oceanica" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "petroscirtes mitratus gulf" ; Times: 1
+	Query: "institutioncode:am Calyptorhynchus banksii" ; Times: 5
+	Query: "catalognumber:101565" ; Times: 1
+	Query: "cynoglossus puncticeps gulf" ; Times: 1
+	Query: "country:"Bolivia" class:reptilia mappable:1" ; Times: 1
+	Query: "canis lupus dingo" ; Times: 1
+	Query: "squatina" ; Times: 1
+	Query: "cordylus namaquensis" ; Times: 1
+	Query: "oarfish" ; Times: 1
+	Query: "snake" ; Times: 1
+	Query: "macropus" ; Times: 1
+	Query: "22774" ; Times: 2
+	Query: "arcygobius" ; Times: 1
+	Query: "year <= 1431" ; Times: 1
+	Query: "wren" ; Times: 2
+	Query: "nasua" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "aulopareia" ; Times: 1
+	Query: "oreophryne" ; Times: 2
+	Query: "malaita" ; Times: 1
+	Query: "rubens" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "genus:Idiurus" ; Times: 1
+	Query: "genus:Lasiorhinus year >= 1975 year <= 2015" ; Times: 1
+	Query: "specificepithet:warreni genus:cordylus" ; Times: 1
+	Query: "Priodontes" ; Times: 1
+	Query: "genus:Atherurus" ; Times: 1
+	Query: "type:specimen catalognumber:110263" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Nyctimystes zweifeli" ; Times: 1
+	Query: "81805" ; Times: 1
+	Query: "virginia" ; Times: 1
+	Query: "lobodon" ; Times: 3
+	Query: "bufo bufo" ; Times: 7
+	Query: "cryptocentrus strigilliceps" ; Times: 2
+	Query: "Otariidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "hemitaurichthys zoster" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "moa" ; Times: 2
+	Query: "Amphibia year >= 2000 year <= 2015" ; Times: 1
+	Query: "specificepithet:typhlops genus:Notoryctes" ; Times: 3
+	Query: "chrysochloridae type:specimen" ; Times: 1
+	Query: "drepane punctata" ; Times: 1
+	Query: "hylomys" ; Times: 2
+	Query: "thylacinus cynocephalus" ; Times: 5
+	Query: "Mabuya multifasciata country:"Australia"" ; Times: 1
+	Query: "class:aves recordedby:richardson year >= 1904 year <= 1904" ; Times: 1
+	Query: "class:amphibia" ; Times: 1
+	Query: "parastromateus gulf" ; Times: 1
+	Query: "plectorhinchus schotaf" ; Times: 2
+	Query: "escualosa thoracata" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 1
+	Query: "167529" ; Times: 1
+	Query: "gerrhosaurus nigrolineatus" ; Times: 3
+	Query: "Montana" ; Times: 1
+	Query: "atropus" ; Times: 1
+	Query: "class:Reptilia catalognumber:25010" ; Times: 1
+	Query: "nematalosa gulf" ; Times: 1
+	Query: "class:Reptilia catalognumber:25012" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "year >= 1950 year <= 2015" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "komodoensis" ; Times: 1
+	Query: "dipterygonotus gulf" ; Times: 1
+	Query: "alepes gulf" ; Times: 1
+	Query: "cuculus saturatus" ; Times: 1
+	Query: "gerygone insularis" ; Times: 1
+	Query: "Callionymus filamentosus gulf" ; Times: 1
+	Query: "Acalyptophis peronii" ; Times: 1
+	Query: "perochirus" ; Times: 1
+	Query: "Regalecus" ; Times: 9
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "carangoides malabaricus" ; Times: 1
+	Query: "pentaprion longimanus" ; Times: 1
+	Query: "hydrelaps darwiniensis" ; Times: 1
+	Query: "parkeri" ; Times: 1
+	Query: "catalognumber:60531" ; Times: 1
+	Query: "16002" ; Times: 1
+	Query: "zaocys" ; Times: 1
+	Query: "rousettus amplexicaudatus country:"indonesia" class:mammalia year >= 1800 year <= 2015" ; Times: 1
+	Query: "700" ; Times: 1
+	Query: "basiliscus" ; Times: 3
+	Query: "Colletteichthys" ; Times: 1
+	Query: "cryptocentroides arabicus" ; Times: 1
+	Query: "year:1431 class:mammalia" ; Times: 2
+	Query: "penguin" ; Times: 2
+	Query: "62178" ; Times: 1
+	Query: "skull" ; Times: 1
+	Query: "(glen morris)" ; Times: 1
+	Query: "callipepla californica" ; Times: 2
+	Query: "62176" ; Times: 1
+	Query: "class:Mammalia" ; Times: 70
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "country:"Zimbabwe"" ; Times: 1
+	Query: "catalognumber:500" ; Times: 1
+	Query: "PTEROPODIDAE year >= 2012 year <= 2015" ; Times: 1
+	Query: "armstrong" ; Times: 1
+	Query: "genus:Bdeogale" ; Times: 2
+	Query: "cynoglossus dispar" ; Times: 1
+	Query: "type:specimen" ; Times: 1
+	Query: "Parachaeturichthys polynema" ; Times: 1
+	Query: "mountain earth" ; Times: 1
+	Query: "Callionymus marleyi" ; Times: 1
+	Query: "malaita year >= 1995 year <= 2015" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "passer domesticus" ; Times: 2
+	Query: "CM" ; Times: 2
+	Query: "Guinea bicolor" ; Times: 1
+	Query: "Basiliscus" ; Times: 1
+	Query: "eviota pardalota" ; Times: 1
+	Query: "coracina papuensis year >= 1985 year <= 2015" ; Times: 1
+	Query: "Pterodroma occulta type:specimen" ; Times: 1
+	Query: "Meroles suborbitalis" ; Times: 3
+	Query: "5280" ; Times: 2
+	Query: "institutioncode:am Probosciger" ; Times: 12
+	Query: "papa" ; Times: 1
+	Query: "Chordata" ; Times: 1
+	Query: "U" ; Times: 1
+	Query: "stateprovince:"California"" ; Times: 1
+	Query: "capoeta" ; Times: 3
+	Query: "long-nosed snake" ; Times: 1
+	Query: ""Pygopus lepidopodus"" ; Times: 2
+	Query: "meroles suborbitalis" ; Times: 1
+	Query: "month:12" ; Times: 1
+	Query: "paraclinus mexicanus" ; Times: 1
+	Query: "1366" ; Times: 1
+	Query: "bathygobius meggitti" ; Times: 1
+	Query: "ilisha gulf" ; Times: 1
+	Query: "Cryptotis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 1084 download events in this period)
+Total number of records downloaded: 47380 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 39643
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: France ; Times: 3
+	Country: Italy ; Times: 3
+	Country: Kenya ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Netherlands ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 31
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 6
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 4
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 2
+	Date: 2015-07-13 ; Times: 8
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-21 ; Times: 6
+	Date: 2015-07-22 ; Times: 9
+	Date: 2015-07-23 ; Times: 3
+	Date: 2015-07-24 ; Times: 4
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 3
+	Date: 2015-07-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Regalecus" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "parahydrophis mertoni" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "ateles fusciceps" ; Times: 2
+	Query: "tayassu pecari" ; Times: 1
+	Query: "cebus albifrons" ; Times: 2
+	Query: "Arkansas" ; Times: 2
+	Query: "hydrelaps darwiniensis" ; Times: 1
+	Query: "PTEROPODIDAE institutioncode:AM MAMMALOGY" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "regalecus" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "mammalia mexico" ; Times: 1
+	Query: "Xantusiidae" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "coracina papuensis year >= 1985 year <= 2015" ; Times: 1
+	Query: "eumicrotremus orbis" ; Times: 1
+	Query: "myron richardsonii" ; Times: 1
+	Query: "VIPERA BERUS" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "elephantulus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Pedioplanis" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "PTEROPODIDAE year >= 2013 year <= 2015" ; Times: 1
+	Query: "country:"Bolivia" class:reptilia" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 2
+	Query: "Gerrhosauridae" ; Times: 1
+	Query: "macroscelides" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "country:"Bolivia" class:reptilia mappable:1" ; Times: 2
+	Query: "jalisco" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "Cordylidae" ; Times: 1
+	Query: "Kinosternon subrubrum" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "oarfish" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2818
+Total number of records retrieved from searches: 106460
+Number of download events that retrieved data from the resource: 317
+Total number of records downloaded: 270178
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3257
+Total number of records retrieved from searches: 131296
+Number of download events that retrieved data from the resource: 317
+Total number of records downloaded: 270178
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
