@@ -1,0 +1,591 @@
+Report for Institution Code AM, Resource am_all
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 647
+Number of records retrieved in searches: 39870
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 32
+	Country: Canada ; Times: 13
+	Country: Madagascar ; Times: 1
+	Country: Italy ; Times: 7
+	Country: Bangladesh ; Times: 2
+	Country: Unknown ; Times: 16
+	Country: France ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 38
+	Country: Singapore ; Times: 13
+	Country: Germany ; Times: 41
+	Country: Chile ; Times: 1
+	Country: Dominican Republic ; Times: 9
+	Country: Spain ; Times: 8
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 316
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 56
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 41
+	Country: South Africa ; Times: 15
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 14
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 34
+	Date: 2015-10-17 ; Times: 4
+	Date: 2015-10-14 ; Times: 17
+	Date: 2015-10-15 ; Times: 22
+	Date: 2015-10-12 ; Times: 17
+	Date: 2015-10-13 ; Times: 26
+	Date: 2015-10-10 ; Times: 13
+	Date: 2015-10-11 ; Times: 10
+	Date: 2015-10-18 ; Times: 5
+	Date: 2015-10-19 ; Times: 13
+	Date: 2015-10-29 ; Times: 19
+	Date: 2015-10-28 ; Times: 24
+	Date: 2015-10-27 ; Times: 21
+	Date: 2015-10-26 ; Times: 52
+	Date: 2015-10-25 ; Times: 5
+	Date: 2015-10-24 ; Times: 16
+	Date: 2015-10-23 ; Times: 30
+	Date: 2015-10-22 ; Times: 18
+	Date: 2015-10-21 ; Times: 31
+	Date: 2015-10-20 ; Times: 35
+	Date: 2015-10-05 ; Times: 23
+	Date: 2015-10-04 ; Times: 9
+	Date: 2015-10-07 ; Times: 38
+	Date: 2015-10-06 ; Times: 17
+	Date: 2015-10-01 ; Times: 51
+	Date: 2015-10-03 ; Times: 6
+	Date: 2015-10-02 ; Times: 13
+	Date: 2015-10-09 ; Times: 22
+	Date: 2015-10-08 ; Times: 14
+	Date: 2015-10-30 ; Times: 26
+	Date: 2015-10-31 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 7
+	Query: "skeleton" ; Times: 2
+	Query: "bos grunniens" ; Times: 3
+	Query: "(San Bernardino )" ; Times: 1
+	Query: "Litoria barringtonensis" ; Times: 1
+	Query: "15205" ; Times: 1
+	Query: "Sogeri" ; Times: 1
+	Query: "los angeles county" ; Times: 1
+	Query: "Malurus leucopterus" ; Times: 1
+	Query: "toxicocalamus longissimus" ; Times: 4
+	Query: "Afroedura" ; Times: 1
+	Query: "milvus milvus" ; Times: 2
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "Morelia Viridis" ; Times: 1
+	Query: "class:Reptilia" ; Times: 1
+	Query: "chameleon" ; Times: 1
+	Query: "Eretmochelys imbricata imbricata" ; Times: 1
+	Query: "hoary bat" ; Times: 1
+	Query: "country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "nyctimene major" ; Times: 1
+	Query: "aspidites melanocephalus" ; Times: 1
+	Query: "Rousettus aegyptiacus continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Rheobatrachus" ; Times: 3
+	Query: "Aves" ; Times: 3
+	Query: "genus:Syma country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "vampire" ; Times: 7
+	Query: "sarawak Megadermatidae" ; Times: 1
+	Query: "museum data" ; Times: 4
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus)" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "queen snake" ; Times: 1
+	Query: "dwarf" ; Times: 9
+	Query: "kangaroo" ; Times: 1
+	Query: "sphenomorphus fragilis" ; Times: 1
+	Query: "baxteri" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "ms musculus" ; Times: 1
+	Query: "stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "australia mappable:1" ; Times: 3
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT fragilis NOT flavipes NOT oligolepis NOT schultzei NOT nigrolineata NOT lingrolineatus)" ; Times: 1
+	Query: "nyctimene" ; Times: 2
+	Query: "underwoodisaurus institutioncode:AM" ; Times: 1
+	Query: "papua new guinea" ; Times: 1
+	Query: "family:Muridae" ; Times: 2
+	Query: "Stegastes" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "continent:Africa" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "legless lizard" ; Times: 2
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "Pipistrellus pipistrellus continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "frog" ; Times: 3
+	Query: "reptilia" ; Times: 1
+	Query: "am R.13009 samoa" ; Times: 1
+	Query: "sargocentron macrosquamis" ; Times: 1
+	Query: "hemidactylus frenatus" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT nigraventra NOT flavipes NOT oligolepis NOT schultzei NOT nigrolineatus NOT annectens NOT fuscolineatus NOT fragilis NOT nigrolineata NOT megaspila NOT longicaudatus)" ; Times: 1
+	Query: "similis" ; Times: 1
+	Query: "queenslandiae institutioncode:AM" ; Times: 1
+	Query: "Columbidae" ; Times: 1
+	Query: "cat" ; Times: 1
+	Query: "wetmorella nigropinnata" ; Times: 1
+	Query: "year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus)" ; Times: 1
+	Query: "rattus rattus" ; Times: 1
+	Query: "salinarum" ; Times: 1
+	Query: "Turdus" ; Times: 1
+	Query: "Rhacodactylus institutioncode:AM" ; Times: 1
+	Query: "Nyctimystes cheesmani" ; Times: 1
+	Query: "EWENS" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "Rhacodactylus leachianus institutioncode:AM" ; Times: 1
+	Query: "A" ; Times: 2
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT fragilis)" ; Times: 1
+	Query: "arch" ; Times: 1
+	Query: "blue whale" ; Times: 1
+	Query: "Threskiornis" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "toad mappable:1" ; Times: 2
+	Query: "dragon" ; Times: 11
+	Query: "Sogeri scincidae" ; Times: 2
+	Query: "fallax" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT nigraventra NOT flavipes NOT oligolepis NOT schultzei NOT nigrolineatus NOT annectens NOT fuscolineatus NOT fragilis NOT nigrolineata NOT megaspila NOT longicaudatus NOT Daru)" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "victoria regia" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae)" ; Times: 1
+	Query: "birds" ; Times: 1
+	Query: "Texas" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "Oriolus oriolus" ; Times: 1
+	Query: "Cyclorana australis" ; Times: 1
+	Query: "oligolepis" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "nest class:aves" ; Times: 3
+	Query: "Cyclorana cryptotis" ; Times: 1
+	Query: "snake" ; Times: 5
+	Query: "phyllurus institutioncode:AM" ; Times: 1
+	Query: "crenidens crenidens" ; Times: 2
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "fairy" ; Times: 11
+	Query: "turtle" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "fish" ; Times: 1
+	Query: "coracina papuensis" ; Times: 1
+	Query: "mammalia" ; Times: 3
+	Query: "Western spadefoot" ; Times: 1
+	Query: "heptranchias" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "specificepithet" ; Times: 2
+	Query: "white-tailed tropicbird" ; Times: 4
+	Query: "polygrammicus" ; Times: 4
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT fragilis NOT flavipes NOT oligolepis NOT schultzei NOT nigrolinea NOT annectens)" ; Times: 1
+	Query: "year &gt;= 150 year &lt;= 2015" ; Times: 1
+	Query: "Dendrelaphis calligastra" ; Times: 2
+	Query: "Cyclorana longipes" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "castanea" ; Times: 1
+	Query: "Callipepla californica" ; Times: 2
+	Query: "axis axis" ; Times: 1
+	Query: "paradisaea" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "100002" ; Times: 1
+	Query: "varanus" ; Times: 3
+	Query: "Dermochelys coriacea" ; Times: 3
+	Query: "scutulatus" ; Times: 1
+	Query: "Cyclorana platycephala" ; Times: 1
+	Query: "halichoeres scapularis" ; Times: 1
+	Query: "(best)" ; Times: 1
+	Query: "Cyclorana maini" ; Times: 1
+	Query: "gekko gecko institutioncode:AM" ; Times: 1
+	Query: "rattus" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT fragilis NOT flavipes NOT oligolepis NOT schultzei NOT nigrolineatus NOT annectens)" ; Times: 1
+	Query: "Boiga irregularis" ; Times: 1
+	Query: "sheep" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus)" ; Times: 1
+	Query: "nyctimene cephalotes" ; Times: 1
+	Query: "126521" ; Times: 1
+	Query: "aves" ; Times: 1
+	Query: "year &gt;= 1999 year &lt;= 2015" ; Times: 1
+	Query: "(Art)" ; Times: 1
+	Query: "dogs" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "92289" ; Times: 1
+	Query: "boidae" ; Times: 2
+	Query: "dendrochirus" ; Times: 1
+	Query: "elephas maximus" ; Times: 3
+	Query: "Lampropholis delicata" ; Times: 2
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "Sula dactylatra" ; Times: 1
+	Query: "manucodia" ; Times: 2
+	Query: "leopardus colocolo" ; Times: 6
+	Query: "boiga irregularis" ; Times: 4
+	Query: "mappable:1" ; Times: 6
+	Query: "rhabdotus" ; Times: 2
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni)" ; Times: 1
+	Query: "cm 29108" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus )" ; Times: 1
+	Query: "field museum" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "toxicocalamus buergersi" ; Times: 1
+	Query: "Milwaukee" ; Times: 1
+	Query: "wetmorella nigropinnata am" ; Times: 2
+	Query: "rheobatrachus type:specimen" ; Times: 1
+	Query: "specificepithet:platurus genus:Pelamis mappable:1" ; Times: 3
+	Query: "red panda" ; Times: 1
+	Query: "Sphenomorphus New Guinea" ; Times: 1
+	Query: "wetmorella wam" ; Times: 2
+	Query: "salmon" ; Times: 1
+	Query: "wetmorella nigropinnata wam" ; Times: 3
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "sarawak Erinaceidae" ; Times: 1
+	Query: "Litoria AND (NOT Australia) institutioncode:AM" ; Times: 1
+	Query: "reptilia country:&#34;tonga&#34;" ; Times: 1
+	Query: "type:specimen" ; Times: 4
+	Query: "Cyclorana novaehollandiae" ; Times: 1
+	Query: "ku" ; Times: 1
+	Query: "pulchellus" ; Times: 1
+	Query: "capito" ; Times: 1
+	Query: "columbidae" ; Times: 1
+	Query: "Caretta caretta" ; Times: 3
+	Query: "laticauda laticauda" ; Times: 2
+	Query: "coturnix" ; Times: 1
+	Query: "miniopterus schreibersii" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni)" ; Times: 1
+	Query: "ovis aries" ; Times: 3
+	Query: "Elephas maximus" ; Times: 1
+	Query: "house sparrow" ; Times: 2
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "Penguin" ; Times: 1
+	Query: "distance(location,geopoint(-29.835878945929938,-51.19903564453125))&lt;100000" ; Times: 1
+	Query: "toxicocalamus" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "nyctimene certans" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "testudines" ; Times: 3
+	Query: "douglasi" ; Times: 1
+	Query: "rheobatrachus vitellinus type:specimen" ; Times: 1
+	Query: "Pseudaspis cana" ; Times: 1
+	Query: "bat" ; Times: 2
+	Query: "ailuroedus melanotis" ; Times: 2
+	Query: "litoria oriomo" ; Times: 2
+	Query: "tyto alba" ; Times: 2
+	Query: "Brown Booby" ; Times: 1
+	Query: "amphibia" ; Times: 2
+	Query: "KU Herpetology" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "rhacophoridae" ; Times: 2
+	Query: "Probosciger aterrimus" ; Times: 1
+	Query: "Emoia cyanura" ; Times: 1
+	Query: "type:specimen genus:Peltops" ; Times: 2
+	Query: "lion" ; Times: 1
+	Query: "pachycephala olivacea" ; Times: 1
+	Query: "smithii" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "brazil" ; Times: 1
+	Query: "pachyptila belcheri" ; Times: 1
+	Query: "tree sparrow" ; Times: 1
+	Query: "stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "ovis orientalis" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "strophurus institutioncode:AM" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "bryaninops loki am" ; Times: 2
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "recordedby:Anderson" ; Times: 1
+	Query: "pitohui kirhocephalus" ; Times: 4
+	Query: "1647" ; Times: 1
+	Query: "mono" ; Times: 1
+	Query: "litoria" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "(Kansas)" ; Times: 1
+	Query: "continent:North America" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "Duellman" ; Times: 1
+	Query: "chiroptera" ; Times: 2
+	Query: "Ursus thibetanus" ; Times: 1
+	Query: "laticauda" ; Times: 3
+	Query: "family:Passeridae" ; Times: 3
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "devil" ; Times: 7
+	Query: "year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Bufonidae distance(location,geopoint(2.9430409100551826,111.97265625))&lt;334446.5007421535" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus)" ; Times: 1
+	Query: "(Canada)" ; Times: 1
+	Query: "squirrel" ; Times: 2
+	Query: "Brazil Reptilia" ; Times: 3
+	Query: "catchment" ; Times: 1
+	Query: "nyctimene draconilla" ; Times: 1
+	Query: "year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Simpson Rd" ; Times: 1
+	Query: "georgia" ; Times: 1
+	Query: "rufogularis" ; Times: 1
+	Query: "myotis" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "lygosoma new guinea" ; Times: 1
+	Query: "pachycephala rufogularis" ; Times: 1
+	Query: "sarawak Chiroptera" ; Times: 2
+	Query: "depressa institutioncode:AM" ; Times: 1
+	Query: "10164" ; Times: 1
+	Query: "demon" ; Times: 4
+	Query: "mouse" ; Times: 2
+	Query: "21258" ; Times: 1
+	Query: "ellioti" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "Rhipidura dryas" ; Times: 1
+	Query: "R.13009 samoa" ; Times: 1
+	Query: "elephas" ; Times: 2
+	Query: "tuvalu" ; Times: 2
+	Query: "nest" ; Times: 2
+	Query: "leopard" ; Times: 1
+	Query: "unicorn" ; Times: 14
+	Query: "whale" ; Times: 2
+	Query: "saurida longimanus" ; Times: 8
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "indonesia" ; Times: 1
+	Query: "mus musculus" ; Times: 2
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis)" ; Times: 1
+	Query: "sirenia" ; Times: 2
+	Query: "varanus gouldii" ; Times: 2
+	Query: "class:Amphibia" ; Times: 2
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "32700" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "amblygobius red sea" ; Times: 1
+	Query: "Cyclorana cultripes" ; Times: 1
+	Query: "Iguana iguana" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "turdus" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii)" ; Times: 1
+	Query: "morelia viridis" ; Times: 4
+	Query: "pachycephala caledonica" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "varanus indicus" ; Times: 1
+	Query: "Narudasia" ; Times: 1
+	Query: "genus:Leopardus institutioncode:AM" ; Times: 1
+	Query: "Bradley" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "kermadec" ; Times: 1
+	Query: "specificepithet:productus genus:Rhinobatos continent:North America" ; Times: 1
+	Query: "lamnidae" ; Times: 1
+	Query: "Calyptorhynchus latirostris" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 5
+	Query: "121056" ; Times: 2
+	Query: "genus:Syma (Papua New Guinea OR Indonesia)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Maluku&#34;" ; Times: 1
+	Query: "Cox Island" ; Times: 1
+	Query: "nyctimene aello" ; Times: 1
+	Query: "south america" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT nigraventra NOT flavipes NOT oligolepis NOT schultzei NOT nigrolineatus NOT annectens NOT fuscolineatus NOT fragilis)" ; Times: 1
+	Query: "&#34;rattus rattus&#34;" ; Times: 2
+	Query: "arctocephalus tropicalis" ; Times: 1
+	Query: "xenisthmus" ; Times: 4
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT nigraventra NOT flavipes NOT oligolepis NOT schultzei NOT nigrolineatus NOT annectens)" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 2
+	Query: "Cyclorana verrucosa" ; Times: 1
+	Query: "eretmochelys imbricata imbricata" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "aquila" ; Times: 1
+	Query: "lagomorpha" ; Times: 3
+	Query: "Wetzel" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "bats" ; Times: 3
+	Query: "Bifax" ; Times: 1
+	Query: "Lialis burtonis" ; Times: 1
+	Query: "bangladesh" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus)" ; Times: 1
+	Query: "museum" ; Times: 3
+	Query: "type:specimen genus:Dasyornis" ; Times: 2
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus)" ; Times: 1
+	Query: "(bat)" ; Times: 1
+	Query: "sarawak mammalia" ; Times: 2
+	Query: "meleagrides" ; Times: 1
+	Query: "year &gt;= 1960 year &lt;= 2016" ; Times: 1
+	Query: "otter" ; Times: 1
+	Query: "Morelia spilota" ; Times: 2
+	Query: "class:Mammalia" ; Times: 57
+	Query: "Mammalia (rodentia)" ; Times: 3
+	Query: "synagrops philippinensis" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "herpailurus" ; Times: 2
+	Query: "New York type:specimen" ; Times: 1
+	Query: "boiga irregularis mappable:1" ; Times: 2
+	Query: "gracilis" ; Times: 1
+	Query: "aspidites ramsayi" ; Times: 1
+	Query: "gekko" ; Times: 1
+	Query: "los angeles" ; Times: 1
+	Query: "AG" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "desert" ; Times: 2
+	Query: "tribolonotus institutioncode:AM" ; Times: 1
+	Query: "Candoia aspera" ; Times: 1
+	Query: "Chrysochloridae" ; Times: 1
+	Query: "(mus musculus)" ; Times: 1
+	Query: "ocellatus" ; Times: 1
+	Query: "am R.132879" ; Times: 1
+	Query: "erethizon canada institutioncode:AM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 108 (out of 823 download events in this period)
+Total number of records downloaded: 126226
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 5
+	Country: Italy ; Times: 2
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: Singapore ; Times: 2
+	Country: Peru ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 60
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 3
+	Country: Bangladesh ; Times: 1
+	Country: Spain ; Times: 3
+	Country: Czech Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 9
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-18 ; Times: 3
+	Date: 2015-10-19 ; Times: 7
+	Date: 2015-10-29 ; Times: 5
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 7
+	Date: 2015-10-26 ; Times: 8
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 1
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-07 ; Times: 7
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 7
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-30 ; Times: 21
+	Date: 2015-10-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus NOT fasciatus NOT aruensi NOT darlingtoni NOT nigraventra NOT flavipes NOT oligolepis NOT schultzei NOT nigrolineatus NOT annectens NOT fuscolineatus NOT fragilis NOT nigrolineata NOT megaspila NOT longicaudatus NOT Daru)" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "Litoria barringtonensis" ; Times: 1
+	Query: "family:GYMNOPHTHALMIDAE" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Cyclorana cultripes" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Cyclorana australis" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "yellow rail" ; Times: 1
+	Query: "Cyclorana cryptotis" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "genus:Aethomys" ; Times: 1
+	Query: "ecpleopus" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "amphibia" ; Times: 1
+	Query: "Cyclorana longipes" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "bitis gabonica" ; Times: 3
+	Query: "Calyptorhynchus latirostris" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "white-tailed tropicbird" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Lipinia noctua noctua" ; Times: 1
+	Query: "arctocephalus tropicalis" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "sphenomorphus fragilis" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "nyctimene" ; Times: 1
+	Query: "erethizon canada" ; Times: 1
+	Query: "pitohui kirhocephalus" ; Times: 1
+	Query: "steatomys" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "ellice islands" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Cyclorana platycephala" ; Times: 1
+	Query: "Cyclorana maini" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Cyclorana brevipes" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "reptilia" ; Times: 2
+	Query: "boiga irregularis" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "order:primates" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "class:Mammalia" ; Times: 2
+	Query: "marmorata" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "Sphenomorphus New Guinea AND (NOT solomonis NOT jobiensis NOT simus NOT jobiense NOT minutus NOT brunneus NOT aigninus NOT pratti NOT maindroni NOT stickeli NOT woodfordi NOT papuae NOT cinereus NOT concinnatus NOT aignanus NOT derooyae NOT muelleri NOT forbesi NOT papuensis NOT nigriventris NOT wollastoni NOT leptofasciatus NOT forbesii NOT granulatus NOT aruensis NOT latifasciatus NOT meyeri NOT tanneri NOT undulatus )" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Nyctimystes cheesmani" ; Times: 1
+	Query: "boiga irregularis mappable:1" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Glaphyromorphus New Guinea" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Sphenomorphus New Guinea" ; Times: 1
+	Query: "tuvalu" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "Cyclorana novaehollandiae" ; Times: 1
+
+
+End of report.
