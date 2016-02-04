@@ -1,0 +1,452 @@
+Report for Institution Code AM, Resource Mammalogy
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 441
+Number of records retrieved in searches: 24401
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 26
+	Country: Bangladesh ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 9
+	Country: Colombia ; Times: 6
+	Country: Costa Rica ; Times: 8
+	Country: Denmark ; Times: 24
+	Country: France ; Times: 2
+	Country: Germany ; Times: 13
+	Country: Guinea ; Times: 2
+	Country: India ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Mexico ; Times: 26
+	Country: Netherlands ; Times: 3
+	Country: Russia ; Times: 49
+	Country: South Africa ; Times: 4
+	Country: Spain ; Times: 4
+	Country: Sweden ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: United States ; Times: 207
+	Country: Unknown ; Times: 24
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 3
+	Date: 2016-01-02 ; Times: 8
+	Date: 2016-01-03 ; Times: 13
+	Date: 2016-01-04 ; Times: 12
+	Date: 2016-01-05 ; Times: 17
+	Date: 2016-01-06 ; Times: 20
+	Date: 2016-01-07 ; Times: 23
+	Date: 2016-01-08 ; Times: 19
+	Date: 2016-01-09 ; Times: 4
+	Date: 2016-01-10 ; Times: 4
+	Date: 2016-01-11 ; Times: 4
+	Date: 2016-01-12 ; Times: 25
+	Date: 2016-01-13 ; Times: 11
+	Date: 2016-01-14 ; Times: 22
+	Date: 2016-01-15 ; Times: 12
+	Date: 2016-01-16 ; Times: 3
+	Date: 2016-01-17 ; Times: 9
+	Date: 2016-01-18 ; Times: 17
+	Date: 2016-01-19 ; Times: 18
+	Date: 2016-01-20 ; Times: 13
+	Date: 2016-01-21 ; Times: 20
+	Date: 2016-01-22 ; Times: 31
+	Date: 2016-01-23 ; Times: 16
+	Date: 2016-01-24 ; Times: 17
+	Date: 2016-01-25 ; Times: 24
+	Date: 2016-01-26 ; Times: 25
+	Date: 2016-01-27 ; Times: 7
+	Date: 2016-01-28 ; Times: 11
+	Date: 2016-01-29 ; Times: 12
+	Date: 2016-01-30 ; Times: 10
+	Date: 2016-01-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"United States"" ; Times: 1
+	Query: "" ; Times: 6
+	Query: "Salmo salar" ; Times: 2
+	Query: "anas superciliosa" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "sailfish" ; Times: 1
+	Query: "oriolus oriolus" ; Times: 1
+	Query: "country:"mauritius"" ; Times: 1
+	Query: "am 40348" ; Times: 1
+	Query: "Caretta caretta" ; Times: 2
+	Query: "42565" ; Times: 1
+	Query: "Pianka" ; Times: 1
+	Query: "Muridae type:specimen" ; Times: 2
+	Query: "myoictis melas" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "demon" ; Times: 14
+	Query: "gorsachius" ; Times: 1
+	Query: "birds" ; Times: 2
+	Query: "Texas" ; Times: 1
+	Query: "gobiomorus maculatus" ; Times: 1
+	Query: "Pachycephala simplex" ; Times: 1
+	Query: "family:Notopteridae" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: ""Procavia capensis" mappable:1" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "Lichenostomus leucotis" ; Times: 2
+	Query: "aquatic species" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 2
+	Query: "collections" ; Times: 2
+	Query: "western spadefoot" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "family:Dasyatidae" ; Times: 1
+	Query: "type:specimen country:"mexico" year >= 1960 year <= 2015" ; Times: 1
+	Query: "Colluricincla megarhyncha" ; Times: 2
+	Query: "British Columbia" ; Times: 1
+	Query: "bothrochilus boa" ; Times: 3
+	Query: "Proscelotes" ; Times: 3
+	Query: "bear" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "family:Percopsidae country:"United States"" ; Times: 1
+	Query: "Pteropodidae distance(location,geopoint(20.797201434307,126.474609375))<2517134" ; Times: 1
+	Query: "Goodall" ; Times: 1
+	Query: "Tadorna Tadorna" ; Times: 2
+	Query: "canidae" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "class:aves" ; Times: 1
+	Query: "genus:Equus" ; Times: 1
+	Query: "Riv" ; Times: 1
+	Query: "rhipidura brachyrhyncha" ; Times: 2
+	Query: "blue wing" ; Times: 1
+	Query: "Auburn University" ; Times: 1
+	Query: "family:Gasterosteidae country:"United States"" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "fairy" ; Times: 10
+	Query: "candoia" ; Times: 3
+	Query: "syma megarhyncha" ; Times: 4
+	Query: "33490" ; Times: 1
+	Query: "Solomon Islands" ; Times: 2
+	Query: "black pine snake" ; Times: 1
+	Query: "Lygosoma afer mappable:1" ; Times: 1
+	Query: "cichlid" ; Times: 1
+	Query: "lion" ; Times: 3
+	Query: "prairie" ; Times: 1
+	Query: "mammalia" ; Times: 1
+	Query: "family:Clupeidae" ; Times: 1
+	Query: "class:amphibia" ; Times: 2
+	Query: "Auburn" ; Times: 1
+	Query: "turnix" ; Times: 1
+	Query: "rattus morotaiensis" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "crocodylus genus:Crocodylus" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "class:amphibia mappable:1" ; Times: 1
+	Query: "year >= 1995 year <= 2014" ; Times: 1
+	Query: "Bird" ; Times: 1
+	Query: "Cuniculus" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "museum data" ; Times: 2
+	Query: "am tropidonophis" ; Times: 1
+	Query: "(Georgia)" ; Times: 1
+	Query: "bird" ; Times: 2
+	Query: "Equus" ; Times: 1
+	Query: "blb" ; Times: 1
+	Query: "minous" ; Times: 4
+	Query: "ornithology collections" ; Times: 1
+	Query: "dwarf" ; Times: 4
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "family:Hiodontidae country:"United States"" ; Times: 1
+	Query: "Daphoenositta" ; Times: 1
+	Query: "homalopsidae" ; Times: 1
+	Query: "los angeles museum of natural history" ; Times: 1
+	Query: "Pardofelis marmorata" ; Times: 1
+	Query: "herp" ; Times: 1
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "Inia type:specimen AND (NOT skeleton)" ; Times: 1
+	Query: "bee" ; Times: 1
+	Query: "am toxicocalamus" ; Times: 1
+	Query: "cercamia eremia" ; Times: 2
+	Query: "g" ; Times: 1
+	Query: "Ophisaurus year >= 2010 year <= 2016" ; Times: 1
+	Query: "plicofollis dussumieri" ; Times: 1
+	Query: "gempylus serpens" ; Times: 1
+	Query: "Mammalia" ; Times: 1
+	Query: "genus:Litoria specificepithet:tyleri" ; Times: 2
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "gazella" ; Times: 1
+	Query: "house finch" ; Times: 4
+	Query: "(california)" ; Times: 1
+	Query: "mobula japanica" ; Times: 1
+	Query: "Hippotragus niger" ; Times: 2
+	Query: "Acutotyphlops" ; Times: 1
+	Query: "Inia type:specimen AND (NOT skull)" ; Times: 1
+	Query: "united states" ; Times: 1
+	Query: "(North Carolina)" ; Times: 1
+	Query: "AM 101287" ; Times: 1
+	Query: "zoothera heinei" ; Times: 1
+	Query: "Boiga irregularis" ; Times: 1
+	Query: "116441" ; Times: 1
+	Query: "sheep" ; Times: 1
+	Query: "Emoia caeruleocauda" ; Times: 1
+	Query: "devil" ; Times: 5
+	Query: "waddell creek" ; Times: 1
+	Query: "bangladesh" ; Times: 1
+	Query: "Cichlidae" ; Times: 1
+	Query: "family Vespertilionidae" ; Times: 1
+	Query: "ornithology" ; Times: 1
+	Query: "year >= 2000 year <= 2015" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 2
+	Query: "year >= 1950 year <= 1960" ; Times: 1
+	Query: "genus:Neobatrachus specificepithet:aquilonius" ; Times: 1
+	Query: "Synodus fuscus" ; Times: 1
+	Query: "opossum" ; Times: 1
+	Query: "tropidonophis am" ; Times: 1
+	Query: "brown trout" ; Times: 2
+	Query: "orcinus orca" ; Times: 4
+	Query: "aves" ; Times: 3
+	Query: "type:specimen family:Turdidae (poliocephalus)" ; Times: 2
+	Query: "boiga irregularis" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "Pteropus nitendiensis" ; Times: 3
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "water dragon" ; Times: 1
+	Query: "sparidae" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "deer" ; Times: 1
+	Query: "21381" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "killer whale" ; Times: 1
+	Query: "limnodynastes terraereginae" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "cercamia" ; Times: 2
+	Query: "country:"Solomon Islands"" ; Times: 1
+	Query: "stateprovince:"texas"" ; Times: 1
+	Query: "cm 4446" ; Times: 1
+	Query: "concinna" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Thailand" ; Times: 1
+	Query: "otter" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "vampire" ; Times: 10
+	Query: "Mills P" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "american museum of natural history" ; Times: 3
+	Query: "Rainbow Snake" ; Times: 3
+	Query: "Pseudoferania harritosi" ; Times: 1
+	Query: "class:Mammalia" ; Times: 26
+	Query: "sea otter" ; Times: 1
+	Query: "family:Dasyatidae country:"United States"" ; Times: 1
+	Query: "specificepithet:prattorum genus:Rhynchomeles" ; Times: 1
+	Query: "mud snake" ; Times: 2
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "velifer" ; Times: 1
+	Query: "Pachycephala melanura" ; Times: 1
+	Query: "Oreophryne brachypus" ; Times: 2
+	Query: "rainbow trout" ; Times: 1
+	Query: "plicofollis" ; Times: 1
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "Passeriformes" ; Times: 3
+	Query: "Inia" ; Times: 1
+	Query: "distance(location,geopoint(28.409036,-111.997516))<15000" ; Times: 1
+	Query: "Vertebrate" ; Times: 1
+	Query: "lizard" ; Times: 2
+	Query: "mappable:1" ; Times: 6
+	Query: "genus:Neobatrachus specificepithet:sudelli" ; Times: 1
+	Query: "Cinclosoma punctatum" ; Times: 1
+	Query: "parapriacanthus dispar" ; Times: 3
+	Query: "Inia type:specimen" ; Times: 1
+	Query: "Cheloniidae" ; Times: 1
+	Query: "stegonotus" ; Times: 3
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "crenidens red sea" ; Times: 1
+	Query: "Pan" ; Times: 2
+	Query: "176998" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "glass frog" ; Times: 1
+	Query: "year >= 2008 year <= 2008" ; Times: 1
+	Query: "right whale" ; Times: 1
+	Query: "crocodylus novaeguineae" ; Times: 1
+	Query: "archbold" ; Times: 1
+	Query: "litoria caerulea" ; Times: 3
+	Query: "family:Cobitidae" ; Times: 1
+	Query: "AM 101015" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "AM 101017" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "genus:haliaeetus" ; Times: 1
+	Query: "davidson" ; Times: 1
+	Query: "Herpetology" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "Pan type:specimen (paniscus OR troglodytes)" ; Times: 1
+	Query: "manis javanica" ; Times: 1
+	Query: "Eudyptes sclateri" ; Times: 18
+	Query: "58820" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "Vespertilionidae" ; Times: 2
+	Query: "orca year >= 1940 year <= 1970" ; Times: 1
+	Query: "coral reef" ; Times: 2
+	Query: "recordedby:coventry" ; Times: 1
+	Query: "lamprolepis" ; Times: 1
+	Query: "Synodus doaki" ; Times: 2
+	Query: "type:specimen genus:Atrichornis" ; Times: 2
+	Query: "adder" ; Times: 1
+	Query: "Inia type:specimen AND (NOT skull) AND (NOT skeleton)" ; Times: 1
+	Query: "unicorn" ; Times: 8
+	Query: "fishes" ; Times: 8
+	Query: "cetacea" ; Times: 2
+	Query: "whale" ; Times: 2
+	Query: "cuttlefish" ; Times: 1
+	Query: "velifera" ; Times: 1
+	Query: "testudines australia" ; Times: 1
+	Query: "genus:Litoria specificepithet:ewingii" ; Times: 1
+	Query: "genus:georychus" ; Times: 1
+	Query: "Pteropodidae distance(location,geopoint(4.390228926463396,133.154296875))<2272716" ; Times: 1
+	Query: "Oncifelis colocolo" ; Times: 1
+	Query: "Platysaurus guttatus" ; Times: 1
+	Query: "type:specimen" ; Times: 2
+	Query: "dragon" ; Times: 9
+	Query: "Pteropus" ; Times: 1
+	Query: "162073" ; Times: 1
+	Query: "Hemidactylus" ; Times: 1
+	Query: "scolopsis vosmeri" ; Times: 1
+	Query: "Nyctimene santa" ; Times: 4
+	Query: "Passer domesticus" ; Times: 1
+	Query: "Galeocerdo cuvier" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 507 download events in this period)
+Total number of records downloaded: 2227 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2125
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 17
+	Country: Mexico ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 50
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 13
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-05 ; Times: 22
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-07 ; Times: 4
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"United States"" ; Times: 2
+	Query: "family:Dasyatidae country:"United States"" ; Times: 1
+	Query: "family:Acipenseridae country:"United States"" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "family:Cottidae country:"United States"" ; Times: 1
+	Query: "Lygosoma afer mappable:1" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "family:Catostomidae country:"United States"" ; Times: 1
+	Query: "family:Gobiidae country:"United States"" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "genus:haliaeetus year >= 1996 year <= 2015" ; Times: 1
+	Query: "family:Mugilidae country:"United States"" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "family:Clupeidae country:"United States"" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "family:Achiridae country:"United States"" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "order:CAudata country:"United States"" ; Times: 4
+	Query: "Scarinae" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "family:Engraulidae country:"United States"" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "mobula japanica" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Neofelis nebulosa" ; Times: 1
+	Query: "family:Moronidae country:"United States"" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "family:Percidae country:"United States"" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Esocidae country:"United States"" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "family:Hiodontidae country:"United States"" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 2
+	Query: "Panthera tigris" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:"United States"" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: ""False Bay"" ; Times: 1
+	Query: "family:Pleuronectidae country:"United States"" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "Oncifelis colocolo" ; Times: 1
+	Query: "Platysaurus guttatus" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))<87926.45562583183" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "berardius" ; Times: 1
+	Query: ""naja naja"" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "family:Percopsidae country:"United States"" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "Pardofelis marmorata" ; Times: 1
+	Query: "family:Osmeridae country:"United States"" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "family:Cyprinidae country:"United States"" ; Times: 1
+	Query: "family:Sciaenidae country:"United States"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 74
+Total number of records downloaded: 2227
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 441
+Total number of records retrieved from searches: 24401
+Number of download events that retrieved data from the resource: 74
+Total number of records downloaded: 2227
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
