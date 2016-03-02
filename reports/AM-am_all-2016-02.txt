@@ -1,0 +1,425 @@
+Report for Institution Code AM, Resource am_all
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 435
+Number of records retrieved in searches: 22658
+Number of different countries where searches have been originated: 27
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 8
+	Country: Madagascar ; Times: 8
+	Country: Czech Republic ; Times: 7
+	Country: Unknown ; Times: 28
+	Country: France ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 7
+	Country: Netherlands ; Times: 8
+	Country: Denmark ; Times: 4
+	Country: United States ; Times: 217
+	Country: Sweden ; Times: 3
+	Country: Namibia ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 50
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 46
+	Country: United Arab Emirates ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 6
+	Country: South Korea ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 10
+	Date: 2016-02-08 ; Times: 17
+	Date: 2016-02-18 ; Times: 36
+	Date: 2016-02-19 ; Times: 27
+	Date: 2016-02-12 ; Times: 8
+	Date: 2016-02-13 ; Times: 11
+	Date: 2016-02-10 ; Times: 10
+	Date: 2016-02-11 ; Times: 13
+	Date: 2016-02-16 ; Times: 33
+	Date: 2016-02-17 ; Times: 25
+	Date: 2016-02-14 ; Times: 7
+	Date: 2016-02-15 ; Times: 21
+	Date: 2016-02-29 ; Times: 17
+	Date: 2016-02-28 ; Times: 4
+	Date: 2016-02-23 ; Times: 21
+	Date: 2016-02-22 ; Times: 17
+	Date: 2016-02-21 ; Times: 11
+	Date: 2016-02-20 ; Times: 5
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 9
+	Date: 2016-02-25 ; Times: 22
+	Date: 2016-02-24 ; Times: 15
+	Date: 2016-02-01 ; Times: 14
+	Date: 2016-02-03 ; Times: 19
+	Date: 2016-02-02 ; Times: 12
+	Date: 2016-02-05 ; Times: 18
+	Date: 2016-02-04 ; Times: 12
+	Date: 2016-02-07 ; Times: 9
+	Date: 2016-02-06 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 4
+	Query: "country:&#34;United States&#34;" ; Times: 1
+	Query: "Mississippi" ; Times: 1
+	Query: "jobiensis" ; Times: 1
+	Query: "indri" ; Times: 2
+	Query: "Chlorurus sordidus" ; Times: 1
+	Query: "varanus salvator" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "viridis" ; Times: 1
+	Query: "nasua" ; Times: 3
+	Query: "canis lupus" ; Times: 3
+	Query: "larus" ; Times: 2
+	Query: "class:mammalia" ; Times: 1
+	Query: "country:&#34;Portugal&#34;" ; Times: 1
+	Query: "Sebastes rosaceus" ; Times: 1
+	Query: "type:specimen" ; Times: 4
+	Query: "GALEOCERDO CUVIER" ; Times: 1
+	Query: "birds" ; Times: 3
+	Query: "stenodactylus petrii" ; Times: 1
+	Query: "Crateroscelis" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 1
+	Query: "fowleria" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "inia" ; Times: 1
+	Query: "1900 jackson" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "phylloscopus" ; Times: 1
+	Query: "Armbruster" ; Times: 1
+	Query: "myzomela malaitae" ; Times: 1
+	Query: "hoplodactylus" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "Megastictus" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "darter" ; Times: 1
+	Query: "enhydris" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 2
+	Query: "3991" ; Times: 1
+	Query: "manis" ; Times: 1
+	Query: "55253" ; Times: 1
+	Query: "catalognumber:78766" ; Times: 1
+	Query: "Rabbit" ; Times: 1
+	Query: "emydocephalus" ; Times: 1
+	Query: "cichlidae" ; Times: 2
+	Query: "python" ; Times: 1
+	Query: "Rhodes" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "porcupine mappable:1" ; Times: 2
+	Query: "myzomela eichhorni" ; Times: 3
+	Query: "80729" ; Times: 2
+	Query: "Mola mola" ; Times: 1
+	Query: "pianka" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "paragobiodon melanosoma" ; Times: 1
+	Query: "felis catus type:specimen" ; Times: 2
+	Query: "bat" ; Times: 1
+	Query: "family:Canidae" ; Times: 1
+	Query: "american robin" ; Times: 1
+	Query: "phocidae" ; Times: 1
+	Query: "canidae" ; Times: 1
+	Query: "trimma tevegae wam" ; Times: 4
+	Query: "Paralabrax nebulifer" ; Times: 1
+	Query: "Rallicula" ; Times: 2
+	Query: "Thorophos" ; Times: 1
+	Query: "bothrochilus" ; Times: 1
+	Query: "Trachurus symmetricus" ; Times: 1
+	Query: "sieboldii" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "prarie" ; Times: 1
+	Query: "class:Aves continent:North America year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "caprimulgus macrurus" ; Times: 1
+	Query: "fairy" ; Times: 8
+	Query: "Class mammalia" ; Times: 1
+	Query: "philippines" ; Times: 1
+	Query: "Xenorhina" ; Times: 1
+	Query: "Istiophoridae" ; Times: 2
+	Query: "Carcharhinidae" ; Times: 2
+	Query: "161/2002" ; Times: 1
+	Query: "Bergen" ; Times: 1
+	Query: "miller" ; Times: 1
+	Query: "Petrogale godmani" ; Times: 2
+	Query: "clarkii" ; Times: 1
+	Query: "class:aves" ; Times: 3
+	Query: "not e" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "mammalia" ; Times: 1
+	Query: "cat" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "dwarf" ; Times: 2
+	Query: "Arizona" ; Times: 1
+	Query: "Boidae" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "Lichmera" ; Times: 1
+	Query: "vampire" ; Times: 11
+	Query: "genus:Cyclorana specificepithet:maini" ; Times: 1
+	Query: "bucher" ; Times: 2
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "Meliarchus sclateri" ; Times: 2
+	Query: "cetorhinus maximus" ; Times: 1
+	Query: "reptilia texas" ; Times: 1
+	Query: "(Florida)" ; Times: 1
+	Query: "Cophixalus balbus" ; Times: 1
+	Query: "ptilinopus victor" ; Times: 3
+	Query: "idiurus" ; Times: 1
+	Query: "eagle" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "(aberdare)" ; Times: 1
+	Query: "Phylloscopus type:specimen" ; Times: 2
+	Query: "Carlia country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "homalopsidae" ; Times: 1
+	Query: "Macropus rufus" ; Times: 2
+	Query: "ontario" ; Times: 1
+	Query: "california" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "Rallidae (Rallidae AND tabuensis)" ; Times: 1
+	Query: "typhlops depressiceps" ; Times: 2
+	Query: "dermoptera" ; Times: 2
+	Query: "101225" ; Times: 1
+	Query: "Oreophryne brachypus" ; Times: 1
+	Query: "genus:Uperoleia specificepithet:lithomoda" ; Times: 1
+	Query: "polystictus" ; Times: 1
+	Query: "Pacific Mackerel" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "pseudaspis" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Istiophoridae type:specimen" ; Times: 5
+	Query: "varanus" ; Times: 1
+	Query: "ara militaris" ; Times: 4
+	Query: "Cardinalis cardinalis year &gt;= 2010 year &lt;= 2015 mappable:1" ; Times: 2
+	Query: "30149" ; Times: 1
+	Query: "Anthornis melanura" ; Times: 2
+	Query: "Green sea turtle" ; Times: 1
+	Query: "wasp" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 1
+	Query: "genus:Crocodylus" ; Times: 1
+	Query: "bothrochilus boa" ; Times: 2
+	Query: "chiroptera" ; Times: 2
+	Query: "riama" ; Times: 2
+	Query: "Cardinalis year &gt;= 2010 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "bats" ; Times: 3
+	Query: "frog" ; Times: 2
+	Query: "country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 2
+	Query: "Jordania zonope" ; Times: 1
+	Query: "Diomedea bulleri" ; Times: 1
+	Query: "maurolicus" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "Cichlidae" ; Times: 1
+	Query: "Cophixalus ornatus" ; Times: 3
+	Query: "anomaluridae" ; Times: 3
+	Query: "indri indri" ; Times: 3
+	Query: "continent:North America year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "genus:Crinia specificepithet:parinsignifera" ; Times: 1
+	Query: "Todiramphus chloris" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 2
+	Query: "victoria point" ; Times: 1
+	Query: "California" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "bullfrog" ; Times: 1
+	Query: "aves" ; Times: 4
+	Query: "Rallidae (Rallidae AND atra)" ; Times: 1
+	Query: "country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "boeleni" ; Times: 1
+	Query: "Bipes" ; Times: 1
+	Query: "sargocentron macrosquamis" ; Times: 3
+	Query: "cercamia am" ; Times: 5
+	Query: "Kangaroo rat mappable:1" ; Times: 1
+	Query: "georgia" ; Times: 2
+	Query: "Galeorhinus galeus" ; Times: 1
+	Query: "ducula bicolor" ; Times: 4
+	Query: "Sebastes carnatus" ; Times: 1
+	Query: "cercamia" ; Times: 2
+	Query: "Lampropholis delicata" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "VertNet" ; Times: 1
+	Query: "irediparra" ; Times: 2
+	Query: "cercamia ams" ; Times: 1
+	Query: "Caperea marginata" ; Times: 1
+	Query: "gilbert" ; Times: 3
+	Query: "Acridotheres tristis" ; Times: 2
+	Query: "tarsier" ; Times: 1
+	Query: "fur" ; Times: 1
+	Query: "P-3992" ; Times: 1
+	Query: "sargocentron ams" ; Times: 1
+	Query: "year &gt;= 2010 year &lt;= 2016" ; Times: 1
+	Query: "myotis" ; Times: 2
+	Query: "proctoporus bolivianus" ; Times: 1
+	Query: "mappable:1" ; Times: 5
+	Query: "72101" ; Times: 1
+	Query: "class:Mammalia" ; Times: 17
+	Query: "Accipiter" ; Times: 1
+	Query: "vulpes" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "92828" ; Times: 1
+	Query: "Tropidophorus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "rhabdamia cypselurus" ; Times: 7
+	Query: "Orcinus orca" ; Times: 2
+	Query: "septentrionalis" ; Times: 1
+	Query: "Anomaluridae" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "demon" ; Times: 3
+	Query: "95118" ; Times: 1
+	Query: "sphenomorphus" ; Times: 1
+	Query: "year &gt;= 1990 year &lt;= 2016" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "platanista gangetica" ; Times: 1
+	Query: "82074" ; Times: 1
+	Query: "&#34;Canis lupus&#34; mappable:1" ; Times: 1
+	Query: "class:aves recordedby:wheeler" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Dermochelys Coriacea" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "philemon buceroides" ; Times: 1
+	Query: "genus:Atrichornis" ; Times: 1
+	Query: "CM" ; Times: 1
+	Query: "genus:hyla" ; Times: 1
+	Query: "year &lt;= 1996" ; Times: 1
+	Query: "Coraciidae" ; Times: 1
+	Query: "specificepithet:brachyrhyncha genus:Rhipidura" ; Times: 2
+	Query: "GAR" ; Times: 1
+	Query: "Diomedea cauta" ; Times: 1
+	Query: "amia calva" ; Times: 2
+	Query: "lepidopus" ; Times: 1
+	Query: "1" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 2
+	Query: "elephant" ; Times: 1
+	Query: "catalognumber:5038 institutioncode:AM" ; Times: 1
+	Query: "steindachneri" ; Times: 1
+	Query: "victoria county" ; Times: 1
+	Query: "Sebastes nebulosus" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "year &gt;= 1900 year &lt;= 2015 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "cerberus rynchops" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "shark" ; Times: 1
+	Query: "victoria" ; Times: 1
+	Query: "delicata" ; Times: 2
+	Query: "tom white" ; Times: 1
+	Query: "country:&#34;mexico&#34;" ; Times: 1
+	Query: "Mammoth" ; Times: 1
+	Query: "sphyrna" ; Times: 1
+	Query: "unicorn" ; Times: 3
+	Query: "fishes" ; Times: 2
+	Query: "33903" ; Times: 1
+	Query: "mussels" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Vormela peregusna" ; Times: 1
+	Query: "76895" ; Times: 2
+	Query: "Melilestes megarhynchus" ; Times: 1
+	Query: "Borneo Rodentia" ; Times: 4
+	Query: "varanus panoptes" ; Times: 1
+	Query: "Synodus sageneus" ; Times: 1
+	Query: "dog" ; Times: 1
+	Query: "Anthornis" ; Times: 1
+	Query: "dragon" ; Times: 9
+	Query: "Rhinobatos" ; Times: 1
+	Query: "los angeles" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 3
+	Query: "Ornithorhynchus anatinus" ; Times: 2
+	Query: "Laticauda" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "oarfish" ; Times: 1
+	Query: "Aves North Reef" ; Times: 2
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 512 download events in this period)
+Total number of records downloaded: 101488
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 24
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-18 ; Times: 10
+	Date: 2016-02-04 ; Times: 4
+	Date: 2016-02-09 ; Times: 2
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-19 ; Times: 12
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 2
+	Date: 2016-02-12 ; Times: 4
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-17 ; Times: 4
+	Date: 2016-02-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Gymnophiona" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "stegonotus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "sculpin" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "continent:North America year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:California" ; Times: 5
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "Borneo Muridae" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "year &gt;= 1900 year &lt;= 2015 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "Atrichornis rufescens" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "Dunham class:Aves" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "callicebus" ; Times: 2
+	Query: "ahaetulla" ; Times: 2
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "dermoptera" ; Times: 3
+	Query: "capito" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+
+
+End of report.
