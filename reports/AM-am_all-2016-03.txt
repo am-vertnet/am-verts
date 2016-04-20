@@ -1,0 +1,172 @@
+Report for Institution Code AM, Resource am_all
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 8139
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 5
+	Country: Australia ; Times: 6
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: United Kingdom ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 74
+	Country: Russia ; Times: 28
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 4
+	Date: 2016-03-02 ; Times: 17
+	Date: 2016-03-03 ; Times: 24
+	Date: 2016-03-01 ; Times: 12
+	Date: 2016-03-08 ; Times: 12
+	Date: 2016-03-09 ; Times: 13
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-14 ; Times: 13
+	Date: 2016-03-05 ; Times: 9
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-10 ; Times: 17
+	Date: 2016-03-13 ; Times: 5
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 5
+	Query: "CATALINA" ; Times: 1
+	Query: "rhabdamia" ; Times: 3
+	Query: "Xenistius californiensis" ; Times: 1
+	Query: "calvert" ; Times: 1
+	Query: "class:Reptilia country:&#34;Greece&#34;" ; Times: 2
+	Query: "Cowan" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "Santa Cruz Island" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "(endeavour) year &gt;= 1870 year &lt;= 1920" ; Times: 1
+	Query: "gregg" ; Times: 2
+	Query: "genus:bdeogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "bat" ; Times: 1
+	Query: "hawaii" ; Times: 1
+	Query: "specificepithet:jacksoni genus:bdeogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "PB 47" ; Times: 1
+	Query: "alcedo" ; Times: 1
+	Query: "MACROPODIDAE" ; Times: 3
+	Query: "fairy" ; Times: 3
+	Query: "Tachybaptus novaehollandiae" ; Times: 1
+	Query: "type:specimen mappable:1" ; Times: 1
+	Query: "fish" ; Times: 1
+	Query: "flycatcher" ; Times: 1
+	Query: "&#34;barn owl&#34;" ; Times: 1
+	Query: "Aves" ; Times: 1
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "vampire" ; Times: 1
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "reptilia texas" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "Columba" ; Times: 1
+	Query: "animalia" ; Times: 1
+	Query: "dwarf" ; Times: 5
+	Query: "Antimora" ; Times: 1
+	Query: "Rhacodactylus chahoua" ; Times: 1
+	Query: "dna" ; Times: 1
+	Query: "Sea snake" ; Times: 3
+	Query: "crocodylus" ; Times: 2
+	Query: "Babyrousa" ; Times: 1
+	Query: "gymnothorax griseus red sea" ; Times: 1
+	Query: "owl" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "family:Passeridae" ; Times: 1
+	Query: "devil" ; Times: 4
+	Query: "mesoplodon" ; Times: 2
+	Query: "Calliophis" ; Times: 1
+	Query: "type:specimen family:Soricidae" ; Times: 1
+	Query: "distance(location,geopoint(37.02009820136811,15.46875))&lt;100000" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "chrysococcyx minutillus" ; Times: 6
+	Query: "116352" ; Times: 2
+	Query: "Cyclura" ; Times: 2
+	Query: "Barnardius Eyre" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "Dacodraco hunteri" ; Times: 2
+	Query: "acridotheres tristis australia" ; Times: 1
+	Query: "pycnonotus jocosus australia" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 5
+	Query: "mappable:1" ; Times: 3
+	Query: "class:Mammalia" ; Times: 7
+	Query: "rhabdamia cypselurus" ; Times: 3
+	Query: "ornis" ; Times: 1
+	Query: "Tv" ; Times: 1
+	Query: "demon" ; Times: 4
+	Query: "hemidactylus" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "Canada Goose" ; Times: 1
+	Query: "archbold" ; Times: 1
+	Query: "VIPERA" ; Times: 2
+	Query: "persons" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "a" ; Times: 1
+	Query: "year &gt;= 1870 year &lt;= 1920" ; Times: 1
+	Query: "dragon" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 2
+	Query: "Laticauda" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 230 download events in this period)
+Total number of records downloaded: 933
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "babyrousa" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Babyrousa" ; Times: 2
+	Query: "Cynops pyrrhogaster mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "agamidae (java)" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+
+
+End of report.
