@@ -1,0 +1,1066 @@
+Report for Institution Code AM, Resource am_all
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1731
+Number of records retrieved in searches: 248478
+Number of different countries where searches have been originated: 31
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 275
+	Country: Brazil ; Times: 26
+	Country: Madagascar ; Times: 1
+	Country: Unknown ; Times: 94
+	Country: Panama ; Times: 284
+	Country: France ; Times: 3
+	Country: Argentina ; Times: 37
+	Country: Venezuela ; Times: 2
+	Country: Australia ; Times: 10
+	Country: Norway ; Times: 3
+	Country: China ; Times: 1
+	Country: Chile ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Germany ; Times: 11
+	Country: Spain ; Times: 30
+	Country: Ukraine ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Poland ; Times: 3
+	Country: United States ; Times: 645
+	Country: Vietnam ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 169
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 81
+	Country: United Kingdom ; Times: 9
+	Country: Colombia ; Times: 15
+	Country: Greece ; Times: 1
+	Country: Japan ; Times: 11
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 10
+	Date: 2016-04-02 ; Times: 6
+	Date: 2016-04-07 ; Times: 54
+	Date: 2016-04-06 ; Times: 124
+	Date: 2016-04-05 ; Times: 63
+	Date: 2016-04-04 ; Times: 43
+	Date: 2016-04-21 ; Times: 57
+	Date: 2016-04-20 ; Times: 30
+	Date: 2016-04-09 ; Times: 31
+	Date: 2016-04-22 ; Times: 216
+	Date: 2016-04-25 ; Times: 28
+	Date: 2016-04-24 ; Times: 20
+	Date: 2016-04-27 ; Times: 53
+	Date: 2016-04-26 ; Times: 58
+	Date: 2016-04-08 ; Times: 183
+	Date: 2016-04-18 ; Times: 93
+	Date: 2016-04-19 ; Times: 170
+	Date: 2016-04-14 ; Times: 65
+	Date: 2016-04-15 ; Times: 38
+	Date: 2016-04-16 ; Times: 23
+	Date: 2016-04-17 ; Times: 34
+	Date: 2016-04-10 ; Times: 30
+	Date: 2016-04-11 ; Times: 55
+	Date: 2016-04-12 ; Times: 76
+	Date: 2016-04-13 ; Times: 67
+	Date: 2016-04-29 ; Times: 51
+	Date: 2016-04-28 ; Times: 31
+	Date: 2016-04-23 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 293
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "skeleton" ; Times: 2
+	Query: "Geophaps" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Hydromys" ; Times: 3
+	Query: "distance(location,geopoint(21.269036,-106.387516))&lt;15000" ; Times: 3
+	Query: "Bombina bombina" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 2
+	Query: "recurvirostra" ; Times: 1
+	Query: "Riparia riparia" ; Times: 3
+	Query: "phalacrocorax carbo" ; Times: 9
+	Query: "aegotheles cristatus" ; Times: 4
+	Query: "bothidae" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-114.717516))&lt;15000" ; Times: 1
+	Query: "inia" ; Times: 2
+	Query: "perciformes" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "0" ; Times: 2
+	Query: "Natrix natrix" ; Times: 2
+	Query: "COTTIDAE" ; Times: 5
+	Query: "19404" ; Times: 1
+	Query: "genus:Pseudophryne specificepithet:corroboree" ; Times: 1
+	Query: "River Frog" ; Times: 1
+	Query: "Anseriformes" ; Times: 1
+	Query: "biological survey" ; Times: 2
+	Query: "Megophrys" ; Times: 1
+	Query: "GIS" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.787516))&lt;15000" ; Times: 1
+	Query: "151 ONTARIO 1" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "notomys alexis" ; Times: 6
+	Query: "distance(location,geopoint(25.519036,-110.977516))&lt;15000" ; Times: 1
+	Query: "pseudomys desertor" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Chico" ; Times: 1
+	Query: "ALEPOCEPHALIDAE" ; Times: 3
+	Query: "distance(location,geopoint(25.519036,-111.147516))&lt;15000" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "hawaii" ; Times: 4
+	Query: "Nactus (Papua New Guinea OR Indonesia)" ; Times: 3
+	Query: "Pogonomys" ; Times: 4
+	Query: "Paramelomys" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-109.447516))&lt;15000" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 4
+	Query: "specificepithet:bivirgata genus:Calliophis" ; Times: 2
+	Query: "mugil cephalus" ; Times: 1
+	Query: "ONTARIO 1" ; Times: 16
+	Query: "&#34;bluff river&#34;" ; Times: 1
+	Query: "Green AND Island" ; Times: 1
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "Falconiformes" ; Times: 2
+	Query: "type:specimen genus:Neophoca order:Carnivora" ; Times: 1
+	Query: "plectorhinchus lineatus" ; Times: 1
+	Query: "OXYNOTIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 3
+	Query: "24556" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "APTERONOTIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 2
+	Query: "copenhagen" ; Times: 1
+	Query: "gambusia" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "type:specimen genus:Mirounga order:Carnivora" ; Times: 3
+	Query: "distance(location,geopoint(23.819036,-109.617516))&lt;15000" ; Times: 1
+	Query: "pelamis platurus" ; Times: 1
+	Query: "year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "genus:Litoria specificepithet:piperata" ; Times: 3
+	Query: "Podicipedidae" ; Times: 1
+	Query: "Coccymys" ; Times: 1
+	Query: "vampire" ; Times: 18
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "Eurostopodus" ; Times: 1
+	Query: "riparia riparia" ; Times: 4
+	Query: "bird" ; Times: 4
+	Query: "40472" ; Times: 1
+	Query: "queen snake" ; Times: 1
+	Query: "dwarf" ; Times: 16
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "berkeley" ; Times: 1
+	Query: "Nactus" ; Times: 2
+	Query: "specificepithet:novaeguineae genus:Crocodylus" ; Times: 7
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "(Mexico)" ; Times: 1
+	Query: "bell mammalia" ; Times: 1
+	Query: "CENTROLOPHIDAE" ; Times: 1
+	Query: "humpback whale" ; Times: 1
+	Query: "colubridae" ; Times: 1
+	Query: "Mammalia" ; Times: 3
+	Query: "abudefduf" ; Times: 1
+	Query: "type:specimen specificepithet:alexis genus:notomys" ; Times: 1
+	Query: "Stewart AND Island" ; Times: 1
+	Query: "126420" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "M. McLeod" ; Times: 1
+	Query: "GRAMMICOLEPIDIDAE" ; Times: 1
+	Query: "11221" ; Times: 1
+	Query: "EPIGONIDAE" ; Times: 1
+	Query: "Emoia caeruleocauda" ; Times: 2
+	Query: "gymnothorax" ; Times: 2
+	Query: "Rowley AND Island" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "copperhead" ; Times: 1
+	Query: "heterodontus francisci" ; Times: 4
+	Query: "rainbow snake" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "Chiricahua Mountains (Mammalia)" ; Times: 2
+	Query: "SYMPHYSANODONTIDAE" ; Times: 1
+	Query: "pseudomys" ; Times: 2
+	Query: "vultur" ; Times: 1
+	Query: "Stegonotus modestus" ; Times: 3
+	Query: "sargocentron macrosquamis" ; Times: 1
+	Query: "RAJIDAE" ; Times: 2
+	Query: "MORIDAE" ; Times: 1
+	Query: "MOLIDAE" ; Times: 3
+	Query: "natrix natrix" ; Times: 1
+	Query: "heterodontidae" ; Times: 2
+	Query: "HEMIRAMPHIDAE" ; Times: 2
+	Query: "CHANIDAE" ; Times: 2
+	Query: "GEMPYLIDAE" ; Times: 1
+	Query: "Uromys hadrourus" ; Times: 1
+	Query: "reptilia D.F" ; Times: 1
+	Query: "lampropholis coggeri" ; Times: 1
+	Query: "RACHYCENTRIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "Omobranchus" ; Times: 1
+	Query: "specificepithet:stagnatilis" ; Times: 2
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "centralis" ; Times: 2
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "Monkey" ; Times: 1
+	Query: "(Texas)" ; Times: 1
+	Query: "75377" ; Times: 2
+	Query: "RHINOCHIMAERIDAE" ; Times: 2
+	Query: "Emoia impar" ; Times: 1
+	Query: "Chiricahua Mountains (Mammalia Carnivora )" ; Times: 1
+	Query: "genus:Leiopelma specificepithet:hochstetteri" ; Times: 25
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "91380" ; Times: 1
+	Query: "dimidiata" ; Times: 2
+	Query: "Gerrhosaurus" ; Times: 1
+	Query: "raja ampat" ; Times: 1
+	Query: "Notomys" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "Abeomelomys" ; Times: 1
+	Query: "crocodylus novaeguineae" ; Times: 7
+	Query: "Uromys rex" ; Times: 1
+	Query: "RHINCODONTIDAE" ; Times: 1
+	Query: "1" ; Times: 7
+	Query: "rhinoceros" ; Times: 1
+	Query: "Anisomys" ; Times: 3
+	Query: "SCARIDAE" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "pseudomys oralis" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 2
+	Query: "specificepithet:jacksoni genus:bdeogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "Microhydromys" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "SOMNIOSIDAE" ; Times: 2
+	Query: "Mus mus" ; Times: 1
+	Query: "Hyla arborea" ; Times: 2
+	Query: "country:&#34;mexico&#34;" ; Times: 1
+	Query: "galemys" ; Times: 3
+	Query: "Hydromys hussoni" ; Times: 1
+	Query: "Stegonotus cucullatus" ; Times: 4
+	Query: "beebei" ; Times: 1
+	Query: "Procellariiformes" ; Times: 1
+	Query: "dragon" ; Times: 20
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 3
+	Query: "11650" ; Times: 3
+	Query: "catalognumber:104238" ; Times: 1
+	Query: "129686" ; Times: 1
+	Query: "owl" ; Times: 1
+	Query: "Balaenoptera" ; Times: 1
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "NOMEIDAE" ; Times: 3
+	Query: "57321" ; Times: 1
+	Query: "Hyomys" ; Times: 3
+	Query: "ACROPOMATIDAE" ; Times: 2
+	Query: "Meroles namibia" ; Times: 2
+	Query: "crex" ; Times: 2
+	Query: "sea lemon" ; Times: 1
+	Query: "ATHERINOPSIDAE" ; Times: 3
+	Query: "mastacomys" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "2012" ; Times: 2
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "podargus ocellatus" ; Times: 2
+	Query: "violacea" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "MINNESOTA" ; Times: 1
+	Query: "salamander" ; Times: 1
+	Query: "ctenotus" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "makira type:specimen" ; Times: 2
+	Query: "ku mammalia" ; Times: 1
+	Query: "EMMELICHTHYIDAE" ; Times: 1
+	Query: "pseudomys novaehollandiae" ; Times: 1
+	Query: "Rat" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "fairy" ; Times: 17
+	Query: "NARCINIDAE" ; Times: 1
+	Query: "RHINOPTERIDAE" ; Times: 1
+	Query: "Papua type:specimen family:Muridae" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.387516))&lt;15000" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "Melomys matambuai" ; Times: 1
+	Query: "HEMISCYLLIIDAE" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "&#34;lampropholis coggeri&#34; type:specimen mappable:1" ; Times: 2
+	Query: "14199" ; Times: 1
+	Query: "TRIACANTHODIDAE" ; Times: 3
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "pigeon" ; Times: 2
+	Query: "Huri" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "Calliope" ; Times: 1
+	Query: "darling" ; Times: 1
+	Query: "Calliope calliope" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 4
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "Hemphill" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "MICRODESMIDAE" ; Times: 1
+	Query: "108467" ; Times: 1
+	Query: "Amphibia" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "marine" ; Times: 1
+	Query: "Thylacine" ; Times: 1
+	Query: "TRIPTERYGIIDAE" ; Times: 1
+	Query: "albatross" ; Times: 1
+	Query: "Muraena" ; Times: 2
+	Query: "Gunnellichthys" ; Times: 1
+	Query: "plicofollis dussumieri" ; Times: 4
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "wood frog" ; Times: 2
+	Query: "scutulatus" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "Brazil" ; Times: 1
+	Query: "PINGUIPEDIDAE" ; Times: 3
+	Query: "major" ; Times: 1
+	Query: "Cooper" ; Times: 3
+	Query: "Uromys" ; Times: 1
+	Query: "1900 Jackson" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.617516))&lt;15000" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "135680" ; Times: 1
+	Query: "CLINIDAE" ; Times: 3
+	Query: "distance(location,geopoint(25.009036,-110.637516))&lt;15000" ; Times: 1
+	Query: "161142" ; Times: 1
+	Query: "Pogonomelomys" ; Times: 1
+	Query: "CORYPHAENIDAE" ; Times: 3
+	Query: "brown trout" ; Times: 1
+	Query: "crow" ; Times: 1
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "gilbert" ; Times: 1
+	Query: "herpetology" ; Times: 1
+	Query: "liza carinata" ; Times: 1
+	Query: "Skull" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "Canidae" ; Times: 2
+	Query: "Melomys rubicola" ; Times: 1
+	Query: "hoplocephalus bitorquatus" ; Times: 2
+	Query: "158056" ; Times: 1
+	Query: "SCOMBROPIDAE" ; Times: 1
+	Query: "Eremias multiocellata" ; Times: 51
+	Query: "MULLIDAE" ; Times: 2
+	Query: "porcupine" ; Times: 1
+	Query: "aves" ; Times: 6
+	Query: "african collections" ; Times: 1
+	Query: "PRISTIGASTERIDAE" ; Times: 1
+	Query: "pseudoplesiops maldives" ; Times: 1
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "CENTROPHORIDAE" ; Times: 1
+	Query: "hyla" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "mappable:1" ; Times: 11
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "HETERENCHELYIDAE" ; Times: 1
+	Query: "type:specimen month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "leiopelma" ; Times: 1
+	Query: "procellaria aequinoctialis" ; Times: 1
+	Query: "sula dactylatra" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "pogonomys" ; Times: 3
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "BLENNIIDAE" ; Times: 1
+	Query: "crocodylus porosus" ; Times: 2
+	Query: "179836" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "163822" ; Times: 1
+	Query: "class:aves catalognumber:26819" ; Times: 1
+	Query: "Cheloniidae" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "&#34;carlia rubrigularis&#34; type:specimen mappable:1" ; Times: 1
+	Query: "ZEIDAE" ; Times: 1
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "reptilia skeleton" ; Times: 1
+	Query: "koala" ; Times: 1
+	Query: "Sparidae" ; Times: 1
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "Island AND 1915" ; Times: 1
+	Query: "Zyzomys" ; Times: 2
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "santa maria" ; Times: 1
+	Query: "darling 1977" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "REGALECIDAE" ; Times: 2
+	Query: "odontophoridae" ; Times: 1
+	Query: "ARHYNCHOBATIDAE" ; Times: 1
+	Query: "caesio cuning" ; Times: 1
+	Query: "Herpetology" ; Times: 2
+	Query: "APLODACTYLIDAE" ; Times: 1
+	Query: "ichthyology" ; Times: 6
+	Query: "ONTARIO" ; Times: 16
+	Query: "CHAUNACIDAE" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "anatidae" ; Times: 3
+	Query: "KUHLIIDAE" ; Times: 2
+	Query: "PRISTIOPHORIDAE" ; Times: 1
+	Query: "156622" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "omobranchus punctatus" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.957516))&lt;15000" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "38 ONTARIO 1" ; Times: 1
+	Query: "ku" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-106.387516))&lt;15000" ; Times: 6
+	Query: "Aves" ; Times: 2
+	Query: "Passer domesticus" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.447516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-109.787516))&lt;15000" ; Times: 2
+	Query: "macruromys" ; Times: 2
+	Query: "Myocaster" ; Times: 1
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "specificepithet:JACKSONI genus:BDEOGALE family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "CHIROPTERA" ; Times: 1
+	Query: "synodus jaculum" ; Times: 1
+	Query: "SYNBRANCHIDAE" ; Times: 1
+	Query: "year &gt;= 1950 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "cryptotis" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.887516))&lt;15000" ; Times: 1
+	Query: "Graham pectoralis" ; Times: 1
+	Query: "Manis" ; Times: 1
+	Query: "(minnesota)" ; Times: 1
+	Query: "jay" ; Times: 1
+	Query: "Xenuromys" ; Times: 1
+	Query: "Corvus AND Island" ; Times: 1
+	Query: "28423" ; Times: 2
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-109.957516))&lt;15000" ; Times: 1
+	Query: "genus:notomys" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "boulder" ; Times: 1
+	Query: "Green AND Santa Cruz Island" ; Times: 2
+	Query: "POMACANTHIDAE" ; Times: 3
+	Query: "neon" ; Times: 1
+	Query: "Zyzomys Northern Territory" ; Times: 1
+	Query: "pseudomys fieldi" ; Times: 1
+	Query: "rIPARIA RIPARIA" ; Times: 1
+	Query: "ZENIONIDAE" ; Times: 1
+	Query: "echidna delicatula" ; Times: 1
+	Query: "genus:BDEOGALE family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 2
+	Query: "parahydromys" ; Times: 1
+	Query: "CALLORHINCHIDAE" ; Times: 2
+	Query: "class:aves" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-111.657516))&lt;15000" ; Times: 1
+	Query: "Solomys salamonis" ; Times: 1
+	Query: "(orca)" ; Times: 2
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "orca" ; Times: 1
+	Query: "Cruise 13" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-109.957516))&lt;15000" ; Times: 1
+	Query: "MURAENESOCIDAE" ; Times: 1
+	Query: "Phasianidae" ; Times: 3
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 2
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "bee" ; Times: 1
+	Query: "Paraleptomys" ; Times: 1
+	Query: "Uromys emmae" ; Times: 1
+	Query: "pseudomys apodemoides" ; Times: 2
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "mangaia" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Eugongylus albofasciolatus" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "Conilurus penicillatus" ; Times: 1
+	Query: "ARIOMMATIDAE" ; Times: 1
+	Query: "BELONIDAE" ; Times: 4
+	Query: "NETTASTOMATIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "podiceps cristatus" ; Times: 5
+	Query: "MURAENIDAE" ; Times: 3
+	Query: "pelamis" ; Times: 1
+	Query: "(africa)" ; Times: 1
+	Query: "year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "hydrophis coggeri" ; Times: 1
+	Query: "Crossomys" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "year &gt;= 1960 year &lt;= 1965" ; Times: 1
+	Query: "Zyzomys pedunculatus" ; Times: 1
+	Query: "O. Howard AND Island" ; Times: 1
+	Query: "perochirus ateles" ; Times: 1
+	Query: "genus:Leiopelma specificepithet:hamiltoni" ; Times: 10
+	Query: "Stegonotus parvus" ; Times: 6
+	Query: "polystictus" ; Times: 1
+	Query: "peregrine falcon" ; Times: 2
+	Query: "ball python" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 3
+	Query: "distance(location,geopoint(24.329036,-110.297516))&lt;15000" ; Times: 1
+	Query: "pseudomys bolami" ; Times: 2
+	Query: "Gonocephalus" ; Times: 3
+	Query: "elf" ; Times: 20
+	Query: "chiroptera" ; Times: 2
+	Query: "carcharodon carcharias" ; Times: 3
+	Query: "SCATOPHAGIDAE" ; Times: 1
+	Query: "lorentzimys" ; Times: 4
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 2
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "PILOSA" ; Times: 1
+	Query: "devil" ; Times: 3
+	Query: "carcharhinidae" ; Times: 1
+	Query: "Cyrtodactylus" ; Times: 1
+	Query: "country:&#34;mexico&#34; continent:america" ; Times: 2
+	Query: "caretta" ; Times: 1
+	Query: "c. porosus" ; Times: 1
+	Query: "SYNAPHOBRANCHIDAE" ; Times: 2
+	Query: "chiruromys" ; Times: 6
+	Query: "melidora" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "mammelomys" ; Times: 2
+	Query: "CM" ; Times: 1
+	Query: "&#34;Two Islands&#34;" ; Times: 1
+	Query: "conservation international" ; Times: 1
+	Query: "tiger" ; Times: 2
+	Query: "class:aves catalognumber:41515" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "Tylosurus" ; Times: 2
+	Query: "EXOCOETIDAE" ; Times: 2
+	Query: "MORINGUIDAE" ; Times: 1
+	Query: "otter" ; Times: 2
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "Carnivora" ; Times: 1
+	Query: "pseudomys australis" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "myotis" ; Times: 1
+	Query: "CAPROIDAE" ; Times: 2
+	Query: "Emoia jakati" ; Times: 1
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "Jackson 1917" ; Times: 1
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "crex crex" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "portugal" ; Times: 1
+	Query: "ornithology" ; Times: 7
+	Query: "AMMODYTIDAE]" ; Times: 1
+	Query: "demon" ; Times: 19
+	Query: "Bat" ; Times: 1
+	Query: "Litoria montana" ; Times: 1
+	Query: "AULOPIDAE" ; Times: 6
+	Query: "chaetodon unimaculatus" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Rhabdophis" ; Times: 2
+	Query: "OPLEGNATHIDAE" ; Times: 1
+	Query: "distance(location,geopoint(26.539036,-111.317516))&lt;15000" ; Times: 1
+	Query: "gallinula" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "eryx miliaris" ; Times: 1
+	Query: "monarch" ; Times: 1
+	Query: "BRAMIDAE" ; Times: 2
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "LAMPRIDAE" ; Times: 1
+	Query: "class:Aves" ; Times: 142
+	Query: "ammotragus" ; Times: 2
+	Query: "Melomys bougainville" ; Times: 1
+	Query: "CHEILODACTYLIDAE" ; Times: 1
+	Query: "unicorn" ; Times: 2
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-111.997516))&lt;15000" ; Times: 1
+	Query: "panaspis breviceps" ; Times: 1
+	Query: "Peacock" ; Times: 1
+	Query: "Lerista kalumburu" ; Times: 1
+	Query: "indonesia" ; Times: 1
+	Query: "mus musculus" ; Times: 2
+	Query: "AM rhabdamia" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "DAPTION CAPENSE" ; Times: 1
+	Query: "arenicolor" ; Times: 1
+	Query: "PRIACANTHIDAE" ; Times: 1
+	Query: "makira type:specimen class:reptilia" ; Times: 1
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "Royal Ontario Museum" ; Times: 2
+	Query: "OPHICHTHIDAE" ; Times: 2
+	Query: "canis lupus" ; Times: 1
+	Query: "Leporillus" ; Times: 2
+	Query: "pseudomys pilligaensis" ; Times: 1
+	Query: "Black Tern" ; Times: 1
+	Query: "uropterygius supraforatus" ; Times: 2
+	Query: "heterodontus" ; Times: 1
+	Query: "Pelecaniformes" ; Times: 1
+	Query: "38758" ; Times: 1
+	Query: "Green AND &#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "&#34;carlia rhomboidalis&#34; type:specimen mappable:1" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "DRACONETTIDAE" ; Times: 1
+	Query: "megalura" ; Times: 1
+	Query: "saguinus oedipus" ; Times: 3
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "LOBOTIDAE" ; Times: 2
+	Query: "R-15469" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "GOBIESOCIDAE" ; Times: 3
+	Query: "TK" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.637516))&lt;15000" ; Times: 1
+	Query: "APLOCHEILIDAE" ; Times: 1
+	Query: "Scincidae (Skeleton)" ; Times: 2
+	Query: "38882" ; Times: 1
+	Query: "type:specimen specificepithet:novaeguineae genus:crocodylus" ; Times: 1
+	Query: "LUVARIDAE" ; Times: 2
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "24268" ; Times: 2
+	Query: "Gymnodactylus" ; Times: 1
+	Query: "Swan Island" ; Times: 2
+	Query: "(newfoundland)" ; Times: 1
+	Query: "&#34;05-1900&#34;" ; Times: 2
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "Oceanodroma leucorhoa" ; Times: 1
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "Paramelomys mollis" ; Times: 1
+	Query: "58425" ; Times: 1
+	Query: "Leporillus apicalis" ; Times: 1
+	Query: "Ornithology" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "boiga" ; Times: 1
+	Query: "ATELES" ; Times: 1
+	Query: "HAEMULIDAE" ; Times: 4
+	Query: "pectoralis" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "family:Belonidae stateprovince:&#34;Hawaii&#34;" ; Times: 4
+	Query: "Carcharhinidae" ; Times: 1
+	Query: "PERCOPHIDAE" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Danio" ; Times: 1
+	Query: "mus" ; Times: 3
+	Query: "distance(location,geopoint(28.749036,-113.017516))&lt;15000" ; Times: 1
+	Query: "Boidae" ; Times: 2
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "fox" ; Times: 1
+	Query: "cyrtodactylus type:specimen class:reptilia country:&#34;solomon&#34;" ; Times: 1
+	Query: "BERYCIDAE" ; Times: 1
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "ETMOPTERIDAE" ; Times: 1
+	Query: "mosquito specimen" ; Times: 1
+	Query: "PEMPHERIDAE" ; Times: 1
+	Query: "Inia" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "herpet*" ; Times: 1
+	Query: "57993" ; Times: 1
+	Query: "thailand" ; Times: 1
+	Query: "solomon islands class:aves" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "KU 100000" ; Times: 2
+	Query: "Elaphe climacophora" ; Times: 1
+	Query: "BREGMACEROTIDAE" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-110.467516))&lt;15000" ; Times: 1
+	Query: "CHLOROPHTHALMIDAE" ; Times: 1
+	Query: "natrix" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "ANACANTHOBATIDAE" ; Times: 1
+	Query: "turtle" ; Times: 2
+	Query: "perochirus" ; Times: 1
+	Query: "sterna paradisaea" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-105.367516))&lt;15000" ; Times: 4
+	Query: "Leggadina" ; Times: 5
+	Query: "149 ONTARIO 1" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-109.447516))&lt;15000" ; Times: 2
+	Query: "Typhlopidae" ; Times: 1
+	Query: "ZANCLIDAE" ; Times: 3
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "ontario" ; Times: 5
+	Query: "Appleton AND Island" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Uromys neobritannicus" ; Times: 1
+	Query: "POLYMIXIIDAE" ; Times: 1
+	Query: "MOBULIDAE" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-111.997516))&lt;15000" ; Times: 1
+	Query: "179835" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.977516))&lt;15000" ; Times: 1
+	Query: "4890" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-109.447516))&lt;15000" ; Times: 1
+	Query: "87674" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "pseudomys fumeus" ; Times: 2
+	Query: "distance(location,geopoint(31.129036,-114.887516))&lt;15000" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "SCHINDLERIIDAE" ; Times: 1
+	Query: "pelecanus" ; Times: 2
+	Query: "Leopardus" ; Times: 1
+	Query: "CHLAMYDOSELACHIDAE" ; Times: 3
+	Query: "distance(location,geopoint(20.759036,-105.537516))&lt;15000" ; Times: 3
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "Chiroptera" ; Times: 1
+	Query: "Pseudohydromys" ; Times: 1
+	Query: "class:Mammalia" ; Times: 30
+	Query: "Hyporhamphus" ; Times: 4
+	Query: "catalognumber:148685" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "165880" ; Times: 1
+	Query: "blackbird" ; Times: 1
+	Query: "boeleni" ; Times: 2
+	Query: "OPISTOGNATHIDAE" ; Times: 3
+	Query: "ALOPIAS VULPINUS" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "SPARIDAE" ; Times: 2
+	Query: "Solomys" ; Times: 1
+	Query: "CARAPIDAE" ; Times: 3
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "Pilosa" ; Times: 2
+	Query: "CHLOPSIDAE" ; Times: 2
+	Query: "AMMODYTIDAE" ; Times: 3
+	Query: "hemidactylus" ; Times: 3
+	Query: "lacerta saxicola" ; Times: 3
+	Query: "XIPHIIDAE" ; Times: 2
+	Query: "Tyto AND Island" ; Times: 1
+	Query: "MSB" ; Times: 1
+	Query: "103433" ; Times: 2
+	Query: "1 ONTARIO 1" ; Times: 3
+	Query: "PLEURONECTIDAE" ; Times: 4
+	Query: "PERISTEDIIDAE" ; Times: 2
+	Query: "Xeromys" ; Times: 1
+	Query: "class:aves catalognumber:23552" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Melomys obiensis" ; Times: 1
+	Query: "Notomys alexis" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Lorentzimys" ; Times: 2
+	Query: "genus:bdeogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Omobranchus punctatus" ; Times: 7
+	Query: "DASYATIDAE" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 2
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Procyonidae" ; Times: 1
+	Query: "fisher" ; Times: 2
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "10371" ; Times: 1
+	Query: "Emoia boettgeri" ; Times: 2
+	Query: "Mesembriomys" ; Times: 1
+	Query: "Felis AND Island" ; Times: 1
+	Query: "Paramelomys gressitti" ; Times: 1
+	Query: "Leptomys" ; Times: 1
+	Query: "Mallomys" ; Times: 2
+	Query: "distance(location,geopoint(23.309036,-106.387516))&lt;15000" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "cacophis" ; Times: 2
+	Query: "KU 48" ; Times: 1
+	Query: "PARAZENIDAE" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 295 (out of 1312 download events in this period)
+Total number of records downloaded: 922856
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Colombia ; Times: 5
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 17
+	Country: Panama ; Times: 236
+	Country: United States ; Times: 24
+	Country: Chile ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 4
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 4
+	Date: 2016-04-09 ; Times: 3
+	Date: 2016-04-22 ; Times: 118
+	Date: 2016-04-25 ; Times: 5
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-26 ; Times: 10
+	Date: 2016-04-18 ; Times: 4
+	Date: 2016-04-19 ; Times: 94
+	Date: 2016-04-14 ; Times: 2
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-12 ; Times: 5
+	Date: 2016-04-13 ; Times: 8
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-23 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 1
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "OPLEGNATHIDAE" ; Times: 1
+	Query: "GRAMMATIDAE" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "NOMEIDAE" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "SYNBRANCHIDAE" ; Times: 1
+	Query: "ACROPOMATIDAE" ; Times: 1
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "RHINCODONTIDAE" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "BRAMIDAE" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "&#34;carlia rhomboidalis&#34; type:specimen mappable:1" ; Times: 1
+	Query: "LABRISOMIDAE" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "DRACONETTIDAE" ; Times: 1
+	Query: "MORINGUIDAE" ; Times: 1
+	Query: "ATHERINOPSIDAE" ; Times: 2
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "LOBOTIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "POMACANTHIDAE" ; Times: 2
+	Query: "APLOCHEILIDAE" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "SOMNIOSIDAE" ; Times: 2
+	Query: "LUVARIDAE" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "ALEPOCEPHALIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "EMMELICHTHYIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "CALLORHINCHIDAE" ; Times: 4
+	Query: "class:aves" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "TRIACANTHODIDAE" ; Times: 2
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "SCATOPHAGIDAE" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "RACHYCENTRIDAE" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "class:Mammalia" ; Times: 12
+	Query: "NARCINIDAE" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "RHINOPTERIDAE" ; Times: 1
+	Query: "OXYNOTIDAE" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "PERCOPHIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "APTERONOTIDAE" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "ASPREDINIDAE" ; Times: 1
+	Query: "HEMISCYLLIIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "ichthyology" ; Times: 1
+	Query: "&#34;lampropholis coggeri&#34; type:specimen mappable:1" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "GEMPYLIDAE" ; Times: 2
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "BERYCIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "ETMOPTERIDAE" ; Times: 1
+	Query: "PEMPHERIDAE" ; Times: 1
+	Query: "NETTASTOMATIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "ARIOMMATIDAE" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "ARHYNCHOBATIDAE" ; Times: 1
+	Query: "MICRODESMIDAE" ; Times: 1
+	Query: "DACTYLOSCOPIDAE" ; Times: 1
+	Query: "Nactus" ; Times: 1
+	Query: "POTAMOTRYGONIDAE" ; Times: 2
+	Query: "TRIPTERYGIIDAE" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "BREGMACEROTIDAE" ; Times: 1
+	Query: "CHLOROPHTHALMIDAE" ; Times: 1
+	Query: "CENTROLOPHIDAE" ; Times: 1
+	Query: "ANACANTHOBATIDAE" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "PINGUIPEDIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "ZANCLIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "GRAMMICOLEPIDIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "EPIGONIDAE" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "Sciurus niger" ; Times: 1
+	Query: "CALLICHTHYIDAE" ; Times: 2
+	Query: "heterodontus francisci" ; Times: 1
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "CORYPHAENIDAE" ; Times: 1
+	Query: "POLYMIXIIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "SYMPHYSANODONTIDAE" ; Times: 1
+	Query: "PRISTIGASTERIDAE" ; Times: 1
+	Query: "MOBULIDAE" ; Times: 1
+	Query: "SYNAPHOBRANCHIDAE" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "hoplocephalus bitorquatus" ; Times: 3
+	Query: "SCOMBROPIDAE" ; Times: 1
+	Query: "CARAPIDAE" ; Times: 2
+	Query: "MOLIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "aves" ; Times: 1
+	Query: "HEMIRAMPHIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "KUHLIIDAE" ; Times: 2
+	Query: "Ara macao" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "SCHINDLERIIDAE" ; Times: 1
+	Query: "CHANIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "CENTROPHORIDAE" ; Times: 1
+	Query: "CHLAMYDOSELACHIDAE" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "MURAENESOCIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "mappable:1" ; Times: 5
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "CAPROIDAE" ; Times: 1
+	Query: "HETERENCHELYIDAE" ; Times: 1
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "OPISTOGNATHIDAE" ; Times: 1
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "galemys" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "RHINOCHIMAERIDAE" ; Times: 1
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "CHLOPSIDAE" ; Times: 1
+	Query: "Litoria montana" ; Times: 1
+	Query: "AULOPIDAE" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "&#34;carlia rubrigularis&#34; type:specimen mappable:1" ; Times: 1
+	Query: "ZEIDAE" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "REGALECIDAE" ; Times: 2
+	Query: "ctenotus" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "APLODACTYLIDAE" ; Times: 1
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "CHAUNACIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "LAMPRIDAE" ; Times: 1
+	Query: "CHAENOPSIDAE" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "CHEILODACTYLIDAE" ; Times: 1
+	Query: "SCOPHTHALMIDAE" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "PRISTIOPHORIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "AUCHENIPTERIDAE" ; Times: 1
+	Query: "MULLIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "ZENIONIDAE" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "PERISTEDIIDAE" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+	Query: "PRIACANTHIDAE" ; Times: 1
+	Query: "PARAZENIDAE" ; Times: 1
+
+
+End of report.
