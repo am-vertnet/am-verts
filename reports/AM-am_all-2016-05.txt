@@ -1,0 +1,322 @@
+Report for Institution Code AM, Resource am_all
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 402
+Number of records retrieved in searches: 19393
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 6
+	Country: Unknown ; Times: 8
+	Country: Micronesia ; Times: 1
+	Country: France ; Times: 6
+	Country: Bolivia ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 7
+	Country: China ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Thailand ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Philippines ; Times: 3
+	Country: United States ; Times: 268
+	Country: Russia ; Times: 35
+	Country: Mexico ; Times: 30
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 10
+	Date: 2016-05-18 ; Times: 4
+	Date: 2016-05-17 ; Times: 6
+	Date: 2016-05-16 ; Times: 8
+	Date: 2016-05-15 ; Times: 10
+	Date: 2016-05-14 ; Times: 14
+	Date: 2016-05-13 ; Times: 15
+	Date: 2016-05-12 ; Times: 14
+	Date: 2016-05-11 ; Times: 8
+	Date: 2016-05-10 ; Times: 5
+	Date: 2016-05-31 ; Times: 85
+	Date: 2016-05-30 ; Times: 8
+	Date: 2016-05-08 ; Times: 17
+	Date: 2016-05-09 ; Times: 11
+	Date: 2016-05-01 ; Times: 3
+	Date: 2016-05-02 ; Times: 8
+	Date: 2016-05-03 ; Times: 8
+	Date: 2016-05-04 ; Times: 14
+	Date: 2016-05-05 ; Times: 8
+	Date: 2016-05-06 ; Times: 16
+	Date: 2016-05-07 ; Times: 20
+	Date: 2016-05-26 ; Times: 15
+	Date: 2016-05-27 ; Times: 26
+	Date: 2016-05-24 ; Times: 8
+	Date: 2016-05-25 ; Times: 9
+	Date: 2016-05-22 ; Times: 7
+	Date: 2016-05-23 ; Times: 10
+	Date: 2016-05-20 ; Times: 8
+	Date: 2016-05-21 ; Times: 13
+	Date: 2016-05-28 ; Times: 6
+	Date: 2016-05-29 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 3
+	Query: "Bradbury AND ISland" ; Times: 2
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "Burhinus grallarius" ; Times: 1
+	Query: "Myzomela nigrita" ; Times: 2
+	Query: "canis lupus" ; Times: 3
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 1
+	Query: "vampire" ; Times: 5
+	Query: "Pachydactylus punctatus" ; Times: 3
+	Query: "python molurus" ; Times: 1
+	Query: "Emoia caeruleocauda island new guinea" ; Times: 1
+	Query: "neophema" ; Times: 2
+	Query: "Raven" ; Times: 2
+	Query: "modestus" ; Times: 1
+	Query: "tregellasia leucops" ; Times: 1
+	Query: "university of minnesota" ; Times: 1
+	Query: "bell museum" ; Times: 1
+	Query: "whiptail" ; Times: 1
+	Query: "150944" ; Times: 1
+	Query: "tregellasia" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "turdus" ; Times: 1
+	Query: "specificepithet:productus genus:Rhinobatos" ; Times: 3
+	Query: "rge" ; Times: 1
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "order:Anura (6584)" ; Times: 2
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "leopard frog" ; Times: 2
+	Query: "reptilia year &gt;= 2014 year &lt;= 2015" ; Times: 1
+	Query: "Lepidodactylus" ; Times: 1
+	Query: "Blake AND Island" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "snake" ; Times: 1
+	Query: "LM 1932" ; Times: 1
+	Query: "specificepithet: marinus genus: bufo year &gt;= 1800 year &lt;= 1950" ; Times: 2
+	Query: "bat" ; Times: 1
+	Query: "133942" ; Times: 1
+	Query: "Washington" ; Times: 1
+	Query: "chordata" ; Times: 2
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "Pedionomus torquatus" ; Times: 1
+	Query: "Myiagra ruficollis" ; Times: 1
+	Query: "fairy" ; Times: 8
+	Query: "Neophema" ; Times: 1
+	Query: "turtle" ; Times: 2
+	Query: "type:specimen specificepithet:novaeguineae genus:Crocodylus" ; Times: 1
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "Carcharhinidae" ; Times: 1
+	Query: "Pterois miles" ; Times: 2
+	Query: "hare" ; Times: 1
+	Query: "id:42235" ; Times: 1
+	Query: "A. Downs" ; Times: 2
+	Query: "Litoria angiana" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 8
+	Query: "Sylviidae" ; Times: 1
+	Query: "class:amphibia" ; Times: 1
+	Query: "rhinobatos productus" ; Times: 3
+	Query: "Cryptoblepharus plagiocephalus" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 2
+	Query: "laticaudata" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "year &gt;= 1996 year &lt;= 2016" ; Times: 1
+	Query: "Myzomela eichhorni" ; Times: 10
+	Query: "Melidectes" ; Times: 1
+	Query: "bird" ; Times: 4
+	Query: "arizona" ; Times: 1
+	Query: "dwarf" ; Times: 5
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "class:Actinopterygii" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 10
+	Query: "class:Amphibia mappable:1 distance(location,geopoint(4.521666342614791,112.1923828125))&lt;937819.0681547445" ; Times: 1
+	Query: "Amblyornis" ; Times: 1
+	Query: "parapriacanthus dispar" ; Times: 1
+	Query: "quoyi" ; Times: 1
+	Query: "Squamata" ; Times: 2
+	Query: "distance(location,geopoint(20.827036,-105.509516))&lt;15000" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "Panda" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 3
+	Query: "110018}" ; Times: 1
+	Query: "Red Knot" ; Times: 1
+	Query: "Anguis" ; Times: 4
+	Query: "nasua narica" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 3
+	Query: "Puffinus carneipes" ; Times: 1
+	Query: "57306" ; Times: 1
+	Query: "manni" ; Times: 2
+	Query: "skin type:specimen" ; Times: 1
+	Query: "fox snake" ; Times: 1
+	Query: "Tachyglossidae" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 2
+	Query: "chiroptera" ; Times: 2
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "Rhoptropus biporosus" ; Times: 1
+	Query: "year &gt;= 1980 year &lt;= 1989" ; Times: 2
+	Query: "vulpes vulpes" ; Times: 3
+	Query: "turkey" ; Times: 1
+	Query: "Emoia caeruleocauda" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "class:Amphibia mappable:1 distance(location,geopoint(11.005904459659464,107.314453125))&lt;1226849" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Downs" ; Times: 1
+	Query: "year &gt;= 2000 year &lt;= 2014" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "Pandion AND Island" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "aves" ; Times: 3
+	Query: "bolivia" ; Times: 1
+	Query: "manouria emys emys" ; Times: 1
+	Query: "fowleri" ; Times: 1
+	Query: "WAM" ; Times: 1
+	Query: "tribolonotus" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 5
+	Query: "64234" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 2
+	Query: "otter" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Typhlosaurus vermis" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 2
+	Query: "warbler" ; Times: 1
+	Query: "mappable:1" ; Times: 2
+	Query: "class:Mammalia" ; Times: 10
+	Query: "Accipiter" ; Times: 1
+	Query: "sapphire" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 2
+	Query: "family:Batrachoididae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "new britain" ; Times: 1
+	Query: "laticauda colubrina institutioncode:AM" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 7
+	Query: "32603" ; Times: 1
+	Query: "grus" ; Times: 1
+	Query: "demon" ; Times: 5
+	Query: "typhlops" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "family:hydrobatidae" ; Times: 1
+	Query: "hemidactylus" ; Times: 1
+	Query: "vestitus" ; Times: 1
+	Query: "stegonotus" ; Times: 2
+	Query: "black bear" ; Times: 1
+	Query: "mouse" ; Times: 1
+	Query: "104182" ; Times: 1
+	Query: "carphodactylus laevis" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "class:reptilia country:&#34;Zambia&#34;" ; Times: 1
+	Query: "litoria tyleri" ; Times: 2
+	Query: "carphodactylus" ; Times: 1
+	Query: "forest" ; Times: 1
+	Query: "boiga" ; Times: 1
+	Query: "Hemidactylus" ; Times: 2
+	Query: "Phyllopteryx taeniolatus" ; Times: 2
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 1
+	Query: "elephant" ; Times: 2
+	Query: "Alauda arvensis" ; Times: 1
+	Query: "manus order:Anura" ; Times: 1
+	Query: "parapriacanthus" ; Times: 4
+	Query: "class:Aves" ; Times: 62
+	Query: "Nebrius" ; Times: 2
+	Query: "blood" ; Times: 2
+	Query: "Pedionomus torquatus institutioncode:AM" ; Times: 1
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 2
+	Query: "hawk" ; Times: 2
+	Query: "Mexico" ; Times: 1
+	Query: "Hemidactylus frenatus Chuuk" ; Times: 1
+	Query: "Japanese" ; Times: 1
+	Query: "dragon" ; Times: 4
+	Query: "Equus quagga quagga" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "Myzomela eques" ; Times: 4
+	Query: "stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Myzomela erythrocephala" ; Times: 3
+	Query: "Passer domesticus" ; Times: 4
+	Query: "trematomus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 327 download events in this period)
+Total number of records downloaded: 71868
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 52
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-15 ; Times: 4
+	Date: 2016-05-12 ; Times: 6
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 48
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 5
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "uta stansburiana" ; Times: 1
+	Query: "family:Atherinopsidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "Litoria angiana" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "tribolonotus" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 5
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "gasterosteus" ; Times: 1
+	Query: "class:amphibia" ; Times: 3
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
