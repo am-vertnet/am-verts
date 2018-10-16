@@ -1,0 +1,479 @@
+Report for Institution Code AM, Resource am_all
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 543
+Number of records retrieved in searches: 20618
+Number of different countries where searches have been originated: 31
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 7
+	Country: Italy ; Times: 57
+	Country: Unknown ; Times: 17
+	Country: France ; Times: 6
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 6
+	Country: Israel ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Zambia ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 354
+	Country: Morocco ; Times: 1
+	Country: Sweden ; Times: 7
+	Country: Finland ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Bulgaria ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 27
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 7
+	Country: Austria ; Times: 1
+	Country: China ; Times: 8
+	Country: Colombia ; Times: 8
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 9
+	Date: 2018-05-29 ; Times: 29
+	Date: 2018-05-20 ; Times: 5
+	Date: 2018-05-21 ; Times: 11
+	Date: 2018-05-22 ; Times: 12
+	Date: 2018-05-23 ; Times: 62
+	Date: 2018-05-24 ; Times: 52
+	Date: 2018-05-25 ; Times: 11
+	Date: 2018-05-26 ; Times: 7
+	Date: 2018-05-27 ; Times: 10
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 13
+	Date: 2018-05-04 ; Times: 23
+	Date: 2018-05-05 ; Times: 7
+	Date: 2018-05-02 ; Times: 12
+	Date: 2018-05-03 ; Times: 11
+	Date: 2018-05-01 ; Times: 13
+	Date: 2018-05-08 ; Times: 20
+	Date: 2018-05-09 ; Times: 11
+	Date: 2018-05-31 ; Times: 27
+	Date: 2018-05-30 ; Times: 7
+	Date: 2018-05-15 ; Times: 17
+	Date: 2018-05-14 ; Times: 10
+	Date: 2018-05-17 ; Times: 24
+	Date: 2018-05-16 ; Times: 68
+	Date: 2018-05-11 ; Times: 21
+	Date: 2018-05-10 ; Times: 20
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-12 ; Times: 4
+	Date: 2018-05-19 ; Times: 6
+	Date: 2018-05-18 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "sailfish" ; Times: 1
+	Query: "catalognumber:130950 institutioncode:AM" ; Times: 1
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "Great Egret" ; Times: 1
+	Query: "genus:Tropidonophis institutioncode:AM" ; Times: 2
+	Query: "panthera" ; Times: 1
+	Query: "specificepithet:lateralis genus:Mantophryne institutioncode:AM" ; Times: 3
+	Query: "specificepithet:tristis genus:Acridotheres mappable:1 year&gt;=2000" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:AM" ; Times: 3
+	Query: "specificepithet:haitiensis family:Cichlidae" ; Times: 1
+	Query: "Indicator minor" ; Times: 1
+	Query: "fishes" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;labeo nigripinnis&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 1
+	Query: "Island Goldman" ; Times: 1
+	Query: "distance(location,geopoint(47.5120911515,-95.383909072))&lt;30045" ; Times: 2
+	Query: "Pachycephala schlegelii schlegelii" ; Times: 3
+	Query: "Texas" ; Times: 1
+	Query: "Labeo bata" ; Times: 3
+	Query: "specificepithet:astrild genus:Estrilda" ; Times: 1
+	Query: "sea lemon" ; Times: 1
+	Query: "gulf of california" ; Times: 1
+	Query: "collections invertebrates" ; Times: 1
+	Query: "Pachycephala simplex" ; Times: 1
+	Query: "Macropus rufus " ; Times: 1
+	Query: "E. Goldman Island" ; Times: 1
+	Query: "specificepithet:nigrita class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "condor" ; Times: 1
+	Query: "155131" ; Times: 1
+	Query: "Colobus guereza" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "31227 amphibia" ; Times: 1
+	Query: "catalognumber:122387 institutioncode:AM" ; Times: 1
+	Query: "house sparrow" ; Times: 1
+	Query: "tyler" ; Times: 1
+	Query: "Psephotus pulcherrimus" ; Times: 7
+	Query: "Priodontes" ; Times: 2
+	Query: "Burr" ; Times: 1
+	Query: "brama dussumieri" ; Times: 1
+	Query: "Cyclorana australis" ; Times: 2
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "109699" ; Times: 1
+	Query: "Cyclorana maini" ; Times: 3
+	Query: "collectioncode:Herpetology institutioncode:AM" ; Times: 1
+	Query: "class:Reptilia" ; Times: 2
+	Query: "pycnonotus jocosus" ; Times: 1
+	Query: "country:&#34;costa rica&#34;" ; Times: 1
+	Query: "entomology" ; Times: 1
+	Query: "specificepithet:tristis genus:Acridotheres mappable:1" ; Times: 9
+	Query: "specificepithet:jocosus genus:Pycnonotus mappable:1" ; Times: 6
+	Query: "salamander" ; Times: 1
+	Query: "azurea" ; Times: 1
+	Query: "iridescens" ; Times: 1
+	Query: "Museum of Comparative Zoology" ; Times: 1
+	Query: "equus quagga" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "squirrel collections" ; Times: 2
+	Query: "specificepithet:panthera " ; Times: 2
+	Query: "specificepithet:leucorhoa genus:Oceanodroma" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "class:Actinopterygii basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hemitragus" ; Times: 3
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "18002" ; Times: 1
+	Query: "Robinsia" ; Times: 2
+	Query: "western sandpiper" ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "Limnodynastes salmini" ; Times: 4
+	Query: "37184" ; Times: 1
+	Query: "specificepithet:rufescens genus:Hylophorbus institutioncode:AM" ; Times: 3
+	Query: "specificepithet:dammah" ; Times: 1
+	Query: "125990" ; Times: 1
+	Query: "Ateles fusciceps" ; Times: 3
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "genus:epinephelus" ; Times: 1
+	Query: "brevicaudus" ; Times: 2
+	Query: "hydrophis ornatus" ; Times: 3
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "amphibia" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "vntype:specimen catalognumber:31604 (Macropus fuliginosus) institutioncode:AM" ; Times: 1
+	Query: "Cophixalus cryptotympanum" ; Times: 3
+	Query: "9219" ; Times: 1
+	Query: "class:Mammalia" ; Times: 8
+	Query: "10048" ; Times: 2
+	Query: "Dierogekko" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "3779" ; Times: 1
+	Query: "specificepithet:buergeri genus:Buergeria institutioncode:AM" ; Times: 3
+	Query: "Xenobatrachus" ; Times: 3
+	Query: "class:aves" ; Times: 1
+	Query: "&#34;Labeo barbatulus&#34;" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "arizona" ; Times: 1
+	Query: "149388" ; Times: 1
+	Query: "Gymnobelideus" ; Times: 1
+	Query: "year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "Thylacinus cynocephalus" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 6
+	Query: "Dogs" ; Times: 1
+	Query: "skeleton vntype:specimen" ; Times: 1
+	Query: "genus:Orcaella" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta mappable:1 year&gt;=2000" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Liophryne schlaginhaufeni" ; Times: 3
+	Query: "95215" ; Times: 1
+	Query: "Crinia signifera" ; Times: 3
+	Query: "vampire" ; Times: 3
+	Query: "specificepithet:atratus genus:Cygnus mappable:1" ; Times: 6
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Saguinus leucopus" ; Times: 2
+	Query: "Pachycephala Solomon" ; Times: 1
+	Query: "specificepithet:wilhelmanus genus:Callulops institutioncode:AM" ; Times: 3
+	Query: "Cophixalus cheesmanae" ; Times: 3
+	Query: "specificepithet:simplex genus:Pachycephala year &gt;= 1970 year &lt;= 2018" ; Times: 4
+	Query: "Leadbeater" ; Times: 1
+	Query: "specificepithet:jocosus genus:Pycnonotus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:pictus genus:Chrysolophus mappable:1" ; Times: 6
+	Query: "pine snake" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "Poephila acuticauda" ; Times: 2
+	Query: "ephippiorhynchus" ; Times: 1
+	Query: "emoia nigra" ; Times: 1
+	Query: "Gallirallus philippensis" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "nobilis" ; Times: 2
+	Query: "spadefoot toad" ; Times: 1
+	Query: "specificepithet:salmini genus:Limnodynastes institutioncode:AM" ; Times: 3
+	Query: "pontianak" ; Times: 1
+	Query: "cuscus" ; Times: 2
+	Query: "Myobatrachus gouldii" ; Times: 3
+	Query: "Pitta erythrogaster" ; Times: 2
+	Query: "specificepithet:astrild genus:Estrilda mappable:1" ; Times: 1
+	Query: "Mantophryne lateralis" ; Times: 3
+	Query: "goldfish" ; Times: 1
+	Query: "Lechriodus melanopyga" ; Times: 1
+	Query: "1348" ; Times: 2
+	Query: "falconidae" ; Times: 1
+	Query: "Lacertidae" ; Times: 1
+	Query: "Labeo chrysophekadion" ; Times: 2
+	Query: "specificepithet:maini genus:Cyclorana institutioncode:AM" ; Times: 3
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "class:aves recordedby:boys" ; Times: 1
+	Query: "catalognumber:122901 institutioncode:AM" ; Times: 1
+	Query: "tyler j" ; Times: 1
+	Query: "&#34;falco peregrinus&#34; vntype:specimen country:&#34;Australia&#34;" ; Times: 2
+	Query: "HEMIPHYLLODACTYLUS" ; Times: 1
+	Query: "vntype:specimen catalognumber:16482 (Macropus giganteus) institutioncode:AM" ; Times: 2
+	Query: "specificepithet:nigrigularis" ; Times: 1
+	Query: "specificepithet:japonica genus:Rana institutioncode:AM" ; Times: 3
+	Query: "Carcharias taurus" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "perochirus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "rana" ; Times: 1
+	Query: "house finch" ; Times: 1
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1" ; Times: 8
+	Query: "genus:Amphispiza OR Auriparus OR Campylorhynchus OR Cardinalis OR Phainopepla OR Pipilo OR Melozone OR Kieneria OR Polioptila OR Toxostoma OR Vireo" ; Times: 1
+	Query: "lonchura tristissima" ; Times: 2
+	Query: "catalognumber:130944 institutioncode:AM" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "tandanus tandanus" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "7799" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "tree kangaroo" ; Times: 2
+	Query: "bats" ; Times: 1
+	Query: "country:&#34;Pitcairn&#34;" ; Times: 1
+	Query: "morelia" ; Times: 1
+	Query: "royal tern" ; Times: 1
+	Query: "specificepithet:laevigata genus:Uperoleia institutioncode:AM" ; Times: 3
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:AM" ; Times: 3
+	Query: "107218" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "vertebrate" ; Times: 1
+	Query: "Callulops wilhelmanus" ; Times: 3
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "collections" ; Times: 1
+	Query: "Pachycephala KU" ; Times: 3
+	Query: "collections crustacean" ; Times: 1
+	Query: "labeo barbatulus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gerygone tenebrosa" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "western sahara" ; Times: 1
+	Query: "vntype:specimen specificepithet:philippensis genus:Gallirallus" ; Times: 1
+	Query: "genus:Cichlasoma" ; Times: 1
+	Query: "demon" ; Times: 3
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "specificepithet:simplex genus:Pachycephala year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Uperoleia laevigata" ; Times: 3
+	Query: "black-headed snake" ; Times: 1
+	Query: "133988" ; Times: 1
+	Query: "aves" ; Times: 1
+	Query: "specificepithet:rufogriseus genus:Macropus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "family:Nectariniidae" ; Times: 1
+	Query: "catalognumber:151832" ; Times: 1
+	Query: "Paramelomys lorentzii" ; Times: 1
+	Query: "Tyrrell" ; Times: 1
+	Query: "prasinohaema" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 1
+	Query: "Litoria caerulea" ; Times: 5
+	Query: "class:reptilia" ; Times: 1
+	Query: "Hylophorbus rufescens" ; Times: 3
+	Query: "specificepithet:pulchra genus:Kaloula institutioncode:AM" ; Times: 3
+	Query: "44963" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:AM" ; Times: 3
+	Query: "bowling green" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Liparidae" ; Times: 1
+	Query: "genus:Priodontes" ; Times: 2
+	Query: "Ranodon sibiricus" ; Times: 1
+	Query: "Oreophryne" ; Times: 3
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "Nyctimystes kubori" ; Times: 4
+	Query: "specificepithet:peregusna genus:Vormela" ; Times: 1
+	Query: "vntype:specimen (Pan troglodytes)" ; Times: 1
+	Query: "gazella" ; Times: 1
+	Query: "payton s" ; Times: 1
+	Query: "Elephant elephant" ; Times: 1
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:AM" ; Times: 3
+	Query: "Biak country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Petrogale lateralis" ; Times: 1
+	Query: "barbulifer mexicanus" ; Times: 2
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "ornithology" ; Times: 1
+	Query: "specificepithet:kubori genus:Nyctimystes institutioncode:AM" ; Times: 3
+	Query: "specificepithet:cheesmanae genus:Cophixalus institutioncode:AM" ; Times: 3
+	Query: "liparidae" ; Times: 2
+	Query: "pig" ; Times: 1
+	Query: "Pachycephala simplex simplex" ; Times: 1
+	Query: "specificepithet:hochstetteri genus:Leiopelma institutioncode:AM" ; Times: 3
+	Query: "Reptilia" ; Times: 1
+	Query: "specificepithet:simplex genus:Pachycephala year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:cryptotympanum genus:Cophixalus institutioncode:AM" ; Times: 3
+	Query: "Orcinus orca" ; Times: 1
+	Query: "morelia amethistina" ; Times: 7
+	Query: "leopard frog" ; Times: 1
+	Query: "mola" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "fossil" ; Times: 1
+	Query: "genus:Probosciger" ; Times: 1
+	Query: "anas clypeata" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "blue shark" ; Times: 2
+	Query: "Macropus robustus" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "helleri" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:AM" ; Times: 3
+	Query: "specificepithet:schlegelii schlegelii genus:Pachycephala year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:simplex genus:Pachycephala year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "catalognumber:122382 institutioncode:AM" ; Times: 1
+	Query: "Notaden bennettii" ; Times: 1
+	Query: "xiphophorus helleri" ; Times: 2
+	Query: "Cynops pyrrhogaster 1981" ; Times: 1
+	Query: "Cophixalus" ; Times: 6
+	Query: "35076" ; Times: 1
+	Query: "specificepithet:aterrimus genus:Probosciger" ; Times: 1
+	Query: "mjobergi" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "arenicolor" ; Times: 1
+	Query: "Limnodynastes spenceri" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "collections n. w. gulf of mexico" ; Times: 1
+	Query: "specificepithet:schlaginhaufeni genus:Liophryne institutioncode:AM" ; Times: 3
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Pachycephala schlegelii" ; Times: 1
+	Query: "Hyla arborea" ; Times: 2
+	Query: "Vespertilionidae" ; Times: 1
+	Query: "mimosa" ; Times: 1
+	Query: "MLS" ; Times: 1
+	Query: "Neotrygon" ; Times: 1
+	Query: "country:&#34;mexico&#34;" ; Times: 1
+	Query: "UP 0173" ; Times: 2
+	Query: "unicorn" ; Times: 5
+	Query: "Ichthyophis glutinosus" ; Times: 2
+	Query: "fisher" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 3
+	Query: "catalognumber:122388 institutioncode:AM" ; Times: 1
+	Query: "ALOE" ; Times: 1
+	Query: "Pteropus fundatus" ; Times: 4
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "blue whale" ; Times: 2
+	Query: "Leiopelma hochstetteri" ; Times: 1
+	Query: "order:Passeriformes" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "genus:brachymeles" ; Times: 1
+	Query: "genus:Priodontes basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "9219 ornithology" ; Times: 2
+	Query: "specificepithet:gouldii genus:Myobatrachus institutioncode:AM" ; Times: 3
+	Query: "catalognumber:122381 institutioncode:AM" ; Times: 2
+	Query: "Bufo bufo" ; Times: 3
+	Query: "pacific hawksbill turtle" ; Times: 1
+	Query: "dragon" ; Times: 2
+	Query: "macropus rufus" ; Times: 1
+	Query: "specificepithet:pulchellus genus:nettapus" ; Times: 2
+	Query: "50785" ; Times: 2
+	Query: "country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "vertebrates" ; Times: 1
+	Query: "sanderling" ; Times: 2
+	Query: "Labeo gonius" ; Times: 3
+	Query: "AL 3054" ; Times: 1
+	Query: "specificepithet:moschata genus:Cairina mappable:1" ; Times: 6
+	Query: "chinchilla" ; Times: 1
+	Query: "aterrimus" ; Times: 1
+	Query: "invertebrates" ; Times: 1
+	Query: "27634" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1178 download events in this period)
+Total number of records downloaded: 4437
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 1
+	Country: United States ; Times: 16
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-18 ; Times: 8
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-25 ; Times: 3
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "&#34;Labeo barbatulus&#34;" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Lacertidae" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "Chlopsis" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Poephila acuticauda" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "&#34;falco peregrinus&#34; vntype:specimen country:&#34;Australia&#34;" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+	Query: "Onychodactylus japonicus" ; Times: 2
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "specificepithet:pulchellus genus:nettapus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
