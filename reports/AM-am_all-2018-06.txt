@@ -1,0 +1,651 @@
+Report for Institution Code AM, Resource am_all
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 915
+Number of records retrieved in searches: 30379
+Number of different countries where searches have been originated: 31
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 10
+	Country: Italy ; Times: 2
+	Country: Solomon Islands ; Times: 1
+	Country: Unknown ; Times: 30
+	Country: France ; Times: 13
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Kuwait ; Times: 6
+	Country: Ecuador ; Times: 10
+	Country: Australia ; Times: 7
+	Country: Singapore ; Times: 4
+	Country: Zambia ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Puerto Rico ; Times: 2
+	Country: China ; Times: 8
+	Country: Spain ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Poland ; Times: 3
+	Country: Finland ; Times: 3
+	Country: United States ; Times: 694
+	Country: New Zealand ; Times: 6
+	Country: Russia ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 57
+	Country: United Kingdom ; Times: 12
+	Country: Malaysia ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Japan ; Times: 1
+	Country: Fiji ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 71
+	Date: 2018-06-06 ; Times: 54
+	Date: 2018-06-05 ; Times: 62
+	Date: 2018-06-04 ; Times: 23
+	Date: 2018-06-29 ; Times: 19
+	Date: 2018-06-02 ; Times: 10
+	Date: 2018-06-01 ; Times: 26
+	Date: 2018-06-25 ; Times: 23
+	Date: 2018-06-24 ; Times: 4
+	Date: 2018-06-27 ; Times: 31
+	Date: 2018-06-26 ; Times: 11
+	Date: 2018-06-21 ; Times: 214
+	Date: 2018-06-20 ; Times: 57
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 35
+	Date: 2018-06-22 ; Times: 10
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 12
+	Date: 2018-06-12 ; Times: 16
+	Date: 2018-06-13 ; Times: 120
+	Date: 2018-06-14 ; Times: 15
+	Date: 2018-06-15 ; Times: 22
+	Date: 2018-06-16 ; Times: 21
+	Date: 2018-06-17 ; Times: 4
+	Date: 2018-06-18 ; Times: 13
+	Date: 2018-06-19 ; Times: 10
+	Date: 2018-06-30 ; Times: 6
+	Date: 2018-06-03 ; Times: 6
+	Date: 2018-06-28 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;United States&#34;" ; Times: 3
+	Query: "Naso caesius mappable:1" ; Times: 2
+	Query: "Acanthurus matoides" ; Times: 4
+	Query: "Naso thynnoides" ; Times: 3
+	Query: "Pachycephala soror" ; Times: 1
+	Query: "crocodile" ; Times: 1
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "&#34;labeo porcellus&#34;" ; Times: 1
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "Acanthurus blochii" ; Times: 4
+	Query: "order:CHIROPTERA country:&#34;MEXICO&#34; institutioncode:AM" ; Times: 1
+	Query: "107927" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 2
+	Query: "Acanthurus grammoptilus mappable:1" ; Times: 4
+	Query: "specificepithet:barbus genus:Barbus" ; Times: 1
+	Query: "aphanius" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Ploceidae" ; Times: 2
+	Query: "Anseriformes" ; Times: 1
+	Query: "class:Reptilia" ; Times: 2
+	Query: "chameleon" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 2
+	Query: "pterois volitans" ; Times: 10
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "Limnodynastes salmini" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 4
+	Query: "Naso tuberosus mappable:1" ; Times: 4
+	Query: "Ranodon sibiricus" ; Times: 1
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "Falconiformes" ; Times: 1
+	Query: "blue gill fish" ; Times: 2
+	Query: "bullfrog" ; Times: 3
+	Query: "Naso vlamingii" ; Times: 2
+	Query: "Lagenodelphis hosei" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "recordedby:Breese" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "panda" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "cascade frog" ; Times: 1
+	Query: "Periophthalmus waltoni" ; Times: 1
+	Query: "vampire" ; Times: 5
+	Query: "172670" ; Times: 1
+	Query: "Acanthurus nigricans mappable:1" ; Times: 9
+	Query: "59971" ; Times: 1
+	Query: "Ateles belzebuth" ; Times: 1
+	Query: "class:Reptilia country:&#34;Greece&#34;" ; Times: 1
+	Query: "Acanthurus blochii mappable:1" ; Times: 4
+	Query: "70092" ; Times: 1
+	Query: "Acanthurus chronixis mappable:1" ; Times: 3
+	Query: "Mammalia" ; Times: 2
+	Query: "andersonii" ; Times: 1
+	Query: "western toad" ; Times: 2
+	Query: "order:Squamata" ; Times: 1
+	Query: "Ctenochaetus binotatus" ; Times: 3
+	Query: "Pacific Tree Frog" ; Times: 5
+	Query: "grallaria" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "hypsibarbus malcolmi" ; Times: 1
+	Query: "potorous gilbertii" ; Times: 2
+	Query: "Acanthurus japonicus mappable:1" ; Times: 4
+	Query: "copperhead" ; Times: 1
+	Query: "frog" ; Times: 29
+	Query: "reptilia" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 2
+	Query: "Pterois volitans" ; Times: 16
+	Query: "bull frog" ; Times: 2
+	Query: "horses" ; Times: 1
+	Query: "Zebrasoma rostratum mappable:1" ; Times: 2
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 3
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "oregon" ; Times: 2
+	Query: "Acanthurus thompsoni mappable:1" ; Times: 2
+	Query: "rabbit" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "genus:Pseudothecadactylus order:Squamata class:reptilia" ; Times: 1
+	Query: "boleophthalmus" ; Times: 1
+	Query: "Amphibia SALAMANDER" ; Times: 1
+	Query: "worm" ; Times: 1
+	Query: "family:Mullidae institutioncode:AM" ; Times: 3
+	Query: "hong kong" ; Times: 1
+	Query: "rainbow trout" ; Times: 4
+	Query: "Passeriformes" ; Times: 1
+	Query: "Naso lopezi" ; Times: 2
+	Query: "catalognumber:39767 institutioncode:AM" ; Times: 2
+	Query: "Acanthurus gahhm" ; Times: 4
+	Query: "gavialis gangeticus" ; Times: 2
+	Query: "Acanthurus gahhm mappable:1" ; Times: 4
+	Query: "western squirrel" ; Times: 1
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "Naso minor mappable:1" ; Times: 2
+	Query: "56785" ; Times: 1
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "Python reticulatus" ; Times: 1
+	Query: "CM 4601" ; Times: 1
+	Query: "elephant" ; Times: 2
+	Query: "Menidia extensa" ; Times: 1
+	Query: "pteronura brasiliensis" ; Times: 2
+	Query: "genus:Turdus" ; Times: 1
+	Query: "country:&#34;Kuwait&#34;" ; Times: 1
+	Query: "stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Acanthurus maculiceps" ; Times: 3
+	Query: "Mosquito" ; Times: 4
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "data" ; Times: 1
+	Query: "catalognumber:155300" ; Times: 1
+	Query: "institutioncode:AM" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "takydromus" ; Times: 1
+	Query: "dragon" ; Times: 3
+	Query: "94944" ; Times: 2
+	Query: "class:Aves (33324)" ; Times: 1
+	Query: "Ctenochaetus cyanocheilus" ; Times: 2
+	Query: "family:Scincidae order:Squamata" ; Times: 1
+	Query: "Naso tonganus" ; Times: 2
+	Query: "mallard" ; Times: 1
+	Query: "genus:euphractus" ; Times: 1
+	Query: "plectranthias winniensis" ; Times: 1
+	Query: "Acanthurus grammoptilus" ; Times: 4
+	Query: "Texas" ; Times: 1
+	Query: "iguana" ; Times: 4
+	Query: "Red Panda" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "133939" ; Times: 3
+	Query: "Ctenodon ctenodon" ; Times: 1
+	Query: "Naso annulatus mappable:1" ; Times: 2
+	Query: "country:&#34;Mexico&#34;" ; Times: 3
+	Query: "sugar glider" ; Times: 2
+	Query: "Bat" ; Times: 2
+	Query: "Gallirallus torquatus" ; Times: 1
+	Query: "Acanthurus leucopareius mappable:1" ; Times: 3
+	Query: "python" ; Times: 1
+	Query: "Naso unicornis" ; Times: 2
+	Query: "salamander" ; Times: 12
+	Query: "Black bear" ; Times: 1
+	Query: "varanus prasinus" ; Times: 2
+	Query: "giraffa" ; Times: 1
+	Query: "lancasteri" ; Times: 1
+	Query: "lamprey" ; Times: 1
+	Query: "Ctenochaetus cyanoguttatus" ; Times: 2
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:canis" ; Times: 1
+	Query: "order:Squamata class:reptilia" ; Times: 2
+	Query: "mouse" ; Times: 1
+	Query: "fish" ; Times: 2
+	Query: "Frog" ; Times: 1
+	Query: "mammalia" ; Times: 1
+	Query: "Naso lopezi mappable:1" ; Times: 2
+	Query: "catalognumber:119073" ; Times: 1
+	Query: "anura" ; Times: 1
+	Query: "tree frog" ; Times: 8
+	Query: "Acanthiza chrysorrhoa" ; Times: 1
+	Query: "catalognumber:130666" ; Times: 1
+	Query: "labeo dussumieri" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "James Bishop" ; Times: 2
+	Query: "python reticulatus" ; Times: 1
+	Query: "Acanthurus glaucopareius mappable:1" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "white-faced storm-petrel" ; Times: 2
+	Query: "priodontes" ; Times: 1
+	Query: "Vipera" ; Times: 4
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "genus:neofelis" ; Times: 3
+	Query: "seahorse" ; Times: 1
+	Query: "seal fur" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "Acanthurus elongatus" ; Times: 2
+	Query: "wood frog" ; Times: 8
+	Query: "AM Herpetology R.145956" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Ctenochaetus cyanocheilus mappable:1" ; Times: 2
+	Query: "95780" ; Times: 5
+	Query: "Acanthurus japonicus" ; Times: 4
+	Query: "98464" ; Times: 1
+	Query: "ichthyophis" ; Times: 3
+	Query: "monkey" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "79409" ; Times: 1
+	Query: "cornutum" ; Times: 1
+	Query: "gilbertii" ; Times: 1
+	Query: "Acanthurus fuliginosus mappable:1" ; Times: 2
+	Query: "59215" ; Times: 1
+	Query: "hyla" ; Times: 1
+	Query: "psychrolutes" ; Times: 1
+	Query: "class: aves" ; Times: 1
+	Query: "Rattus" ; Times: 1
+	Query: "KU" ; Times: 1
+	Query: "Plectropomus pessuliferus" ; Times: 1
+	Query: "bearded dragon" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 2
+	Query: "Gehyra vorax" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "Prionurus microlepidotus mappable:1" ; Times: 2
+	Query: "137077" ; Times: 1
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "(anura)" ; Times: 1
+	Query: "Naso maculatus mappable:1" ; Times: 2
+	Query: "Northern Goshawk" ; Times: 2
+	Query: "falconiformes" ; Times: 5
+	Query: "Litoria verreauxii" ; Times: 1
+	Query: "cottidae" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "red panda" ; Times: 3
+	Query: "santa monica vntype:specimen" ; Times: 1
+	Query: "vntype:specimen (Casuarius casuarius)" ; Times: 1
+	Query: "Acanthurus nigroris" ; Times: 3
+	Query: "gallirallus philippensis" ; Times: 1
+	Query: "Seal Fur" ; Times: 4
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "mammoth" ; Times: 1
+	Query: "country:&#34;MEXICO&#34; institutioncode:AM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "157240" ; Times: 1
+	Query: "Acanthurus achilles mappable:1" ; Times: 3
+	Query: "95500" ; Times: 1
+	Query: "Prionurus maculatus mappable:1" ; Times: 2
+	Query: "specificepithet:morphnoides genus:Hieraaetus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mallard ecology" ; Times: 1
+	Query: "Zebrasoma rostratum" ; Times: 2
+	Query: "Acanthurus guttatus mappable:1" ; Times: 4
+	Query: "Caretta caretta" ; Times: 1
+	Query: "red partridge" ; Times: 2
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Naso vlamingii mappable:1" ; Times: 2
+	Query: "Naso annulatus" ; Times: 2
+	Query: "Kansas" ; Times: 1
+	Query: "ateles belzebuth" ; Times: 2
+	Query: "penguin" ; Times: 2
+	Query: "vntype:specimen class:Aves catalognumber:35343" ; Times: 1
+	Query: "freshwater fish" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Leiopelma" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "pacific tree frog" ; Times: 6
+	Query: "sea turtle" ; Times: 2
+	Query: "genus:Phylloscopus class:Aves country:&#34;Solomon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "Procellaria parkinsoni" ; Times: 2
+	Query: "barn owl" ; Times: 1
+	Query: "Acanthurus mata mappable:1" ; Times: 6
+	Query: "bird" ; Times: 5
+	Query: "emu" ; Times: 1
+	Query: "Aspidomorphus" ; Times: 2
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "nebulifer" ; Times: 1
+	Query: "Sea Otter" ; Times: 1
+	Query: "genus:Plegadis family:Threskiornithidae class:Aves" ; Times: 1
+	Query: "vertebrates" ; Times: 1
+	Query: "Prionurus maculatus" ; Times: 2
+	Query: "Litoria caerulea" ; Times: 1
+	Query: "Rattus rattus" ; Times: 2
+	Query: "ichthyology" ; Times: 1
+	Query: "Naso lituratus" ; Times: 3
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "Acanthurus leucopareius" ; Times: 3
+	Query: "Notaden bennettii" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Cephalopholis leopardus" ; Times: 2
+	Query: "Acanthurus thompsoni" ; Times: 2
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "Naso maculatus" ; Times: 2
+	Query: "Wallabia bicolor" ; Times: 1
+	Query: "Naso tuberosus" ; Times: 4
+	Query: "limnodynastes tasmaniensis" ; Times: 5
+	Query: "Acanthurus elongatus mappable:1" ; Times: 2
+	Query: "Acanthurus albipectoralis" ; Times: 3
+	Query: "class:aves catalognumber:29304" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "specificepithet:ruwenzorii genus:heliosciurus" ; Times: 1
+	Query: "Ctenochaetus magnus" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "trichechus senegalensis" ; Times: 9
+	Query: "spotted grass frog" ; Times: 1
+	Query: "Rana tagoi" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Acanthurus pyroferus mappable:1" ; Times: 4
+	Query: "Prionurus scalprus mappable:1" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "coryogalops tessellatus" ; Times: 1
+	Query: "Avahi" ; Times: 2
+	Query: "Hepatus hepatus mappable:1" ; Times: 3
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "(kentucky)" ; Times: 1
+	Query: "myotis" ; Times: 1
+	Query: "robin" ; Times: 2
+	Query: "(skeleton)" ; Times: 3
+	Query: "country:&#34;MEXICO&#34; institutioncode:AM" ; Times: 1
+	Query: "dipodidae australia" ; Times: 1
+	Query: "Ctenochaetus truncatus mappable:1" ; Times: 2
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 4
+	Query: "demon" ; Times: 1
+	Query: "Ctenochaetus truncatus" ; Times: 2
+	Query: "Callicanthus lituratus mappable:1" ; Times: 2
+	Query: "aspidelaps" ; Times: 1
+	Query: "X class:Aves" ; Times: 2
+	Query: "Epinephelus chlorostigma" ; Times: 1
+	Query: "specificepithet:cincta class:Aves" ; Times: 1
+	Query: "Canada Goose" ; Times: 1
+	Query: "hirtipes" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "Dentatherina" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "21294" ; Times: 1
+	Query: "Litoria phyllochroa" ; Times: 1
+	Query: "class:Aves" ; Times: 2
+	Query: "Acanthurus chronixis" ; Times: 3
+	Query: "koala" ; Times: 2
+	Query: "clownfish" ; Times: 1
+	Query: "unicorn" ; Times: 3
+	Query: "88765" ; Times: 1
+	Query: "Acanthurus bleekeri" ; Times: 3
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Black Bear" ; Times: 1
+	Query: "Acanthurus fuliginosus" ; Times: 2
+	Query: "class:Amphibia" ; Times: 1
+	Query: "distance(location,geopoint(46.1655080625069,-93.5879536581953))&lt;18477" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 2
+	Query: "Rodentia" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "Guadalupe Island specificepithet:mexicanus" ; Times: 1
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 3
+	Query: "wood duck" ; Times: 1
+	Query: "Naso caesius" ; Times: 2
+	Query: "boleophthalmus dussumieri" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Atrichornis rufescens vntype:specimen" ; Times: 1
+	Query: "strigiformes" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "Crinia tinnula" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "Naso brevirostris mappable:1" ; Times: 3
+	Query: "Acanthurus maculiceps mappable:1" ; Times: 3
+	Query: "kangaroo rat" ; Times: 3
+	Query: "Acanthurus nigroris mappable:1" ; Times: 3
+	Query: "himantopus novaezelandiae" ; Times: 4
+	Query: "Dorcopsulus vanheurni" ; Times: 1
+	Query: "Robinsia" ; Times: 1
+	Query: "emoia longicauda" ; Times: 2
+	Query: "Steatomys" ; Times: 1
+	Query: "grey fox" ; Times: 1
+	Query: "Ateles fusciceps" ; Times: 2
+	Query: "mosquito" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "archaeological" ; Times: 1
+	Query: "caucasica" ; Times: 1
+	Query: "genus:heliosciurus institutioncode:AM" ; Times: 1
+	Query: "Naso minor" ; Times: 2
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "specificepithet:marinus genus:bufo" ; Times: 2
+	Query: "Prionurus microlepidotus" ; Times: 2
+	Query: "Petrogale lateralis" ; Times: 1
+	Query: "Ctenochaetus magnus mappable:1" ; Times: 1
+	Query: "Burke" ; Times: 2
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "Chamaeleo dilepis" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 2
+	Query: "Calotes cristatellus" ; Times: 1
+	Query: "Paracanthurus hepatus mappable:1" ; Times: 2
+	Query: "Oxynotus" ; Times: 1
+	Query: "class:reptilia country:&#34;greece&#34;" ; Times: 1
+	Query: "Salamander vntype:specimen" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "schlegelii" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "snake" ; Times: 7
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "36384`1" ; Times: 1
+	Query: "Mantophryne lateralis" ; Times: 2
+	Query: "Aves (Aves)" ; Times: 2
+	Query: "Bullfrog" ; Times: 2
+	Query: "coral" ; Times: 1
+	Query: "black bear" ; Times: 6
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 3
+	Query: "reptile" ; Times: 3
+	Query: "Acanthurus ctenodon" ; Times: 2
+	Query: "Diomedea exulans" ; Times: 2
+	Query: "Snowy-browed Flycatcher" ; Times: 1
+	Query: "family:gekkonidae order:Squamata class:reptilia" ; Times: 1
+	Query: "Acanthurus albipectoralis mappable:1" ; Times: 3
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "Pulchra" ; Times: 1
+	Query: "Naso hexacanthus mappable:1" ; Times: 2
+	Query: "genus:hydrurga" ; Times: 3
+	Query: "whale shark" ; Times: 1
+	Query: "Naso thynnoides mappable:1" ; Times: 3
+	Query: "gis" ; Times: 1
+	Query: "Prionurus scalprus" ; Times: 1
+	Query: "genus:Acanthisitta" ; Times: 1
+	Query: "99456" ; Times: 1
+	Query: "99457" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 4
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "papuascincus" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "Acanthurus glaucopareius" ; Times: 1
+	Query: "Mackay Ardea" ; Times: 1
+	Query: "gray tree frog" ; Times: 1
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "Acanthurus nigricauda" ; Times: 4
+	Query: "Ctenodon ctenodon mappable:1" ; Times: 1
+	Query: "class:Mammalia" ; Times: 10
+	Query: "Dendrohyrax arboreus" ; Times: 4
+	Query: "class:aves catalognumber:36107" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "psittacidae" ; Times: 1
+	Query: "pig" ; Times: 1
+	Query: "Chlamydoselachus" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 3
+	Query: "country:&#34;India&#34;" ; Times: 1
+	Query: "Naso tonganus mappable:1" ; Times: 2
+	Query: "Acanthurus pyroferus" ; Times: 4
+	Query: "Salamander" ; Times: 1
+	Query: "Slider" ; Times: 1
+	Query: "Acanthurus nigricauda mappable:1" ; Times: 4
+	Query: "Ctenochaetus cyanoguttatus mappable:1" ; Times: 2
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "hieraaetus morphnoides" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "zmuc" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Komodo Dragon" ; Times: 3
+	Query: "family:Synanceiidae" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "class:aves catalognumber:29294" ; Times: 2
+	Query: "Callicanthus lituratus" ; Times: 2
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "Amblyornis macgregoriae" ; Times: 1
+	Query: "class: aves hasmass" ; Times: 2
+	Query: "Labrichthys unilineatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 1169 download events in this period)
+Total number of records downloaded: 81531
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 2
+	Country: United States ; Times: 75
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 5
+	Country: Puerto Rico ; Times: 2
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 19
+	Date: 2018-06-06 ; Times: 11
+	Date: 2018-06-05 ; Times: 20
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-01 ; Times: 6
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-27 ; Times: 5
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-20 ; Times: 3
+	Date: 2018-06-09 ; Times: 3
+	Date: 2018-06-08 ; Times: 6
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-18 ; Times: 9
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "orca" ; Times: 2
+	Query: "reptile" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Pacific Tree Frog" ; Times: 5
+	Query: "blue gill fish" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "sea otter" ; Times: 2
+	Query: "rainbow trout" ; Times: 2
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "gavialis gangeticus" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Guadalupe Island specificepithet:mexicanus" ; Times: 1
+	Query: "Petrogale lateralis" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "whale shark" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "Wallabia bicolor" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "koala" ; Times: 1
+	Query: "smallmouth bass" ; Times: 1
+	Query: "eliomys quercinus" ; Times: 1
+	Query: "AM Herpetology R.145956" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "spotted grass frog" ; Times: 2
+	Query: "antilocapra" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "crocodylus johnstoni" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "sugar glider" ; Times: 1
+	Query: "cascade frog" ; Times: 1
+	Query: "Lichonycteris obscura" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "Robinsia" ; Times: 1
+	Query: "Litoria phyllochroa" ; Times: 2
+	Query: "hieraaetus morphnoides" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "order:Squamata class:reptilia" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "clownfish" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "western toad" ; Times: 2
+	Query: "penguin" ; Times: 2
+	Query: "Crinia tinnula" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pacific tree frog" ; Times: 4
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Steatomys" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "Amphibia SALAMANDER" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "grey fox" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "Cavia aperea" ; Times: 1
+	Query: "Aspidomorphus" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Ranodon sibiricus" ; Times: 2
+	Query: "moun" ; Times: 1
+	Query: "varanus prasinus" ; Times: 1
+
+
+End of report.
