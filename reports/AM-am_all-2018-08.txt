@@ -1,0 +1,666 @@
+Report for Institution Code AM, Resource am_all
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 902
+Number of records retrieved in searches: 26659
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 4
+	Country: Unknown ; Times: 24
+	Country: Costa Rica ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Australia ; Times: 40
+	Country: Singapore ; Times: 3
+	Country: Germany ; Times: 14
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Denmark ; Times: 4
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 627
+	Country: Sweden ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 5
+	Country: South Africa ; Times: 7
+	Country: Mexico ; Times: 68
+	Country: Serbia ; Times: 1
+	Country: United Kingdom ; Times: 33
+	Country: Malaysia ; Times: 1
+	Country: Colombia ; Times: 44
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 23
+	Date: 2018-08-31 ; Times: 28
+	Date: 2018-08-18 ; Times: 8
+	Date: 2018-08-19 ; Times: 12
+	Date: 2018-08-16 ; Times: 9
+	Date: 2018-08-23 ; Times: 16
+	Date: 2018-08-14 ; Times: 22
+	Date: 2018-08-15 ; Times: 20
+	Date: 2018-08-12 ; Times: 8
+	Date: 2018-08-13 ; Times: 12
+	Date: 2018-08-10 ; Times: 8
+	Date: 2018-08-11 ; Times: 14
+	Date: 2018-08-02 ; Times: 17
+	Date: 2018-08-08 ; Times: 28
+	Date: 2018-08-03 ; Times: 13
+	Date: 2018-08-17 ; Times: 16
+	Date: 2018-08-27 ; Times: 110
+	Date: 2018-08-26 ; Times: 9
+	Date: 2018-08-25 ; Times: 13
+	Date: 2018-08-24 ; Times: 21
+	Date: 2018-08-09 ; Times: 54
+	Date: 2018-08-22 ; Times: 42
+	Date: 2018-08-21 ; Times: 70
+	Date: 2018-08-20 ; Times: 157
+	Date: 2018-08-05 ; Times: 17
+	Date: 2018-08-04 ; Times: 10
+	Date: 2018-08-07 ; Times: 12
+	Date: 2018-08-06 ; Times: 30
+	Date: 2018-08-01 ; Times: 67
+	Date: 2018-08-29 ; Times: 19
+	Date: 2018-08-28 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 12
+	Query: "country:&#34;United States&#34;" ; Times: 1
+	Query: "hemiprocne" ; Times: 1
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "35547" ; Times: 1
+	Query: "Boidae institutioncode:AM" ; Times: 1
+	Query: "49831" ; Times: 1
+	Query: "Laticauda colubrina (japan)" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Pterois" ; Times: 1
+	Query: "21408" ; Times: 1
+	Query: "Abalistes filamentosus mappable:1" ; Times: 1
+	Query: "specificepithet:muelleri genus:Aspidomorphus institutioncode:AM" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "aphanius" ; Times: 1
+	Query: "Xanthichthys caeruleolineatus mappable:1" ; Times: 1
+	Query: "New mexico" ; Times: 1
+	Query: "class:Reptilia" ; Times: 3
+	Query: "Balistapus rectangulus mappable:1" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Welcome swallow" ; Times: 4
+	Query: "scelotes" ; Times: 1
+	Query: "flavigularis" ; Times: 2
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Rana" ; Times: 1
+	Query: "genus:rhipidura (norfolk) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cetomimidae" ; Times: 2
+	Query: "hydrophis ornatus" ; Times: 3
+	Query: "western whiptail" ; Times: 1
+	Query: "Panda" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "Laticauda laticaudata" ; Times: 2
+	Query: "Balistes aculeatus mappable:1" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "66407 o" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 2
+	Query: "gallirallus australis" ; Times: 4
+	Query: "69084" ; Times: 1
+	Query: "emoia flavigularis" ; Times: 2
+	Query: "17984" ; Times: 1
+	Query: "Balistoides conspicillum" ; Times: 1
+	Query: "Spadefoot toad" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "catalognumber:115429 institutioncode:AM" ; Times: 2
+	Query: "Anguilla japonica" ; Times: 1
+	Query: "Xanthichthys lineopunctatus mappable:1" ; Times: 1
+	Query: "specificepithet:trivirgatus genus:phylloscopus year &gt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "argyrogaster" ; Times: 2
+	Query: "bird" ; Times: 2
+	Query: "Nativitatis Christmas island" ; Times: 1
+	Query: "13900" ; Times: 1
+	Query: "dwarf" ; Times: 2
+	Query: "herpnet" ; Times: 1
+	Query: "v" ; Times: 1
+	Query: "43649.002" ; Times: 1
+	Query: "specificepithet:caudiannulatus genus:Phyllurus stateprovince:&#34;Queensland&#34;" ; Times: 1
+	Query: "9832 KU" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "specificepithet:cirrhifer genus:Stephanolepis" ; Times: 2
+	Query: "red footed booby" ; Times: 1
+	Query: "Mammalia" ; Times: 1
+	Query: "order:Squamata" ; Times: 1
+	Query: "Phaps" ; Times: 1
+	Query: "specificepithet:caudiannulatus genus:Phyllurus" ; Times: 1
+	Query: "recordedby:campbell year &gt;= 1960 year &lt;= 1960" ; Times: 1
+	Query: "Balistes aculeatus" ; Times: 1
+	Query: "Balistes conspicillum mappable:1" ; Times: 1
+	Query: "picta victoria" ; Times: 1
+	Query: "Corvidae" ; Times: 1
+	Query: "copperhead" ; Times: 5
+	Query: "orcinus orca" ; Times: 1
+	Query: "natator" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Pterois volitans" ; Times: 21
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:rhipidura country:&#34;vanuatu&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "32613" ; Times: 2
+	Query: "lepidodactylus madang" ; Times: 1
+	Query: "Nativitatis rattus" ; Times: 1
+	Query: "15862" ; Times: 3
+	Query: "vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "59754" ; Times: 1
+	Query: "76835" ; Times: 1
+	Query: "76624" ; Times: 1
+	Query: "UCLA" ; Times: 1
+	Query: "cat" ; Times: 1
+	Query: "25113 psittacidae" ; Times: 1
+	Query: "Pangasius macronema" ; Times: 2
+	Query: "Sufflamen fraenatus" ; Times: 1
+	Query: "82879" ; Times: 1
+	Query: "squamata" ; Times: 1
+	Query: "Xanthichthys auromarginatus" ; Times: 1
+	Query: "Turdus" ; Times: 1
+	Query: "Reptilia" ; Times: 2
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "catalognumber:115430 institutioncode:AM" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus mappable:1" ; Times: 1
+	Query: "specificepithet:moluccensis genus:Upeneus" ; Times: 1
+	Query: "Melichthys buniva mappable:1" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "genus:micropsitta class:aves country:&#34;solomon&#34;" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "Balistes stellatus mappable:1" ; Times: 2
+	Query: "98047" ; Times: 1
+	Query: "Hemibalistes chrysopterus" ; Times: 1
+	Query: "specificepithet:cyanomos genus:Neopomacentrus" ; Times: 1
+	Query: "institutioncode:AM" ; Times: 1
+	Query: "specificepithet:psittacea genus:erythrura year &gt;= 1985 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 3
+	Query: "beebei" ; Times: 2
+	Query: "country:&#34;malaysia&#34;" ; Times: 1
+	Query: "dragon" ; Times: 1
+	Query: "(Cabassous OR Panthera OR Ateles) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "43649" ; Times: 1
+	Query: "Sufflamen chrysopterus" ; Times: 1
+	Query: "specificepithet:chinensis genus:sousa" ; Times: 1
+	Query: "Pseudobalistes flavimarginatus mappable:1" ; Times: 1
+	Query: "Balistes verrucosus" ; Times: 2
+	Query: "148 psittacidae" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Rattus nativitatis" ; Times: 9
+	Query: "sooty tern" ; Times: 4
+	Query: "10699" ; Times: 1
+	Query: "172021" ; Times: 2
+	Query: "Abalistes filamentosus" ; Times: 1
+	Query: "zmuc indonesia" ; Times: 1
+	Query: "Bird" ; Times: 1
+	Query: "Lepidodactylus manni kadavu" ; Times: 1
+	Query: "recordedby:bryant year &gt;= 1964 year &lt;= 1964" ; Times: 2
+	Query: "33147 class:aves" ; Times: 1
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 3
+	Query: "Acerodon" ; Times: 1
+	Query: "9832" ; Times: 1
+	Query: "genus:laticauda" ; Times: 2
+	Query: "2012" ; Times: 1
+	Query: "Bat" ; Times: 1
+	Query: "specificepithet:melanolophus genus:Gorsachius institutioncode:AM" ; Times: 1
+	Query: "Sufflamen chrysopterus mappable:1" ; Times: 1
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "9665" ; Times: 1
+	Query: "Robin" ; Times: 1
+	Query: "country:&#34;Argentina&#34;" ; Times: 1
+	Query: "KUM" ; Times: 1
+	Query: "Bedotiidae" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 3
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "fairy" ; Times: 1
+	Query: "(Cabassous OR Panthera) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "33004" ; Times: 1
+	Query: "specificepithet:laticaudata genus:Laticauda country:&#34;Fiji&#34;" ; Times: 1
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "fish" ; Times: 2
+	Query: "Balistes chrysopterus" ; Times: 1
+	Query: "apteronotus leptorhynchus vntype:specimen" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "70707" ; Times: 1
+	Query: "genus:Rana" ; Times: 2
+	Query: "Balistes viridescens mappable:1" ; Times: 1
+	Query: "vntype:specimen (apteronotus leptorhynchus)" ; Times: 1
+	Query: "Slater Museum" ; Times: 1
+	Query: "Hemibalistes bursa" ; Times: 1
+	Query: "30447" ; Times: 1
+	Query: "133884" ; Times: 2
+	Query: "thrush" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 2
+	Query: "podicipedidae" ; Times: 1
+	Query: "spadefoot toad" ; Times: 2
+	Query: "felis catus" ; Times: 3
+	Query: "recordedby:alcorn" ; Times: 3
+	Query: "sphoeroides" ; Times: 2
+	Query: "Balistes viridescens" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "26380" ; Times: 1
+	Query: "specificepithet:gouldiae genus:erythrura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "austin" ; Times: 1
+	Query: "order:Anura" ; Times: 1
+	Query: "Melichthys radula" ; Times: 1
+	Query: "house finch" ; Times: 2
+	Query: "Rhinecanthus echarpe" ; Times: 1
+	Query: "Sphenodon" ; Times: 3
+	Query: "unicorn" ; Times: 2
+	Query: "Balistes vidua mappable:1" ; Times: 1
+	Query: "KUDA" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Hydrophis melanocephalus" ; Times: 1
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND belzebuth)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 3
+	Query: "39306" ; Times: 1
+	Query: "latimeria vntype:specimen" ; Times: 2
+	Query: "Pseudobalistes flavimarginatus" ; Times: 1
+	Query: "genus:rhipidura class:aves (vanuatu) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tragula genus:Upeneus" ; Times: 1
+	Query: "catalognumber:117386" ; Times: 1
+	Query: "aves" ; Times: 1
+	Query: "Hydrophis belcheri" ; Times: 2
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Balistes capistratus" ; Times: 1
+	Query: "lampanyctus steinbecki" ; Times: 2
+	Query: "class:Mammalia (Cabassous OR Panthera OR (Ateles AND chamek)) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 6
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "10395" ; Times: 1
+	Query: "82383" ; Times: 1
+	Query: "3449" ; Times: 1
+	Query: "Copperhead" ; Times: 1
+	Query: "parnell" ; Times: 3
+	Query: "Origma solitaria" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "Lepidodactylus manni" ; Times: 1
+	Query: "Balistes undulatus" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "Pangasius larnaudii" ; Times: 1
+	Query: "genus:Phyllurus stateprovince:&#34;Queensland&#34;" ; Times: 1
+	Query: "&#34;sunset beach&#34;" ; Times: 1
+	Query: "genus:Strophurus stateprovince:&#34;Queensland&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:japonicus genus:Stephanolepis" ; Times: 1
+	Query: "169850" ; Times: 1
+	Query: "chuuk" ; Times: 1
+	Query: "39048" ; Times: 3
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "class:Reptilia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "british columbia" ; Times: 2
+	Query: "strophurus taenicauda" ; Times: 1
+	Query: "Melanotaenia maccullochi" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "genus:rhipidura country:&#34;new caledonia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pangasius genus:Pangasius" ; Times: 1
+	Query: "45758 class:Aves" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 4
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "order:anura" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 2
+	Query: "Honduras" ; Times: 1
+	Query: "western pipistrelle" ; Times: 1
+	Query: "urn" ; Times: 1
+	Query: "178185" ; Times: 1
+	Query: "Lepidodactylus new britain" ; Times: 2
+	Query: "AM 90942" ; Times: 1
+	Query: "Balistes vidua" ; Times: 1
+	Query: "elapidae institutioncode:AM" ; Times: 1
+	Query: "vntype:specimen specificepithet:livingstonei genus:erythrocercus year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "Hemibalistes chrysopterus mappable:1" ; Times: 1
+	Query: "24493" ; Times: 1
+	Query: "genus:Tadarida" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 1
+	Query: "Manis" ; Times: 1
+	Query: "167625" ; Times: 1
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "Equus quagga" ; Times: 1
+	Query: "104041" ; Times: 1
+	Query: "162279" ; Times: 1
+	Query: "Apteronotus" ; Times: 1
+	Query: "Balistes conspicillum" ; Times: 1
+	Query: "catalognumber:67859" ; Times: 1
+	Query: "specificepithet:leptorhynchus genus:apteronotus" ; Times: 1
+	Query: "34645" ; Times: 2
+	Query: "blomhoffi (japan)" ; Times: 1
+	Query: "boiga (Solomon islands)" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 2
+	Query: "25211" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 5
+	Query: "catalognumber:102593" ; Times: 3
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "specificepithet:colubrina genus:laticauda" ; Times: 1
+	Query: "61905" ; Times: 2
+	Query: "bat" ; Times: 1
+	Query: "Hemibalistes bursa mappable:1" ; Times: 1
+	Query: "specificepithet:rufifrons genus:rhipidura year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 2
+	Query: "genus:Platysaurus specificepithet:guttatus" ; Times: 3
+	Query: "Naja mappable:1" ; Times: 3
+	Query: "Xanthichthys caeruleolineatus" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "143809" ; Times: 1
+	Query: "family:Bufonidae" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "pacific fisher" ; Times: 1
+	Query: "callithrix aurita" ; Times: 1
+	Query: "emoia nigra" ; Times: 2
+	Query: "class:Mammalia (Cabassous OR Panthera OR Ateles) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Eupleres" ; Times: 3
+	Query: "&#34;labeo pierrei&#34;" ; Times: 1
+	Query: "Abalistes stellatus" ; Times: 3
+	Query: "Lates calcarifer" ; Times: 2
+	Query: "Xanthichthys ringens mappable:1" ; Times: 2
+	Query: "whiptail" ; Times: 1
+	Query: "s" ; Times: 2
+	Query: "P.G. Frank" ; Times: 3
+	Query: "11297" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "Canthidermis maculatus mappable:1" ; Times: 2
+	Query: "genus:Myobatrachus specificepithet:gouldii" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "Bufo" ; Times: 1
+	Query: "Sufflamen fraenatus mappable:1" ; Times: 1
+	Query: "158365" ; Times: 1
+	Query: "drymodes superciliaris" ; Times: 3
+	Query: "Manis crassicaudata" ; Times: 2
+	Query: "vntype:specimen" ; Times: 7
+	Query: "saxatilis order:anura" ; Times: 1
+	Query: "B-3403" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "92685" ; Times: 2
+	Query: "Xanthichthys auromarginatus mappable:1" ; Times: 1
+	Query: "Melichthys indicus" ; Times: 1
+	Query: "aye-aye" ; Times: 1
+	Query: "Apteronotus leptorhynchus" ; Times: 1
+	Query: "Balistoides niger" ; Times: 1
+	Query: "(skeleton)" ; Times: 1
+	Query: "myotis" ; Times: 1
+	Query: "specificepithet:salebrosus genus:Saltuarius" ; Times: 3
+	Query: "Philetor brachypterus" ; Times: 2
+	Query: "147781" ; Times: 1
+	Query: "(rhipidura rufifrons) year &gt;= 1990" ; Times: 1
+	Query: "ephalophis greyi" ; Times: 1
+	Query: "robin" ; Times: 1
+	Query: "herpailurus" ; Times: 1
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "48541" ; Times: 1
+	Query: "demon" ; Times: 3
+	Query: "stegonotus" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "morelia amethistina" ; Times: 1
+	Query: "111755" ; Times: 1
+	Query: "null" ; Times: 122
+	Query: "specificepithet:Dichroa genus:Aplonis class:Aves" ; Times: 1
+	Query: "10760" ; Times: 2
+	Query: "Nyctimene" ; Times: 2
+	Query: "Melichthys buniva" ; Times: 1
+	Query: "genus:Hirundapus class:Aves" ; Times: 2
+	Query: "niue" ; Times: 1
+	Query: "Balistes undulatus mappable:1" ; Times: 1
+	Query: "Macropus rufus" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "herpetology" ; Times: 2
+	Query: "Lepidodactylus orientalis" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Xenobalistes tumidipectoris" ; Times: 1
+	Query: "Balistapus aculeatus mappable:1" ; Times: 1
+	Query: "specificepithet:psittacea genus:erythrura class:aves year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 2
+	Query: "crayfish" ; Times: 3
+	Query: "Pangasius krempfi" ; Times: 2
+	Query: "Balistapus rectangulus" ; Times: 1
+	Query: "Melanotaenia goldiei" ; Times: 1
+	Query: "specificepithet:trichroa genus:erythrura year &gt;= 1985 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "immaculatus" ; Times: 1
+	Query: "academy of natural sciences" ; Times: 1
+	Query: "Pseudobalistes fuscus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "genus:phylloscopus country:&#34;solomon&#34;" ; Times: 1
+	Query: "specificepithet:laticaudata genus:laticauda" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "caretta caretta" ; Times: 1
+	Query: "51957" ; Times: 1
+	Query: "Balistapus aculeatus" ; Times: 1
+	Query: "specificepithet:trichroa genus:erythrura year &gt;= 1985" ; Times: 1
+	Query: "strigiformes" ; Times: 1
+	Query: "Balistes chrysopterus mappable:1" ; Times: 1
+	Query: "genus:dicrurus country:&#34;solomon&#34;" ; Times: 2
+	Query: "Rhinecanthus verrucosus mappable:1" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "Rattus macleari" ; Times: 4
+	Query: "specificepithet:lineaticollis genus:Aspidomorphus" ; Times: 3
+	Query: "iNSCRIPTION" ; Times: 2
+	Query: "CM 9631" ; Times: 1
+	Query: "Pteropus hypomelanus Indonesia" ; Times: 1
+	Query: "confusus" ; Times: 2
+	Query: "Balistoides niger mappable:1" ; Times: 1
+	Query: "recordedby: Graham" ; Times: 1
+	Query: "25891" ; Times: 1
+	Query: "96782" ; Times: 1
+	Query: "bicarinatus" ; Times: 1
+	Query: "class:aves catalognumber:74085" ; Times: 1
+	Query: "Emoia concolor" ; Times: 1
+	Query: "Petroica" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "60030" ; Times: 1
+	Query: "orchid" ; Times: 1
+	Query: "class:aves (manus) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "catalognumber:136279 institutioncode:AM" ; Times: 1
+	Query: "catalognumber:153230" ; Times: 1
+	Query: "69162" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 22
+	Query: "88945" ; Times: 1
+	Query: "Varanus salvator vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rhinecanthus verrucosus" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "specificepithet:swaini genus:Saltuarius" ; Times: 3
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "lEPIDODACTYLUS" ; Times: 1
+	Query: "devil" ; Times: 2
+	Query: "Balistes capistratus mappable:1" ; Times: 1
+	Query: "apteronotus vntype:specimen" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "Carcharodon" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "genus:Saltuarius stateprovince:&#34;Queensland&#34;" ; Times: 1
+	Query: "Pangasius bocourti" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "Acontias percivali" ; Times: 3
+	Query: "reptile" ; Times: 1
+	Query: "151985" ; Times: 1
+	Query: "Laticauda semifasciata" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:rhipidura year &gt;= 1985 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Pterois antennata" ; Times: 17
+	Query: "Emydocephalus" ; Times: 1
+	Query: "T 1484" ; Times: 1
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "Melichthys indicus mappable:1" ; Times: 1
+	Query: "vntype:specimen order:Squamata" ; Times: 2
+	Query: "Balistoides viridescens" ; Times: 1
+	Query: "Balistes stellatus" ; Times: 2
+	Query: "1907-02-17" ; Times: 1
+	Query: "60257" ; Times: 2
+	Query: "penguin" ; Times: 1
+	Query: "Hydrophis institutioncode:AM" ; Times: 1
+	Query: "Erythrotriorchis radiatus" ; Times: 4
+	Query: "Balistes erythrodon mappable:1" ; Times: 1
+	Query: "57648" ; Times: 1
+	Query: "Odonus niger" ; Times: 1
+	Query: "Chiroptera" ; Times: 4
+	Query: "27449" ; Times: 1
+	Query: "skylark" ; Times: 1
+	Query: "class:Mammalia" ; Times: 32
+	Query: "Parnell" ; Times: 1
+	Query: "genus:Neopomacentrus" ; Times: 1
+	Query: "Melichthys radula mappable:1" ; Times: 1
+	Query: "Dobsonia" ; Times: 1
+	Query: "Xanthichthys lineopunctatus" ; Times: 1
+	Query: "rhipidura rufifrons year &gt;= 1985 year &lt;= 2018" ; Times: 2
+	Query: "Nativitatis" ; Times: 1
+	Query: "great shearwater" ; Times: 1
+	Query: "specificepithet:frontalis genus:Laticauda institutioncode:AM" ; Times: 1
+	Query: "citation" ; Times: 1
+	Query: "Rhinecanthus echarpe mappable:1" ; Times: 1
+	Query: "genus:Xiphophorus" ; Times: 2
+	Query: "24949" ; Times: 1
+	Query: "genus:sterna catalognumber:1536" ; Times: 3
+	Query: "Picumnus" ; Times: 1
+	Query: "89692" ; Times: 1
+	Query: "specificepithet:pardalis genus:Cantherhines" ; Times: 1
+	Query: "93971" ; Times: 1
+	Query: "EUDYPTULA MINOR" ; Times: 1
+	Query: "gecko" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "12116" ; Times: 1
+	Query: "didunculus" ; Times: 3
+	Query: "Testudo graeca" ; Times: 1
+	Query: "128101" ; Times: 1
+	Query: "family:Colubridae" ; Times: 1
+	Query: "Balistes erythrodon" ; Times: 1
+	Query: "emoia nigra solomon islands" ; Times: 1
+	Query: "Acm" ; Times: 10
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Xenobalistes tumidipectoris mappable:1" ; Times: 1
+	Query: "Page" ; Times: 2
+	Query: "catalognumber:7064 institutioncode:AM" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "Dendrelaphis (Solomon islands)" ; Times: 1
+	Query: "aye aye" ; Times: 2
+	Query: "Sunfish" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1416 download events in this period)
+Total number of records downloaded: 155997
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 12
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 11
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 22
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-31 ; Times: 1
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-13 ; Times: 3
+	Date: 2018-08-11 ; Times: 2
+	Date: 2018-08-03 ; Times: 3
+	Date: 2018-08-27 ; Times: 3
+	Date: 2018-08-26 ; Times: 2
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-09 ; Times: 13
+	Date: 2018-08-22 ; Times: 3
+	Date: 2018-08-21 ; Times: 3
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 11
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Anura" ; Times: 1
+	Query: "order:Squamata" ; Times: 2
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Hoplias malabaricus" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "sooty tern" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "Laticauda semifasciata" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "Hydrophis melanocephalus" ; Times: 1
+	Query: "dinodon (japan)" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "saimiri sciureus" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Emydocephalus" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "podicipedidae" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "vntype:specimen (apteronotus leptorhynchus)" ; Times: 1
+	Query: "rhabdophis (japan)" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "Hydrophis cyanocinctus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "Myotis dasycneme" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "vntype:specimen order:Squamata" ; Times: 1
+	Query: "specificepithet:pangasius genus:Pangasius" ; Times: 1
+	Query: "boiga (Solomon islands)" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Erythrotriorchis radiatus" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "niue" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "(rhipidura rufifrons) year &gt;= 1990" ; Times: 1
+	Query: "Dendrelaphis (Solomon islands)" ; Times: 1
+	Query: "Copperhead Data" ; Times: 3
+	Query: "catesbeiana" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 1
+
+
+End of report.
