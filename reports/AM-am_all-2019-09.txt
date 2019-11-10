@@ -1,0 +1,524 @@
+Report for Institution Code AM, Resource am_all
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 557
+Number of records retrieved in searches: 12608
+Number of different countries where searches have been originated: 37
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 72
+	Country: Canada ; Times: 6
+	Country: Italy ; Times: 1
+	Country: Kuwait ; Times: 2
+	Country: France ; Times: 21
+	Country: Rwanda ; Times: 7
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Norway ; Times: 5
+	Country: Ecuador ; Times: 4
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 8
+	Country: Singapore ; Times: 4
+	Country: Slovenia ; Times: 1
+	Country: Germany ; Times: 11
+	Country: Unknown ; Times: 8
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 9
+	Country: Philippines ; Times: 1
+	Country: Finland ; Times: 2
+	Country: Mexico ; Times: 48
+	Country: United States ; Times: 254
+	Country: New Zealand ; Times: 22
+	Country: Honduras ; Times: 3
+	Country: Portugal ; Times: 16
+	Country: Uruguay ; Times: 2
+	Country: United Arab Emirates ; Times: 2
+	Country: Cuba ; Times: 1
+	Country: India ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 21
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Greece ; Times: 2
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 3
+	Date: 2019-09-15 ; Times: 6
+	Date: 2019-09-16 ; Times: 32
+	Date: 2019-09-17 ; Times: 31
+	Date: 2019-09-10 ; Times: 47
+	Date: 2019-09-11 ; Times: 21
+	Date: 2019-09-12 ; Times: 9
+	Date: 2019-09-13 ; Times: 15
+	Date: 2019-09-18 ; Times: 13
+	Date: 2019-09-19 ; Times: 54
+	Date: 2019-09-30 ; Times: 12
+	Date: 2019-09-09 ; Times: 7
+	Date: 2019-09-08 ; Times: 5
+	Date: 2019-09-03 ; Times: 28
+	Date: 2019-09-02 ; Times: 12
+	Date: 2019-09-01 ; Times: 4
+	Date: 2019-09-07 ; Times: 15
+	Date: 2019-09-06 ; Times: 30
+	Date: 2019-09-05 ; Times: 23
+	Date: 2019-09-04 ; Times: 24
+	Date: 2019-09-21 ; Times: 7
+	Date: 2019-09-20 ; Times: 21
+	Date: 2019-09-23 ; Times: 17
+	Date: 2019-09-22 ; Times: 11
+	Date: 2019-09-25 ; Times: 30
+	Date: 2019-09-24 ; Times: 20
+	Date: 2019-09-27 ; Times: 9
+	Date: 2019-09-26 ; Times: 37
+	Date: 2019-09-29 ; Times: 7
+	Date: 2019-09-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 1
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "specificepithet:leucas genus:carcharhinus" ; Times: 1
+	Query: "pelecanoides urinatrix" ; Times: 1
+	Query: "dobsonii" ; Times: 1
+	Query: "emoia arnoensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 4
+	Query: "Pteropus alecto AM" ; Times: 2
+	Query: "Psephotus pulcherrimus" ; Times: 2
+	Query: "bay-breasted" ; Times: 1
+	Query: "class:Reptilia" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Proctoporus bolivianus" ; Times: 2
+	Query: "43180" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "143747" ; Times: 1
+	Query: "143742" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "hydrophis ornatus" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 3
+	Query: "Pteropus scapulatus AM" ; Times: 1
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 4
+	Query: "Idiacanthus fasciola" ; Times: 2
+	Query: "AM-23590" ; Times: 1
+	Query: "16994." ; Times: 1
+	Query: "Pteropus alecto AM 32409" ; Times: 1
+	Query: "124678" ; Times: 1
+	Query: "bird" ; Times: 3
+	Query: "arapaima gigas" ; Times: 1
+	Query: "country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "micropechis" ; Times: 1
+	Query: "nivalis mustela" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 1
+	Query: "baxteri" ; Times: 1
+	Query: "Spinachia spinachia mappable:1" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "prion" ; Times: 1
+	Query: "colubridae" ; Times: 1
+	Query: "Mammalia" ; Times: 2
+	Query: "Galidia elegans" ; Times: 2
+	Query: "owstoni year &lt; 1980" ; Times: 1
+	Query: "Smallmouth bass" ; Times: 1
+	Query: "specificepithet:marmorata" ; Times: 1
+	Query: "AM-24451" ; Times: 1
+	Query: "specificepithet:cincta genus:Poephila" ; Times: 2
+	Query: "Eopsaltria flaviventris" ; Times: 2
+	Query: "continent:Africa" ; Times: 1
+	Query: "Flowerpot snake" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "copperhead" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "reptilia" ; Times: 1
+	Query: "41235" ; Times: 1
+	Query: "aipysurus duboisii" ; Times: 2
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "Hong Kong" ; Times: 1
+	Query: "145256" ; Times: 1
+	Query: "arctic tern" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "specificepithet:dahlii order:Anura" ; Times: 1
+	Query: "Panthera" ; Times: 1
+	Query: "Liophis cobella mappable:1" ; Times: 1
+	Query: "genus:lepidotrigla" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "specificepithet:picta genus:Grantiella basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "india" ; Times: 2
+	Query: "Reptilia" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "Chromis viridis" ; Times: 2
+	Query: "varanus giganteus" ; Times: 2
+	Query: "21870" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "ku ninox" ; Times: 1
+	Query: "Protopterus" ; Times: 2
+	Query: "hawk" ; Times: 1
+	Query: "zygaena" ; Times: 1
+	Query: "institutioncode:AM" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "Mordacia praecox" ; Times: 2
+	Query: "Hemidactylus" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+	Query: "45583" ; Times: 1
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "AM-21583" ; Times: 1
+	Query: "AM-21582" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "AM-20916" ; Times: 1
+	Query: "Ahaetulla prasina" ; Times: 1
+	Query: "family:LABRIDAE" ; Times: 1
+	Query: "&#34;Bathophilus schizochirus&#34;" ; Times: 1
+	Query: "specificepithet:frenatus genus:Hemidactylus" ; Times: 1
+	Query: "Paramythia montium" ; Times: 3
+	Query: "32980" ; Times: 1
+	Query: "Pteropus scapulatus" ; Times: 1
+	Query: "&#34;Microlophichthys microlophus&#34;" ; Times: 2
+	Query: "specificepithet:arfaki genus:Rana" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 4
+	Query: "Crocodylus" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "1018" ; Times: 1
+	Query: "115807" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Sharks" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "genus:Bodianus" ; Times: 1
+	Query: "fish" ; Times: 1
+	Query: "Hydrophis melanocephalus" ; Times: 2
+	Query: "recordedby:Fuller" ; Times: 1
+	Query: "Parahydrophis mertoni" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Geomyersia" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "Amphibia" ; Times: 1
+	Query: "calcaratus East New Britain" ; Times: 1
+	Query: "Aipysurus laevis" ; Times: 8
+	Query: "wood frog" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "Eurostopodus archboldi" ; Times: 1
+	Query: "genus:Litoria specificepithet:eucnemis" ; Times: 1
+	Query: "Bathyuroconger vicinus" ; Times: 1
+	Query: "Lepidoptera" ; Times: 2
+	Query: "Polyprion americanus" ; Times: 2
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 2
+	Query: "GOW 52" ; Times: 1
+	Query: "aves" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "Liza aurata mappable:1" ; Times: 1
+	Query: "Hydrophis melanosoma" ; Times: 1
+	Query: "order:Carnivora" ; Times: 1
+	Query: "&#34;Asquamiceps hjorti &#34;" ; Times: 3
+	Query: "family:Labridae" ; Times: 1
+	Query: "Stomias longibarbatus mappable:1" ; Times: 1
+	Query: "138118" ; Times: 1
+	Query: "138119" ; Times: 1
+	Query: "Pteropus scapulatus AM 32440" ; Times: 1
+	Query: "Pteropus scapulatus AM 32441" ; Times: 1
+	Query: "Cyclothone" ; Times: 1
+	Query: "oceanites oceanicus" ; Times: 1
+	Query: "charadrius mongolus" ; Times: 2
+	Query: "apteryx rowi am ornithology" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "14150" ; Times: 1
+	Query: "&#34;Allocyttus verrucosus&#34;" ; Times: 1
+	Query: "River Styx" ; Times: 1
+	Query: "Sphenomorphus muelleri" ; Times: 1
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "pygopodidae" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "specificepithet:livia genus:Columba year &lt;= 2000" ; Times: 2
+	Query: "GOW" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "Laticauda crockeri" ; Times: 1
+	Query: "order:anura" ; Times: 1
+	Query: "Chalcophaps indica" ; Times: 1
+	Query: "Casuariidae" ; Times: 1
+	Query: "Jordania zonope mappable:1" ; Times: 1
+	Query: "Scarus psittacus" ; Times: 1
+	Query: "specificepithet:pulcherrimus genus:Psephotus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "67501" ; Times: 1
+	Query: "Zebrasoma rostratum" ; Times: 1
+	Query: "Calidris canutus" ; Times: 5
+	Query: "27957" ; Times: 1
+	Query: "specificepithet:truncatus genus:Tursiops" ; Times: 1
+	Query: "cryptotis" ; Times: 2
+	Query: "Nycticorax caledonicus caledonicus" ; Times: 3
+	Query: "specificepithet:maculatus genus:Spilocuscus institutioncode:AM" ; Times: 2
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "Fishes" ; Times: 1
+	Query: "bull snake" ; Times: 1
+	Query: "Pelamis platurus" ; Times: 5
+	Query: "vntype:specimen genus:Ardeotis" ; Times: 2
+	Query: "genus:Philoria specificepithet:frosti" ; Times: 1
+	Query: "Rattus tiomanicus" ; Times: 3
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Sphyrna mokarran mappable:1" ; Times: 1
+	Query: "México" ; Times: 1
+	Query: "Pristiophorus" ; Times: 2
+	Query: "AM-19905" ; Times: 1
+	Query: "specificepithet:arfaki  genus:Rana" ; Times: 1
+	Query: "Pteropus alecto AM 32564" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 4
+	Query: "amphibia" ; Times: 1
+	Query: "141412" ; Times: 1
+	Query: "biogeography" ; Times: 1
+	Query: "specificepithet:picta genus:Grantiella" ; Times: 2
+	Query: "Citharichthys gymnorhinus mappable:1" ; Times: 1
+	Query: "136325" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "10430" ; Times: 1
+	Query: "&#34;Diretmoides pauciradiatus&#34;" ; Times: 2
+	Query: "specificepithet:viridis genus:Bufo" ; Times: 1
+	Query: "Odontaspis" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "country:&#34;tuvalu&#34;" ; Times: 3
+	Query: "papasula abbotti am ornithology" ; Times: 1
+	Query: "puffinus polynesia" ; Times: 1
+	Query: "specificepithet:maculatus genus:Spilocuscus" ; Times: 1
+	Query: "catalognumber:105366" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 4
+	Query: "Aptenodytes" ; Times: 1
+	Query: "(Ave)" ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "Mordacia" ; Times: 1
+	Query: "Acipenser naccarii" ; Times: 1
+	Query: "Hydrophis pacificus" ; Times: 1
+	Query: "chiroptera" ; Times: 2
+	Query: "ants" ; Times: 1
+	Query: "Micropechis ikaheka" ; Times: 2
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "Pteropus Niger AM" ; Times: 1
+	Query: "Cyclura cornuta" ; Times: 2
+	Query: "specificepithet:discolor genus:Lathamus" ; Times: 5
+	Query: "vntype:specimen" ; Times: 1
+	Query: "pelecanoididae" ; Times: 1
+	Query: "country:&#34;india&#34;" ; Times: 1
+	Query: "67424" ; Times: 1
+	Query: "Laticauda saintgironsi" ; Times: 1
+	Query: "&#34;Heterophotus ophistoma&#34;" ; Times: 1
+	Query: "bulleri" ; Times: 1
+	Query: "hydrodamalis" ; Times: 1
+	Query: "Carnivora" ; Times: 3
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lizard" ; Times: 1
+	Query: "Gerbilliscus boehmi" ; Times: 2
+	Query: "AM-22337" ; Times: 1
+	Query: "AM-22336" ; Times: 1
+	Query: "Beryx splendens mappable:1" ; Times: 1
+	Query: "genus:lichmera" ; Times: 1
+	Query: "Herpetology R-9249" ; Times: 2
+	Query: "order:Rodentia" ; Times: 1
+	Query: "country:&#34;India&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Western&#34; country:&#34;Solomon Islands&#34;" ; Times: 2
+	Query: "andaman" ; Times: 1
+	Query: "Leopard Frog" ; Times: 1
+	Query: "tuvalu" ; Times: 3
+	Query: "70455" ; Times: 1
+	Query: "class:Aves" ; Times: 1
+	Query: "Casuarius casuarius" ; Times: 2
+	Query: "tenrec" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "mus musculus" ; Times: 1
+	Query: "Sarda orientalis mappable:1" ; Times: 1
+	Query: "(Japan)" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 4
+	Query: "Laticauda frontalis" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Lions" ; Times: 2
+	Query: "carcharhinus leucas" ; Times: 65
+	Query: "Murexia longicaudata" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "114704" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Uraspis secunda mappable:1" ; Times: 1
+	Query: "Mordacia mordax" ; Times: 4
+	Query: "41149" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Accipiter basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pteropus vetulus AM" ; Times: 1
+	Query: "Cryptoprocta ferox" ; Times: 4
+	Query: "genus:Plegadis" ; Times: 1
+	Query: "KU 5294" ; Times: 1
+	Query: "gray whale" ; Times: 1
+	Query: "Upeneus" ; Times: 1
+	Query: "&#34;Bathyuroconger vicinus&#34;" ; Times: 2
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "genus:paraheminodus" ; Times: 2
+	Query: "Hydrophis ocellatus" ; Times: 1
+	Query: "varanus indicus" ; Times: 1
+	Query: "Shark" ; Times: 2
+	Query: "AM-23778" ; Times: 1
+	Query: "162261" ; Times: 2
+	Query: "145583" ; Times: 1
+	Query: "145585" ; Times: 1
+	Query: "Grammicolepis brachiusculus" ; Times: 1
+	Query: "145589" ; Times: 1
+	Query: "Aipysurus duboisii" ; Times: 3
+	Query: "doriae" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "135738" ; Times: 1
+	Query: "Chromis iomelas" ; Times: 1
+	Query: "vntype:specimen specificepithet:indistincta family:meliphagidae" ; Times: 1
+	Query: "Geotria australis" ; Times: 2
+	Query: "recordedby:charles" ; Times: 1
+	Query: "class:Aves continent:North America" ; Times: 2
+	Query: "ellice islands" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "dendrolagus goodfellowi" ; Times: 7
+	Query: "stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Scat" ; Times: 3
+	Query: "Acalyptophis peronii" ; Times: 2
+	Query: "15722" ; Times: 1
+	Query: "reptile" ; Times: 1
+	Query: "Laticauda guineai" ; Times: 1
+	Query: "Laticauda semifasciata" ; Times: 1
+	Query: "bats" ; Times: 1
+	Query: "upland sandpiper" ; Times: 2
+	Query: "aplonis grandis country:&#34;Solomon Islands&#34;" ; Times: 1
+	Query: "acanthemblemaria" ; Times: 1
+	Query: "107488" ; Times: 1
+	Query: "Apteryx" ; Times: 3
+	Query: "Reptilia Colorado" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "pachyptila O.8094" ; Times: 2
+	Query: "head" ; Times: 1
+	Query: "Barbourisia rufa mappable:1" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Loweina rara" ; Times: 1
+	Query: "Crested Shrike Tit" ; Times: 2
+	Query: "class:aves (malaita) year &gt;= 1950 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "class:Mammalia" ; Times: 2
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "Pteropus poliocephalus" ; Times: 1
+	Query: "Hippocampus colemani" ; Times: 1
+	Query: "gecko" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "141501" ; Times: 1
+	Query: "Hemitripterus americanus mappable:1" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 5
+	Query: "tuvalu reptilia" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "1816 turner" ; Times: 1
+	Query: "Scomberesox saurus saurus mappable:1" ; Times: 1
+	Query: "Meroles suborbitalis" ; Times: 1
+	Query: "specificepithet:carinatus" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "52606" ; Times: 1
+	Query: "Dysalotus alcocki" ; Times: 1
+	Query: "sicydium plumieri" ; Times: 3
+	Query: "Acontias plumbeus" ; Times: 2
+	Query: "pipistrellus pipistrellus" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "KU 48" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1073 download events in this period)
+Total number of records downloaded: 2941
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 16
+	Country: Honduras ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-26 ; Times: 13
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 7
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-04 ; Times: 4
+	Date: 2019-09-07 ; Times: 10
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Laticauda guineai" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 1
+	Query: "Hydrophis pacificus" ; Times: 1
+	Query: "Parahydrophis mertoni" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "family:Geotriidae" ; Times: 1
+	Query: "Laticauda semifasciata" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Hydrophis melanocephalus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:frenatus genus:Hemidactylus" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "family:Geotriidae mappable:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "tuvalu reptilia" ; Times: 1
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+	Query: "Meroles suborbitalis" ; Times: 1
+	Query: "Hydrophis melanosoma" ; Times: 1
+	Query: "tuvalu" ; Times: 1
+	Query: "rhinogobius" ; Times: 1
+	Query: "Laticauda saintgironsi" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "Laticauda crockeri" ; Times: 1
+	Query: "Hydrophis ocellatus" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "sicydium plumieri" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "canorus" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "ellice islands" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "Reptilia Colorado" ; Times: 1
+	Query: "dendrolagus goodfellowi" ; Times: 2
+	Query: "aotus lemurinus" ; Times: 1
+	Query: "Laticauda frontalis" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Acalyptophis peronii" ; Times: 1
+
+
+End of report.
