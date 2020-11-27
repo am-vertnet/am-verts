@@ -1,0 +1,854 @@
+Report for Institution Code AM, Resource am_all
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4051
+Number of records retrieved in searches: 2994145
+Number of different countries where searches have been originated: 31
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 26
+	Country: Canada ; Times: 8
+	Country: Ireland ; Times: 5
+	Country: Unknown ; Times: 16
+	Country: France ; Times: 16
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 2
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 5
+	Country: Germany ; Times: 12
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 6
+	Country: Finland ; Times: 3
+	Country: Denmark ; Times: 11
+	Country: Philippines ; Times: 6
+	Country: Indonesia ; Times: 5
+	Country: United States ; Times: 1715
+	Country: Sweden ; Times: 2
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 1984
+	Country: Guam ; Times: 1
+	Country: South Africa ; Times: 17
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 115
+	Country: Malaysia ; Times: 1
+	Country: Austria ; Times: 13
+	Country: Colombia ; Times: 9
+	Country: Japan ; Times: 58
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 53
+	Date: 2020-02-23 ; Times: 9
+	Date: 2020-02-02 ; Times: 17
+	Date: 2020-02-03 ; Times: 66
+	Date: 2020-02-26 ; Times: 39
+	Date: 2020-02-01 ; Times: 42
+	Date: 2020-02-20 ; Times: 60
+	Date: 2020-02-21 ; Times: 70
+	Date: 2020-02-22 ; Times: 8
+	Date: 2020-02-05 ; Times: 308
+	Date: 2020-02-08 ; Times: 16
+	Date: 2020-02-09 ; Times: 21
+	Date: 2020-02-28 ; Times: 34
+	Date: 2020-02-29 ; Times: 8
+	Date: 2020-02-11 ; Times: 49
+	Date: 2020-02-10 ; Times: 53
+	Date: 2020-02-13 ; Times: 16
+	Date: 2020-02-12 ; Times: 43
+	Date: 2020-02-15 ; Times: 6
+	Date: 2020-02-14 ; Times: 34
+	Date: 2020-02-17 ; Times: 703
+	Date: 2020-02-16 ; Times: 180
+	Date: 2020-02-19 ; Times: 978
+	Date: 2020-02-18 ; Times: 40
+	Date: 2020-02-24 ; Times: 34
+	Date: 2020-02-25 ; Times: 218
+	Date: 2020-02-27 ; Times: 882
+	Date: 2020-02-06 ; Times: 41
+	Date: 2020-02-07 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 1176
+	Query: "country:&#34;United States&#34;" ; Times: 1
+	Query: "puffinus pacificus norfolk" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "specificepithet:armatus" ; Times: 1
+	Query: "vntype:specimen class:amphibia" ; Times: 1
+	Query: "87329" ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 2
+	Query: "Upeneichthys vlamingii mappable:1" ; Times: 2
+	Query: "skeleton" ; Times: 1
+	Query: "scientificname:Upeneichthys vlamingii mappable:1" ; Times: 2
+	Query: "Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "regent honeyeater" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 5
+	Query: "Smithsonian" ; Times: 2
+	Query: "Chaunax" ; Times: 1
+	Query: "Glaucostegus" ; Times: 1
+	Query: "oceanites oceanicus australia year &gt;= 1997 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Upeneus australiae mappable:1" ; Times: 1
+	Query: "Parupeneus porphyreus mappable:1" ; Times: 1
+	Query: "98368" ; Times: 1
+	Query: "pycnonotus jocosus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "florida museum" ; Times: 1
+	Query: "Sminthopsis griseoventer" ; Times: 2
+	Query: "54329" ; Times: 2
+	Query: "eremita" ; Times: 2
+	Query: "labridae" ; Times: 2
+	Query: "cystophora" ; Times: 3
+	Query: "39343" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "papilio" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "137110" ; Times: 1
+	Query: "scientificname:Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Gymnoscopelus braueri" ; Times: 1
+	Query: "pterodroma leucoptera" ; Times: 1
+	Query: "93535" ; Times: 1
+	Query: "Pezichthys" ; Times: 1
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Melanostigma gelatinosum" ; Times: 1
+	Query: "drepanornis albertisi" ; Times: 1
+	Query: "&#34;Tursiops truncatus&#34;" ; Times: 1
+	Query: "lasiorhinus krefftii" ; Times: 2
+	Query: "72167" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "Ateleopodidae" ; Times: 1
+	Query: "Lepidochelys" ; Times: 1
+	Query: "Strigiformes" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "skeleton vntype:specimen" ; Times: 2
+	Query: "15-1013-9" ; Times: 2
+	Query: "pipistrellus" ; Times: 1
+	Query: "vampire" ; Times: 2
+	Query: "basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nestor notabilis" ; Times: 1
+	Query: "Clupeidae" ; Times: 1
+	Query: "scientificname:Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "cheeseman kermadec" ; Times: 1
+	Query: "specificepithet:scincus genus:Teratoscincus institutioncode:AM" ; Times: 1
+	Query: "Cottus gobio" ; Times: 1
+	Query: "98211" ; Times: 1
+	Query: "dwarf" ; Times: 1
+	Query: "Royal ontario museum" ; Times: 1
+	Query: "coppingeri" ; Times: 1
+	Query: "rattus jobiensis" ; Times: 1
+	Query: "puffinus assimilis western australia" ; Times: 4
+	Query: "Thunnus thynnus mappable:1" ; Times: 1
+	Query: "assimilis western australia" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "Monachus" ; Times: 2
+	Query: "accipiter novaehollandiae country:&#34;australia&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "biodiversity" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Gehyra Kinchega" ; Times: 5
+	Query: "scientificname:Parupeneus procerigena mappable:1" ; Times: 1
+	Query: "genus:bathygobius" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "genus:Manis" ; Times: 1
+	Query: "Indiana vntype:specimen institutioncode:AM" ; Times: 1
+	Query: "Upeneus vittatus mappable:1" ; Times: 1
+	Query: "zebrus" ; Times: 1
+	Query: "JM 1119" ; Times: 2
+	Query: "151306" ; Times: 1
+	Query: "Pythons" ; Times: 1
+	Query: "scientificname:Parupeneus porphyreus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus insularis mappable:1" ; Times: 3
+	Query: "Platurus" ; Times: 2
+	Query: "KU 30461" ; Times: 1
+	Query: "cuculus" ; Times: 1
+	Query: "herring" ; Times: 1
+	Query: "Clupeiformes" ; Times: 1
+	Query: "Green turtle" ; Times: 1
+	Query: "Upeneus taeniopterus mappable:1" ; Times: 1
+	Query: "year &gt;= 2014 year &lt;= 2020" ; Times: 5
+	Query: "copperhead" ; Times: 1
+	Query: "class:aves catalognumber:755" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vinciguerria" ; Times: 1
+	Query: "class:Aves catalognumber:12020" ; Times: 1
+	Query: "family:Phocidae" ; Times: 1
+	Query: "hemidactylus frenatus" ; Times: 1
+	Query: "gehyra Kinchega" ; Times: 1
+	Query: "scientificname:Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "70808" ; Times: 1
+	Query: "&#34;Manis gigantea&#34;" ; Times: 1
+	Query: "Fojia bumui" ; Times: 1
+	Query: "Bidenichthys" ; Times: 1
+	Query: "Parupeneus indicus mappable:1" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "Erythrotriorchis radiatus vntype:specimen year &gt;= 1920 year &lt;= 2020" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "1625" ; Times: 1
+	Query: "(porcupine)" ; Times: 1
+	Query: "puffinus assimilis" ; Times: 2
+	Query: "year &gt;= 1990 year &lt;= 2020" ; Times: 2
+	Query: "Bats" ; Times: 1
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 9
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:Graphiurus" ; Times: 4
+	Query: "florida" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "98369" ; Times: 3
+	Query: "Tyto" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "siren" ; Times: 1
+	Query: "coryogalops" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "&#34;Tachyglossus aculeatus&#34;" ; Times: 3
+	Query: "elephant" ; Times: 2
+	Query: "genus:Carcharodon" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "scientificname:Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "Isistius" ; Times: 1
+	Query: "pachyptila" ; Times: 2
+	Query: "puffinus assimilis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "89688" ; Times: 1
+	Query: "catalognumber:141793" ; Times: 1
+	Query: "scientificname:Upeneus filifer mappable:1" ; Times: 1
+	Query: "a" ; Times: 1
+	Query: "class:reptilia" ; Times: 1
+	Query: "scientificname:Parupeneus spilurus mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus indicus mappable:1" ; Times: 2
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "platypus" ; Times: 2
+	Query: "(dog)" ; Times: 1
+	Query: "dragon" ; Times: 2
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "hetereleotris" ; Times: 3
+	Query: "Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "Argyripnus ephippiatus" ; Times: 7
+	Query: "country:&#34;kenya&#34;" ; Times: 2
+	Query: "2-6775" ; Times: 1
+	Query: "Lampadena notialis" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "Carlia ailanpalai" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "Eretmochelys" ; Times: 1
+	Query: "&#34;Felis catus&#34;" ; Times: 1
+	Query: "family:Ploceidae" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "pachyptila kerguelen" ; Times: 3
+	Query: "17161" ; Times: 1
+	Query: "scientificname:Parupeneus heptacanthus mappable:1" ; Times: 1
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "family:dicaeidae" ; Times: 1
+	Query: "scientificname:Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "Wallace" ; Times: 1
+	Query: "whiptail" ; Times: 1
+	Query: "elanus scriptus vntype:specimen year &gt;= 1940 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 5
+	Query: "122925" ; Times: 1
+	Query: "Solea ovata" ; Times: 1
+	Query: "country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Litoria electrica" ; Times: 1
+	Query: "110015" ; Times: 1
+	Query: "Parupeneus insularis mappable:1" ; Times: 2
+	Query: "country:&#34;costa rica&#34;" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "vntype:specimen genus:Graphiurus" ; Times: 1
+	Query: "Crocodylus" ; Times: 3
+	Query: "snake" ; Times: 2
+	Query: "genus:Megaderma order:Chiroptera" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "87330" ; Times: 1
+	Query: "Upeneichthys stotti mappable:1" ; Times: 1
+	Query: "phocidae" ; Times: 1
+	Query: "Lagomorpha" ; Times: 1
+	Query: "year &gt;= 1994 year &lt;= 2020" ; Times: 1
+	Query: "puffinus pacificus" ; Times: 1
+	Query: "7526" ; Times: 1
+	Query: "Achirus achirus" ; Times: 2
+	Query: "Krefftichthys anderssoni" ; Times: 1
+	Query: "oceanites oceanicus australia" ; Times: 1
+	Query: "fairy" ; Times: 1
+	Query: "20991" ; Times: 2
+	Query: "venusta" ; Times: 1
+	Query: "Dendrohyrax" ; Times: 1
+	Query: "Drymodes superciliaris" ; Times: 1
+	Query: "chromogobius" ; Times: 1
+	Query: "class:aves" ; Times: 2
+	Query: "lepus" ; Times: 1
+	Query: "Gymnoscopelus hintonoides" ; Times: 1
+	Query: "Todiramphus year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Upeneus heemstra mappable:1" ; Times: 1
+	Query: "Phascogale calura" ; Times: 1
+	Query: "great egret" ; Times: 1
+	Query: "croilia" ; Times: 1
+	Query: "class:Aves country:&#34;Papua New Guinea&#34;" ; Times: 2
+	Query: "anura" ; Times: 1
+	Query: "genus:crocodylus" ; Times: 1
+	Query: "Parupeneus crassilabris mappable:1" ; Times: 2
+	Query: "Parupeneus barberinus mappable:1" ; Times: 1
+	Query: "&#34;Panthera tigris&#34;" ; Times: 3
+	Query: "scientificname:Upeneus mouthami mappable:1" ; Times: 1
+	Query: "Upeneus australiae mappable:1" ; Times: 1
+	Query: "arizona" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "Naja nigricollis" ; Times: 1
+	Query: "172160" ; Times: 1
+	Query: "california" ; Times: 2
+	Query: "Varanus" ; Times: 3
+	Query: "Platymantis" ; Times: 3
+	Query: "16240" ; Times: 1
+	Query: "160145" ; Times: 1
+	Query: "Phosichthys" ; Times: 1
+	Query: "physeter" ; Times: 1
+	Query: "seahorse" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus vanuatu mappable:1" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "ORDER DERMOPTERA" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Orcaella heinsohni" ; Times: 4
+	Query: "Acanthiza reguloides" ; Times: 1
+	Query: "rana" ; Times: 2
+	Query: "vntype:specimen family:dicaeidae" ; Times: 1
+	Query: "dicaeidae" ; Times: 1
+	Query: "&#34;Canis lupus&#34;" ; Times: 1
+	Query: "Albuliformes" ; Times: 1
+	Query: "oceanites oceanicus year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "california year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "128589" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 2
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "catalognumber:124091" ; Times: 1
+	Query: "162188" ; Times: 1
+	Query: "Dermoptera" ; Times: 21
+	Query: "oceanites oceanicus year &gt;= 1997 year &lt;= 2020" ; Times: 1
+	Query: "Hintonia candens" ; Times: 1
+	Query: "loxodon" ; Times: 1
+	Query: "Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 4
+	Query: "Salvelinus fontinalis" ; Times: 2
+	Query: "cetorhinus" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "Rheobatrachus" ; Times: 2
+	Query: "order:Carnivora" ; Times: 1
+	Query: "(porcupine )" ; Times: 2
+	Query: "arapaima" ; Times: 1
+	Query: "8472" ; Times: 1
+	Query: "scientificname:Upeneus pori mappable:1" ; Times: 1
+	Query: "50292 class:aves" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "Sminthopsis murina" ; Times: 2
+	Query: "class:aves vntype:specimen country:&#34;papua new guinea&#34;" ; Times: 1
+	Query: "tree" ; Times: 1
+	Query: "mappable:1 year&gt;=1970 year&lt;=2020 month&gt;=1 month&lt;=2 day&gt;=1 day&lt;=15" ; Times: 265
+	Query: "Thymichthys" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 1
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus chrysopleuron mappable:1" ; Times: 1
+	Query: "Bothidae" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "15700" ; Times: 1
+	Query: "procellaria parkinsoni" ; Times: 1
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "rat" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "scientificname:Upeneus guttatus mappable:1" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Brown year &gt;= 2004 year &lt;= 2020" ; Times: 1
+	Query: "3230" ; Times: 1
+	Query: "padogobius" ; Times: 1
+	Query: "&#34;Bos taurus&#34;" ; Times: 1
+	Query: "149887" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Cleared" ; Times: 1
+	Query: "country:&#34;Cambodia&#34;" ; Times: 1
+	Query: "green tree frog" ; Times: 1
+	Query: "Upeneus sundaicus mappable:1" ; Times: 2
+	Query: "Poecilopsetta colorata" ; Times: 2
+	Query: "year&gt;=1970 year&lt;=2020 month&gt;=1 month&lt;=2 day&gt;=1 day&lt;=15" ; Times: 1621
+	Query: "Parupeneus procerigena mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus rubescens mappable:1" ; Times: 2
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "asper" ; Times: 1
+	Query: "pandion haliaetus vntype:specimen country:&#34;australia&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "Elanus axillaris" ; Times: 1
+	Query: "class:reptilia catalognumber:147186" ; Times: 2
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "11796" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;Mexico&#34;" ; Times: 1
+	Query: "fojia bumui" ; Times: 2
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "order:chiroptera" ; Times: 1
+	Query: "Metelectrona ventralis" ; Times: 1
+	Query: "Burhinus grallarius" ; Times: 1
+	Query: "Enhydris enhydris" ; Times: 1
+	Query: "class:aves catalognumber:52400" ; Times: 3
+	Query: "Caretta caretta" ; Times: 5
+	Query: "year &gt;= 2000 year &lt;= 2020" ; Times: 6
+	Query: "36879" ; Times: 2
+	Query: "family:anatidae class:aves" ; Times: 1
+	Query: "(dermoptera Cynocephalidae)" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 4
+	Query: "vntype:specimen genus:Myotis" ; Times: 1
+	Query: "15683" ; Times: 1
+	Query: "Homalopsidae" ; Times: 1
+	Query: "viridescens INDIA" ; Times: 1
+	Query: "pterodroma fiji" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "POSIDONICHTHYS" ; Times: 1
+	Query: "Antechinus swainsonii" ; Times: 5
+	Query: "year &gt;= 2008" ; Times: 1
+	Query: "Upeneus pori mappable:1" ; Times: 1
+	Query: "Bufo marinus" ; Times: 1
+	Query: "(window strike ) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "porcupine" ; Times: 7
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "chelonia mydas" ; Times: 10
+	Query: "(Dermoptera variegatus)" ; Times: 2
+	Query: "124774" ; Times: 1
+	Query: "chatham albatross" ; Times: 1
+	Query: "82104" ; Times: 2
+	Query: "scientificname:Upeneus tragula mappable:1" ; Times: 2
+	Query: "bondi" ; Times: 1
+	Query: "128087" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "bat" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "Thorophos" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "graphiurus" ; Times: 1
+	Query: "porogobius" ; Times: 1
+	Query: "pterodroma brevipes" ; Times: 8
+	Query: "amphibia" ; Times: 1
+	Query: "lagorchestes leporides" ; Times: 1
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "NA NA" ; Times: 3
+	Query: "scientificname:Upeneus sundaicus mappable:1" ; Times: 2
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "mirounga" ; Times: 2
+	Query: "Chiroptera" ; Times: 1
+	Query: "specificepithet:doreanus genus:varanus" ; Times: 1
+	Query: "(Tiger)" ; Times: 1
+	Query: "lophius americanus" ; Times: 3
+	Query: "scientificname:Upeneichthys stotti mappable:1" ; Times: 1
+	Query: "red panda" ; Times: 2
+	Query: "Gerygone tenebrosa" ; Times: 1
+	Query: "33720 Aves" ; Times: 1
+	Query: "guinea" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "pachyptila belcheri" ; Times: 1
+	Query: "Thunnus atlanticus mappable:1" ; Times: 1
+	Query: "168030" ; Times: 1
+	Query: "stateprovince:&#34;wales&#34;" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "Antechinus agilis" ; Times: 1
+	Query: "passer domesticus institutioncode:AM" ; Times: 1
+	Query: "C" ; Times: 1
+	Query: "amethistina" ; Times: 7
+	Query: "Tyto alba" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:AM" ; Times: 3
+	Query: "Abbott" ; Times: 1
+	Query: "recordedby:Adcock" ; Times: 1
+	Query: "Parupeneus heptacanthus mappable:1" ; Times: 1
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "royal ontario museum" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "Melidora" ; Times: 1
+	Query: "Erythrotriorchis vntype:specimen country:&#34;australia&#34; year &gt;= 1920 year &lt;= 2020" ; Times: 1
+	Query: "passer domesticus specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1929" ; Times: 1
+	Query: "168967" ; Times: 1
+	Query: "oceanodroma leucorhoa" ; Times: 1
+	Query: "Moloch" ; Times: 1
+	Query: "Litoria jervisiensis" ; Times: 1
+	Query: "jubata" ; Times: 1
+	Query: "continent:North America" ; Times: 2
+	Query: "Saccogaster" ; Times: 1
+	Query: "jubatus" ; Times: 1
+	Query: "ca" ; Times: 1
+	Query: "&#34;Cerastes vipera&#34;" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "passer domesticus year &gt;= 1700 year &lt;= 1929" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "pachyptila turtur" ; Times: 7
+	Query: "Myospalax myospalax" ; Times: 1
+	Query: "scientificname:Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "69" ; Times: 2
+	Query: "Astroblepus Panama" ; Times: 2
+	Query: "scientificname:Upeneus sulphureus mappable:1" ; Times: 1
+	Query: "154450" ; Times: 1
+	Query: "Manis javanica" ; Times: 1
+	Query: "year &gt;= 2008 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen" ; Times: 2
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Upeneichthys lineatus mappable:1" ; Times: 1
+	Query: "Parupeneus rubescens mappable:1" ; Times: 2
+	Query: "catalognumber:147193" ; Times: 1
+	Query: "squirrel" ; Times: 1
+	Query: "Erythrotriorchis radiatus vntype:specimen year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "Petaurus norfolcensis" ; Times: 3
+	Query: "accipiter novaehollandiae year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "tiger" ; Times: 1
+	Query: "passer montanus" ; Times: 4
+	Query: "chile" ; Times: 1
+	Query: "cuculiformes" ; Times: 2
+	Query: "puffinus assimilis australia year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "161777" ; Times: 1
+	Query: "91643" ; Times: 1
+	Query: "scientificname:Upeneus margarethae mappable:1" ; Times: 1
+	Query: "Cataetyx" ; Times: 3
+	Query: "sun bear" ; Times: 1
+	Query: "Northern Territory genus:Moloch" ; Times: 1
+	Query: "dryas" ; Times: 2
+	Query: "Ducks" ; Times: 1
+	Query: "specificepithet:gigas genus:Macroderma" ; Times: 2
+	Query: "Rhacophorus" ; Times: 1
+	Query: "Hygophum hanseni" ; Times: 1
+	Query: "dermoptera" ; Times: 30
+	Query: "cheeseman" ; Times: 1
+	Query: "monachus" ; Times: 1
+	Query: "Mesoplodon" ; Times: 1
+	Query: "western gull" ; Times: 3
+	Query: "demon" ; Times: 1
+	Query: "regius" ; Times: 1
+	Query: "rattus praetor" ; Times: 1
+	Query: "caffrogobius" ; Times: 1
+	Query: "Cercartetus concinnus" ; Times: 2
+	Query: "arctic tern" ; Times: 1
+	Query: "&#34;Ailurus Fulgens&#34;" ; Times: 1
+	Query: "order:Rodentia" ; Times: 1
+	Query: "zebra finch" ; Times: 1
+	Query: "Tropidonophis multiscutellatus" ; Times: 2
+	Query: "molidae" ; Times: 4
+	Query: "Poecilopsetta praelonga" ; Times: 3
+	Query: "pai" ; Times: 1
+	Query: "4846" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "scientificname:Upeneichthys lineatus mappable:1" ; Times: 1
+	Query: "Mammalia" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Grammonus" ; Times: 1
+	Query: "73559" ; Times: 1
+	Query: "class:Aves" ; Times: 4
+	Query: "Owstonia totomiensis" ; Times: 1
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "Eptatretus" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "pachyptila indian ocean" ; Times: 1
+	Query: "126112" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "mountain skink" ; Times: 1
+	Query: "indonesia" ; Times: 2
+	Query: "Cyrtodactylus sermowaiensis" ; Times: 2
+	Query: "55671" ; Times: 1
+	Query: "Macropus rufus" ; Times: 3
+	Query: "Oceanodroma tethys" ; Times: 1
+	Query: "pterodroma nigripennis" ; Times: 4
+	Query: "genus:chelonia" ; Times: 4
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "canis lupus" ; Times: 6
+	Query: "14267" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "litoria littlejohni" ; Times: 2
+	Query: "year &gt;= 2010 year &lt;= 2020" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "caretta caretta" ; Times: 2
+	Query: "horned lizard" ; Times: 1
+	Query: "Snake" ; Times: 3
+	Query: "Polymetme illustris" ; Times: 1
+	Query: "Sladenia" ; Times: 2
+	Query: "34885" ; Times: 1
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "bradypus &#34;tridactylus&#34;" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Sea turtle" ; Times: 1
+	Query: "scientificname:Parupeneus forsskali mappable:1" ; Times: 2
+	Query: "bufo bufo" ; Times: 2
+	Query: "(Panthera tigris)" ; Times: 3
+	Query: "Oceanodroma leucorhoa" ; Times: 1
+	Query: "vntype:specimen order:Artiodactyla country:&#34;Indonesia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thunnus obesus mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus japonicus mappable:1" ; Times: 2
+	Query: "144987" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "recordedby:hammond" ; Times: 1
+	Query: "pachyptila st paul" ; Times: 1
+	Query: "Antechinus flavipes" ; Times: 3
+	Query: "Bangladesh" ; Times: 1
+	Query: "Lobianchia dofleini" ; Times: 1
+	Query: "canis" ; Times: 5
+	Query: "Parupeneus forsskali mappable:1" ; Times: 2
+	Query: "LAgomorpha" ; Times: 1
+	Query: "scientificname:Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "Gymnoscopelus fraseri" ; Times: 1
+	Query: "scientificname:Upeneus vittatus mappable:1" ; Times: 1
+	Query: "Squamata" ; Times: 2
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "Mouse" ; Times: 1
+	Query: "Gymnobelideus leadbeateri" ; Times: 1
+	Query: "scientificname:Upeneus stenopsis mappable:1" ; Times: 1
+	Query: "nematogobius" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "scientificname:Upeneus francisi mappable:1" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "scientificname:Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "Kaindi" ; Times: 1
+	Query: "class:Actinopterygii" ; Times: 4
+	Query: "mammalia" ; Times: 8
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1901 year &lt;= 1950 institutioncode:AM" ; Times: 1
+	Query: "Lampadena speculigera" ; Times: 1
+	Query: "irrorata" ; Times: 1
+	Query: "Carcharodon" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1951 year &lt;= 2020 institutioncode:AM" ; Times: 3
+	Query: "Dermochelys" ; Times: 3
+	Query: "fowleri" ; Times: 1
+	Query: "colocolo" ; Times: 1
+	Query: "scientificname:Upeneus taeniopterus mappable:1" ; Times: 1
+	Query: "105222" ; Times: 1
+	Query: "stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "stegostoma" ; Times: 1
+	Query: "owl" ; Times: 1
+	Query: "Upeneus francisi mappable:1" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "145084" ; Times: 1
+	Query: "elanus scriptus vntype:specimen year &gt;= 1950 year &lt;= 2020" ; Times: 2
+	Query: "puffinus western australia" ; Times: 1
+	Query: "Nematops" ; Times: 7
+	Query: "Upeneus asymmetricus mappable:1" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:hosei" ; Times: 1
+	Query: "stateprovince:&#34;Wales&#34;" ; Times: 3
+	Query: "Gymnoscopelus bolini" ; Times: 1
+	Query: "Uperoleia tyleri" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "Makaira nigricans  mappable:1" ; Times: 1
+	Query: "Gymnoscopelus piabilis" ; Times: 1
+	Query: "genus:rana" ; Times: 1
+	Query: "&#34;vulpes vulpes&#34;" ; Times: 1
+	Query: "canadensis" ; Times: 1
+	Query: "Upeneus japonicus mappable:1" ; Times: 1
+	Query: "Parupeneus chrysopleuron mappable:1" ; Times: 1
+	Query: "pteropus" ; Times: 1
+	Query: "Acanthiza apicalis" ; Times: 1
+	Query: "Alepisaurus" ; Times: 1
+	Query: "(dermoptera sunda)" ; Times: 3
+	Query: "ailurus fulgens" ; Times: 3
+	Query: "Gymnoscopelus opisthopterus" ; Times: 1
+	Query: "scientificname:Upeneus asymmetricus mappable:1" ; Times: 1
+	Query: "genus:Ficedula country:&#34;indonesia&#34;" ; Times: 1
+	Query: "scientificname:Parupeneus trifasciatus mappable:1" ; Times: 1
+	Query: "puffinus abrolhos" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1929" ; Times: 1
+	Query: "class:Mammalia" ; Times: 5
+	Query: "Parnell" ; Times: 2
+	Query: "leptobrachium hasselti" ; Times: 1
+	Query: "boeleni" ; Times: 1
+	Query: "Wood duck" ; Times: 3
+	Query: "deer" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "(panda)" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "Vinciguerria attenuata" ; Times: 1
+	Query: "Brachionichthys" ; Times: 1
+	Query: "scientificname:Parupeneus crassilabris mappable:1" ; Times: 2
+	Query: "chaeropus" ; Times: 1
+	Query: "113004" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "uromys" ; Times: 1
+	Query: "Upeneus filifer mappable:1" ; Times: 1
+	Query: "Pelamis Platurus" ; Times: 1
+	Query: "scientificname:Upeneus heemstra mappable:1" ; Times: 3
+	Query: "Osprey" ; Times: 1
+	Query: "coraciidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:AM" ; Times: 2
+	Query: "Microdesmus" ; Times: 1
+	Query: "rhinogobius" ; Times: 11
+	Query: "year &gt;= 2013 year &lt;= 2020" ; Times: 1
+	Query: "Australia genus:Moloch" ; Times: 1
+	Query: "pascua" ; Times: 1
+	Query: "Acanthis flammea" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 5
+	Query: "fishes" ; Times: 1
+	Query: "17179" ; Times: 2
+	Query: "7239" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 2
+	Query: "genus:Litoria specificepithet:chloris" ; Times: 2
+	Query: "LEOPARDUS" ; Times: 2
+	Query: "7742" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "Achirus" ; Times: 1
+	Query: "Microbrotula" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 162 (out of 1023 download events in this period)
+Total number of records downloaded: 25538
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 12
+	Country: Egypt ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: South Africa ; Times: 17
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: El Salvador ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Argentina ; Times: 4
+	Country: United States ; Times: 103
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 19
+	Date: 2020-02-05 ; Times: 19
+	Date: 2020-02-02 ; Times: 11
+	Date: 2020-02-03 ; Times: 18
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-01 ; Times: 4
+	Date: 2020-02-20 ; Times: 4
+	Date: 2020-02-21 ; Times: 6
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 10
+	Date: 2020-02-11 ; Times: 9
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 4
+	Date: 2020-02-17 ; Times: 4
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-27 ; Times: 9
+	Date: 2020-02-06 ; Times: 17
+	Date: 2020-02-07 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampadena notialis" ; Times: 1
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "Burhinus grallarius" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "Lepidophanes guentheri" ; Times: 1
+	Query: "Metelectrona ventralis" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Antechinus swainsonii" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "vntype:specimen genus:Graphiurus" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "genus:galea" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Krefftichthys anderssoni" ; Times: 1
+	Query: "Gymnoscopelus braueri" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "lagorchestes leporides" ; Times: 1
+	Query: "Oceanodroma leucorhoa year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Antechinus flavipes" ; Times: 1
+	Query: "Gymnoscopelus hintonoides" ; Times: 1
+	Query: "Gymnoscopelus fraseri" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Antechinus agilis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Symphalangus" ; Times: 1
+	Query: "mammalia" ; Times: 1
+	Query: "Lampadena speculigera" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "Monachus" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "west java" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "&#34;Cerastes vipera&#34;" ; Times: 1
+	Query: "Phascogale calura" ; Times: 1
+	Query: "Gymnoscopelus bolini" ; Times: 1
+	Query: "Hintonia candens" ; Times: 1
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Grammomys dolichurus" ; Times: 1
+	Query: "Gymnoscopelus piabilis" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "Gymnoscopelus opisthopterus" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "Sminthopsis murina" ; Times: 1
+	Query: "class:Mammalia" ; Times: 1
+	Query: "Hygophum hanseni" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:Graphiurus" ; Times: 2
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "order:Rodentia" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "Lobianchia dofleini" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "rhinogobius" ; Times: 3
+	Query: "class:Aves" ; Times: 1
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Dermoptera" ; Times: 26
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+
+
+End of report.
